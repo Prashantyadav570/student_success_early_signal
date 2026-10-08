@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit secrets
+.streamlit/secrets.toml
+python/.streamlit/secrets.toml
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py

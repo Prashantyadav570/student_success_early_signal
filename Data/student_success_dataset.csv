@@ -1,0 +1,2011 @@
+student_id,name,gender,course,semester,attendance,internal_marks,assignment_completion,previous_gpa,failed_subjects,study_hours,previous_semester_marks,practical_marks,class_participation,risk_level
+STU0001,Aryan Joshi,Male,BBA,1,52.0,66.9,100.0,8.44,1,1.9,60.6,46.9,61.5,High
+STU0002,Rohan Khan,Male,BSc IT,1,82.9,50.7,64.2,8.65,0,3.5,75.1,63.2,64.8,Medium
+STU0003,Diya Deshmukh,Female,BSc CS,3,91.4,36.5,98.9,9.61,0,2.4,78.7,67.5,64.4,Medium
+STU0004,Aryan Verma,Female,BSc CS,2,100.0,67.8,95.0,6.05,0,2.8,78.5,84.0,66.8,Medium
+STU0005,Varun Pawar,Female,BCom,6,54.0,78.5,54.0,5.72,0,2.9,66.8,51.8,48.3,High
+STU0006,Kavya Khan,Male,BSc CS,4,82.5,60.4,90.6,7.98,2,3.1,49.4,78.0,50.5,High
+STU0007,Amit Jadhav,Male,BSc IT,3,65.9,87.0,60.3,7.86,0,5.2,55.8,68.3,50.1,Medium
+STU0008,Akash Singh,Male,BSc CS,1,83.8,52.7,38.4,7.96,0,3.3,73.9,72.1,32.6,Medium
+STU0009,Aditya Jadhav,Female,BCA,5,49.9,47.1,64.4,9.63,0,5.3,100.0,82.4,71.8,High
+STU0010,Neha Kulkarni,Female,BSc CS,2,53.1,62.9,79.2,6.82,0,6.3,59.9,48.8,82.9,High
+STU0011,Arjun Patil,Male,BBA,5,60.4,62.7,63.7,7.44,0,5.0,71.8,80.2,80.9,Medium
+STU0012,Aarav More,Female,BCA,6,73.2,76.3,66.5,5.33,0,4.5,56.7,59.5,59.8,High
+STU0013,Neha Shah,Male,BCom,3,62.4,51.6,92.6,10.0,1,4.1,50.4,84.4,48.8,High
+STU0014,Sneha Khan,Female,BBA,1,81.9,85.9,73.9,6.3,0,5.1,54.9,73.0,79.9,High
+STU0015,Karan More,Male,BSc IT,4,87.4,95.5,56.8,6.34,0,3.7,33.8,64.9,77.8,High
+STU0016,Sahil Kulkarni,Female,BSc IT,5,81.0,63.4,84.6,6.28,0,5.3,85.3,59.1,69.3,High
+STU0017,Rohan Kulkarni,Male,BSc IT,4,96.3,84.0,75.6,5.83,1,4.6,31.5,80.3,99.9,High
+STU0018,Varun More,Male,BBA,6,78.2,47.1,26.6,5.71,0,2.9,61.0,86.9,64.5,High
+STU0019,Vishal Shah,Male,BBA,1,53.7,81.2,79.7,6.01,1,5.1,47.3,60.0,59.9,High
+STU0020,Akash Gupta,Male,BBA,5,92.5,80.8,79.1,4.75,2,3.7,51.7,51.0,57.0,High
+STU0021,Varun Pawar,Male,BCA,6,62.9,77.8,72.4,5.62,1,3.3,85.6,78.4,33.8,High
+STU0022,Isha Pawar,Male,BCA,4,85.7,63.8,88.1,9.72,0,2.6,68.0,46.3,78.2,Medium
+STU0023,Tanvi Joshi,Female,BSc IT,4,95.6,20.0,59.9,7.9,1,3.8,50.5,48.4,62.9,High
+STU0024,Riya Patil,Female,BSc CS,5,78.9,53.7,78.1,8.19,1,5.3,56.2,52.1,75.2,High
+STU0025,Isha Verma,Female,BSc IT,1,49.6,54.0,43.8,8.57,0,5.1,53.5,61.8,100.0,High
+STU0026,Aditya Joshi,Male,BCom,4,58.2,48.3,79.3,,2,4.1,64.3,48.0,57.2,High
+STU0027,Rohan More,Male,BCA,3,91.8,66.0,100.0,4.14,2,4.6,67.6,38.9,18.2,High
+STU0028,Aryan More,Female,BBA,6,69.5,57.3,54.1,4.96,2,5.8,93.4,51.0,74.6,High
+STU0029,Diya Yadav,Male,BCA,5,73.2,50.8,58.3,5.59,2,3.2,36.3,77.6,68.3,High
+STU0030,Riya Sharma,Male,BBA,2,83.4,47.1,59.2,6.1,1,1.5,64.5,48.9,50.4,High
+STU0031,Amit Patil,Male,BCom,2,,52.6,74.3,6.35,1,5.8,60.3,62.9,72.9,High
+STU0032,Diya Joshi,Male,BCom,1,76.2,81.9,52.9,6.13,1,2.5,79.2,97.2,80.7,High
+STU0033,Aditya Kulkarni,Male,BCA,3,68.9,53.4,79.6,7.13,2,2.3,70.3,67.3,46.1,High
+STU0034,Arjun Singh,Female,BBA,4,67.3,55.8,87.2,6.85,1,0.5,73.9,73.1,59.0,High
+STU0035,Karan Joshi,Female,BCom,2,84.9,56.7,81.6,5.72,0,4.5,70.2,53.8,94.5,High
+STU0036,Tanvi Verma,Female,BSc IT,1,80.3,69.4,40.2,3.54,0,0.6,51.0,100.0,50.6,High
+STU0037,Neha Patil,Female,BSc IT,6,68.1,71.3,89.9,5.31,2,2.1,83.2,59.9,66.3,High
+STU0038,Karan Kulkarni,Female,BBA,3,88.2,20.0,88.9,5.98,0,4.6,77.0,64.6,12.5,High
+STU0039,Amit Kulkarni,Male,BCA,3,70.1,80.3,86.9,6.43,1,4.8,78.7,87.8,35.4,High
+STU0040,Sahil Jadhav,Male,BCom,1,59.2,87.0,78.7,12.0,3,2.3,84.0,65.3,68.2,High
+STU0041,Riya Pawar,Male,BCA,1,60.6,47.2,76.0,6.06,1,3.3,71.3,68.7,89.6,High
+STU0042,Diya Gupta,Male,BSc IT,4,57.3,48.4,90.6,5.1,4,1.9,87.2,63.8,37.8,High
+STU0043,Sahil Deshmukh,Female,BCom,1,67.9,56.8,100.0,6.61,1,2.5,70.7,63.9,66.5,High
+STU0044,Tanvi Gupta,Female,BCA,4,90.5,51.9,54.8,5.19,0,4.0,61.7,73.6,57.5,High
+STU0045,Rahul Shah,Female,BSc CS,4,59.9,67.6,91.4,5.53,2,2.6,64.9,76.3,84.1,High
+STU0046,Rohan Deshmukh,Male,BBA,5,74.8,32.9,70.4,4.84,0,3.1,64.6,58.4,40.6,High
+STU0047,Aarav Shah,Female,BBA,3,62.1,46.1,69.7,6.57,0,0.9,57.2,56.5,73.6,High
+STU0048,Aryan Shah,Male,BSc CS,6,68.1,88.6,44.3,5.5,0,5.5,89.5,58.9,51.9,High
+STU0049,Aarav More,Female,BSc IT,3,49.3,49.1,66.9,8.16,0,4.4,69.4,47.0,69.5,High
+STU0050,Diya Jadhav,Female,BCom,3,68.7,83.9,54.0,7.41,0,4.9,66.4,44.1,66.4,Medium
+STU0051,Kavya Yadav,Male,BBA,5,69.1,69.7,63.7,6.7,0,5.8,70.8,72.5,60.0,High
+STU0052,Sneha Jadhav,Male,BSc CS,4,80.1,35.1,52.2,5.6,1,2.0,100.0,82.1,74.6,High
+STU0053,Akash Yadav,Female,BSc CS,4,75.3,74.2,63.9,7.37,2,2.9,48.0,81.1,65.9,High
+STU0054,Aarav Khan,Female,BSc IT,1,54.0,62.1,64.7,7.84,0,0.5,52.3,32.3,62.3,High
+STU0055,Ananya Verma,Male,BSc IT,5,88.3,56.7,73.7,7.01,0,9.2,44.3,64.3,57.9,High
+STU0056,Aryan Verma,Female,BCA,1,75.2,67.9,42.9,9.21,1,3.2,61.5,51.5,66.6,Medium
+STU0057,Isha More,Female,BBA,5,75.0,71.6,46.0,7.49,1,5.4,68.7,70.2,69.4,High
+STU0058,Aryan Shah,Male,BCA,1,71.9,75.3,78.5,8.17,2,1.3,58.0,61.7,45.2,High
+STU0059,Diya More,Female,BSc CS,2,64.2,82.9,57.6,7.0,0,5.3,56.9,76.9,58.0,High
+STU0060,Aditya Sharma,Male,BCom,3,75.3,70.5,91.3,7.81,2,6.8,67.1,67.7,43.9,High
+STU0061,Sahil Pawar,Female,BCom,3,79.1,42.0,76.1,5.6,0,3.4,57.5,39.6,64.2,High
+STU0062,Ananya Yadav,Male,BSc IT,6,45.8,56.4,82.9,6.11,1,1.7,69.7,53.5,53.2,High
+STU0063,Neha Jadhav,Female,BCom,4,63.9,100.0,97.4,7.32,0,3.3,81.7,68.1,80.4,Medium
+STU0064,Akash Sharma,Male,BCom,6,68.2,75.6,66.4,7.31,0,0.5,75.2,69.4,78.5,High
+STU0065,Akash Gupta,Female,BCom,2,75.8,100.0,61.7,7.56,0,3.4,78.2,46.9,46.5,Medium
+STU0066,Rohan Kulkarni,Male,BSc CS,6,89.9,86.3,87.7,8.45,0,5.0,81.3,45.0,65.0,Medium
+STU0067,Akash Sharma,Female,BCom,3,60.4,67.9,81.2,4.66,0,3.4,69.2,68.8,77.8,High
+STU0068,Ananya Verma,Female,BCom,4,64.5,68.8,68.6,5.34,2,3.0,62.6,46.9,61.5,High
+STU0069,Riya Pawar,Female,BCom,2,64.3,63.4,97.0,7.14,1,4.4,53.4,43.0,50.4,High
+STU0070,Isha Verma,Female,BCA,3,60.0,36.2,68.2,5.71,1,4.6,59.1,61.3,43.2,High
+STU0071,Karan More,Female,BSc CS,1,66.8,64.3,72.6,10.0,0,0.5,57.1,60.7,82.1,Medium
+STU0072,Rahul Yadav,Female,BSc IT,5,83.6,83.4,72.4,7.57,0,3.7,76.0,54.8,83.1,Medium
+STU0073,Aryan Sharma,Female,BCA,2,56.2,54.4,55.2,6.68,3,7.9,70.2,57.4,60.8,High
+STU0074,Vishal Deshmukh,Female,BBA,4,78.4,70.6,73.4,6.03,1,1.1,75.5,68.2,80.3,High
+STU0075,Amit Kulkarni,Female,BSc CS,6,46.5,77.6,97.1,6.08,0,3.3,47.6,57.2,10.0,High
+STU0076,Ananya Pawar,Male,BSc CS,6,63.6,49.4,80.0,6.85,0,7.0,86.5,69.1,91.6,Medium
+STU0077,Aryan Deshmukh,Male,BBA,2,67.1,56.8,72.6,6.97,1,5.5,58.6,62.3,61.9,High
+STU0078,Rohan Khan,Female,BBA,4,97.1,47.7,69.1,6.11,0,2.6,48.5,70.5,67.8,High
+STU0079,Amit Deshmukh,Male,BBA,2,67.9,50.8,78.0,6.39,0,3.9,58.4,81.2,58.6,High
+STU0080,Aryan Khan,Female,BSc IT,4,39.0,43.4,85.5,8.82,2,3.5,100.0,80.6,92.9,High
+STU0081,Varun Singh,Female,BCom,6,42.0,49.6,83.0,8.88,1,2.2,59.2,87.3,43.8,High
+STU0082,Aditya Verma,Male,BSc CS,3,72.5,86.7,66.0,7.18,1,3.4,60.1,80.6,94.5,Medium
+STU0083,Rahul Kulkarni,Female,BCom,1,81.2,49.4,77.8,4.79,0,3.0,62.1,71.6,72.9,High
+STU0084,Arjun More,Female,BCom,3,77.6,66.0,80.6,7.61,0,3.7,62.8,61.5,77.5,Medium
+STU0085,Neha More,Male,BBA,1,74.5,56.0,53.9,9.13,3,2.2,53.3,62.2,58.4,High
+STU0086,Vishal Kulkarni,Male,BSc IT,6,89.4,82.9,75.0,8.85,2,1.2,67.1,54.8,38.8,High
+STU0087,Kavya Verma,Female,BCA,3,63.9,85.0,33.1,7.9,0,3.4,81.1,68.1,83.6,High
+STU0088,Aryan Kulkarni,Male,BSc IT,3,85.4,77.8,80.7,8.93,0,6.6,69.7,78.5,71.2,Medium
+STU0089,Aarav Sharma,Male,BCom,2,47.5,68.9,83.9,6.88,0,3.6,48.3,57.1,92.2,High
+STU0090,Vishal Deshmukh,Female,BSc IT,5,58.4,60.3,85.5,7.74,0,2.9,59.8,67.4,61.1,High
+STU0091,Isha Yadav,Male,BBA,6,44.9,44.9,64.9,5.78,1,4.9,56.7,57.8,56.6,High
+STU0092,Aryan Singh,Male,BCA,4,67.9,95.1,77.6,7.24,3,3.2,65.8,71.1,92.8,High
+STU0093,Diya Khan,Female,BBA,6,71.3,51.8,97.6,8.79,0,6.9,85.0,59.8,100.0,Medium
+STU0094,Isha Kulkarni,Male,BCA,4,73.7,74.6,97.4,5.92,0,3.5,62.8,56.9,65.2,Medium
+STU0095,Ananya Sharma,Male,BCom,4,72.9,81.0,71.5,5.51,2,4.8,63.7,57.8,49.9,High
+STU0096,Varun Verma,Female,BCA,1,58.1,55.1,74.5,6.95,0,2.1,91.7,75.5,81.2,Medium
+STU0097,Neha Jadhav,Female,BCA,4,69.1,80.6,92.0,6.46,3,4.4,78.1,66.5,59.9,High
+STU0098,Rohan Khan,Female,BCA,4,49.5,76.2,45.0,7.77,1,4.0,73.6,61.6,77.0,High
+STU0099,Isha Joshi,Male,BSc IT,2,92.4,91.6,66.2,6.12,3,3.4,94.4,71.9,59.8,High
+STU0100,Sneha Kulkarni,Female,BSc IT,3,67.4,56.5,96.0,9.38,0,2.6,72.3,61.8,96.3,Medium
+STU0101,Sneha Verma,Female,BCom,6,64.7,43.4,89.6,4.87,0,2.4,35.2,84.9,51.0,High
+STU0102,Vishal More,Male,BCA,6,95.8,55.9,78.6,8.68,0,4.0,77.5,53.4,74.6,Low
+STU0103,Aryan Patil,Female,BSc CS,4,53.4,67.3,44.9,5.65,0,4.6,41.1,65.2,55.2,High
+STU0104,Akash Sharma,Female,BCom,5,55.1,64.9,71.1,4.11,0,3.3,71.8,46.9,59.4,High
+STU0105,Ananya Sharma,Female,BCA,6,55.6,57.7,61.4,7.16,3,4.0,39.3,62.8,56.8,High
+STU0106,Sneha Khan,Female,BCA,4,71.0,33.5,78.0,6.42,2,3.4,58.0,42.8,79.8,High
+STU0107,Sneha Patil,Male,BSc IT,1,78.5,71.5,57.4,5.14,1,3.7,59.5,79.2,83.4,High
+STU0108,Aditya More,Female,BCom,1,83.1,95.6,53.5,4.28,0,3.1,53.4,79.5,76.2,High
+STU0109,Ananya Sharma,Female,BCA,1,100.0,71.4,34.8,6.79,1,3.5,59.8,79.8,62.8,High
+STU0110,Aarav Yadav,Male,BCA,4,38.3,73.7,94.0,8.26,1,8.4,80.5,68.4,67.8,Medium
+STU0111,Aditya Gupta,Female,BCom,2,81.1,73.2,64.8,7.68,0,4.1,54.3,54.8,83.0,High
+STU0112,Neha Verma,Male,BSc CS,5,63.6,70.4,74.8,6.89,3,4.7,73.2,56.0,83.6,High
+STU0113,Arjun Pawar,Male,BCom,4,63.2,78.9,72.0,7.52,0,4.3,50.5,91.0,11.2,High
+STU0114,Amit Pawar,Male,BCom,2,62.7,70.3,52.8,6.76,0,3.0,62.2,89.5,59.6,High
+STU0115,Kavya Jadhav,Female,BSc CS,2,58.4,59.0,49.3,4.66,0,5.8,69.9,69.8,60.5,High
+STU0116,Sneha Singh,Male,BCom,6,97.3,51.3,53.9,4.67,1,3.0,50.1,60.3,78.4,High
+STU0117,Ananya Joshi,Male,BCA,4,84.6,60.0,59.0,6.5,1,5.4,45.3,88.5,63.7,High
+STU0118,Aditya Singh,Male,BCom,4,72.3,69.0,78.6,6.56,0,2.9,72.4,57.6,79.4,High
+STU0119,Kavya Sharma,Female,BSc CS,2,92.3,58.9,57.7,8.08,0,1.8,81.8,71.4,43.4,Medium
+STU0120,Isha More,Female,BBA,2,49.3,69.0,100.0,7.94,0,4.2,63.8,88.3,70.2,Medium
+STU0121,Arjun Deshmukh,Female,BCom,2,52.0,71.0,90.5,7.71,0,1.5,58.1,55.5,83.0,High
+STU0122,Akash Joshi,Female,BSc IT,6,39.3,77.3,86.6,6.38,0,4.5,67.3,80.4,35.5,Medium
+STU0123,Amit Yadav,Female,BCA,4,61.5,84.5,69.8,4.73,0,1.4,65.8,75.8,100.0,High
+STU0124,Akash Yadav,Female,BCA,2,74.4,65.2,99.3,7.42,0,2.9,68.6,67.4,88.8,Medium
+STU0125,Vishal Pawar,Female,BSc IT,1,73.5,43.1,68.1,7.59,2,0.9,27.1,53.1,65.0,High
+STU0126,Vishal Shah,Male,BSc IT,4,74.2,58.5,71.4,3.22,0,8.6,49.0,57.1,48.4,High
+STU0127,Aarav Jadhav,Male,BCom,6,50.8,64.7,75.1,5.55,1,0.5,52.3,72.3,61.5,High
+STU0128,Aryan Patil,Male,BSc IT,1,84.0,34.6,84.6,5.76,0,3.5,67.3,46.6,66.7,High
+STU0129,Diya Sharma,Male,BBA,3,75.6,86.2,83.5,6.98,0,5.6,67.8,70.0,73.8,Medium
+STU0130,Kavya More,Female,BSc CS,4,83.0,66.3,63.4,5.59,0,5.4,74.5,76.1,95.0,High
+STU0131,Tanvi Pawar,Male,BSc IT,3,43.6,70.1,62.4,6.74,0,5.0,68.9,82.8,55.5,High
+STU0132,Karan Yadav,Male,BSc IT,2,76.7,85.8,83.5,6.48,0,2.9,45.5,47.0,76.3,Medium
+STU0133,Aryan More,Male,BBA,6,54.2,53.9,84.9,6.56,2,5.9,86.7,87.7,39.2,High
+STU0134,Sahil Verma,Male,BCA,2,66.0,73.2,64.9,5.73,3,5.1,84.1,93.4,56.7,High
+STU0135,Sahil Shah,Female,BCA,6,80.0,62.2,43.4,5.84,0,3.9,46.1,74.2,72.5,High
+STU0136,Vishal More,Female,BCom,5,73.4,61.1,68.3,5.18,0,3.9,70.0,52.4,78.8,High
+STU0137,Sneha Patil,Female,BBA,2,59.2,51.6,83.2,7.37,3,3.0,56.1,63.1,49.9,High
+STU0138,Aarav Kulkarni,Male,BSc CS,3,72.1,90.6,100.0,7.66,0,1.9,67.1,67.3,56.2,Medium
+STU0139,Neha Gupta,Female,BSc CS,6,49.0,58.0,50.4,5.64,1,5.7,80.8,72.1,94.2,High
+STU0140,Ananya Khan,Male,BBA,2,89.3,75.2,64.3,9.08,3,5.9,97.0,68.3,88.2,High
+STU0141,Isha Shah,Female,BSc CS,4,68.9,34.0,65.0,6.33,3,1.9,76.3,72.2,69.2,High
+STU0142,Akash Yadav,Female,BCA,6,88.8,82.9,96.4,9.1,0,3.2,69.4,66.6,20.3,Medium
+STU0143,Sahil Yadav,Female,BSc CS,6,64.1,80.8,71.4,5.84,0,3.2,59.9,72.0,100.0,High
+STU0144,Vishal Jadhav,Female,BSc CS,2,64.1,65.6,55.7,3.76,0,3.4,67.7,61.1,64.6,High
+STU0145,Aarav Jadhav,Female,BBA,5,60.5,60.4,82.1,7.4,2,3.6,85.4,62.9,58.7,High
+STU0146,Vishal Khan,Male,BBA,2,85.1,70.4,64.7,7.17,2,5.2,64.3,59.4,54.6,High
+STU0147,Sneha Jadhav,Female,BSc CS,3,61.4,100.0,50.0,6.85,1,2.2,51.7,96.8,72.5,High
+STU0148,Amit Singh,Male,BSc IT,3,81.7,35.8,55.9,5.84,1,2.0,40.7,90.0,72.7,High
+STU0149,Diya Joshi,Male,BBA,6,66.3,76.5,100.0,6.75,1,5.7,72.7,76.3,84.0,High
+STU0150,Akash Kulkarni,Male,BCom,6,42.4,49.4,78.9,6.03,1,2.7,68.7,87.9,46.5,High
+STU0151,Akash Shah,Male,BCom,2,63.4,63.7,73.9,6.35,2,1.2,55.3,80.0,58.8,High
+STU0152,Tanvi Kulkarni,Male,BCA,3,54.3,60.0,67.5,8.06,1,2.6,80.4,70.7,100.0,High
+STU0153,Tanvi Patil,Female,BSc CS,3,72.5,57.1,77.3,7.08,0,2.9,58.7,45.4,69.5,High
+STU0154,Akash Deshmukh,Female,BSc IT,5,54.1,63.8,77.0,7.71,0,6.3,63.0,64.1,61.5,Medium
+STU0155,Isha Joshi,Female,BCA,4,85.9,45.9,77.3,6.45,1,5.2,64.8,63.0,46.2,High
+STU0156,Aarav Joshi,Female,BSc CS,5,70.6,80.5,74.1,6.29,0,5.6,59.7,51.0,75.1,High
+STU0157,Aarav Kulkarni,Male,BBA,1,69.3,35.3,87.6,5.07,0,5.0,68.5,45.7,85.6,High
+STU0158,Sahil Joshi,Female,BCom,5,81.8,72.6,72.4,6.24,2,5.2,82.3,75.4,82.5,High
+STU0159,Diya Pawar,Female,BSc IT,2,86.5,58.8,54.4,2.0,1,2.3,47.9,72.9,59.8,High
+STU0160,Akash Sharma,Male,BCom,4,71.7,45.3,61.0,5.91,3,3.1,72.3,50.5,72.2,High
+STU0161,Aarav More,Male,BBA,2,60.4,67.2,36.4,6.68,0,1.7,67.6,56.8,98.4,High
+STU0162,Varun Singh,Female,BSc CS,1,45.4,39.1,100.0,7.65,1,3.1,67.3,85.4,86.4,High
+STU0163,Riya Kulkarni,Female,BBA,4,61.7,64.6,87.5,6.4,0,4.7,78.1,54.8,49.3,High
+STU0164,Arjun Singh,Male,BBA,6,62.7,41.2,57.1,7.32,2,3.7,65.7,70.6,14.1,High
+STU0165,Rahul Yadav,Female,BCom,3,73.6,71.4,66.9,3.53,0,5.9,72.2,65.2,70.9,High
+STU0166,Diya Khan,Female,BSc IT,5,66.8,49.2,60.5,6.71,1,1.4,75.7,75.6,81.0,High
+STU0167,Aditya Gupta,Female,BBA,2,82.3,56.8,99.8,4.28,1,4.4,57.4,55.2,43.2,High
+STU0168,Aarav More,Female,BCom,1,62.8,68.7,46.4,4.99,0,1.3,69.5,69.4,64.8,High
+STU0169,Rohan Sharma,Male,BSc IT,3,71.1,51.6,74.1,6.52,3,3.7,61.2,70.5,59.7,High
+STU0170,Ananya More,Male,BSc CS,5,89.8,63.1,70.0,8.71,2,4.8,63.0,71.5,67.1,High
+STU0171,Sahil Yadav,Male,BSc CS,3,77.1,39.8,86.9,7.36,0,3.1,60.2,69.2,54.1,Medium
+STU0172,Amit Yadav,Female,BCA,5,71.1,74.1,70.1,6.83,0,4.5,72.1,73.2,90.8,High
+STU0173,Sneha Sharma,Female,BCom,6,63.0,92.2,40.4,6.77,0,1.8,66.2,100.0,68.0,High
+STU0174,Neha More,Female,BSc IT,4,62.5,100.0,67.5,5.73,0,0.5,70.9,100.0,47.4,High
+STU0175,Riya Gupta,Female,BBA,3,59.2,65.5,54.5,5.98,2,4.5,64.7,58.4,83.3,High
+STU0176,Arjun Yadav,Female,BSc CS,3,63.9,76.6,73.4,7.44,3,6.6,40.9,33.2,39.7,High
+STU0177,Isha Gupta,Male,BSc IT,3,83.3,35.5,97.8,4.72,0,1.7,65.5,76.9,90.7,High
+STU0178,Sneha Kulkarni,Female,BCom,4,68.7,88.0,40.7,7.69,0,5.7,66.0,70.8,84.8,High
+STU0179,Akash More,Female,BCA,1,51.8,76.4,57.6,6.22,0,3.6,68.6,83.9,92.8,High
+STU0180,Aarav Joshi,Male,BSc CS,5,98.5,56.3,62.1,8.04,0,1.1,56.1,72.3,61.8,Medium
+STU0181,Aarav Yadav,Female,BSc IT,6,76.8,83.8,65.1,8.24,0,1.5,47.1,68.9,55.1,Medium
+STU0182,Tanvi Shah,Male,BSc IT,3,50.9,59.9,85.3,4.29,0,3.5,74.4,84.9,66.7,High
+STU0183,Karan Singh,Male,BSc IT,4,65.4,56.7,68.9,5.93,0,2.8,60.9,87.0,63.3,High
+STU0184,Akash Jadhav,Male,BCom,1,73.7,71.6,79.5,5.52,1,1.1,67.6,47.2,51.9,High
+STU0185,Riya Jadhav,Male,BCom,5,97.6,47.0,60.7,4.08,1,0.5,60.8,55.8,53.9,High
+STU0186,Tanvi Singh,Male,BCom,4,55.4,80.3,76.1,5.25,0,2.0,64.9,66.4,57.7,High
+STU0187,Aditya Khan,Female,BBA,6,86.6,47.1,86.0,10.0,2,3.8,58.3,69.5,41.6,High
+STU0188,Karan Patil,Male,BSc IT,6,93.0,47.2,58.8,7.71,1,3.5,50.5,64.6,78.6,High
+STU0189,Sneha Jadhav,Male,BSc CS,5,62.6,49.4,86.1,9.68,2,2.6,72.1,74.5,64.0,High
+STU0190,Aarav Shah,Female,BCom,3,67.8,76.2,72.9,8.04,0,3.9,56.0,82.9,58.8,Medium
+STU0191,Kavya Singh,Female,BCom,6,56.5,54.1,90.8,5.69,2,5.4,67.5,93.8,42.8,High
+STU0192,Sahil Pawar,Male,BSc IT,1,68.9,42.4,68.4,6.23,2,4.2,71.2,76.7,41.8,High
+STU0193,Karan Pawar,Female,BCom,4,71.5,54.3,78.9,7.68,0,3.3,56.2,55.2,100.0,High
+STU0194,Akash Patil,Female,BBA,1,81.9,63.5,71.3,7.46,0,5.2,46.9,65.8,52.5,Medium
+STU0195,Rahul More,Male,BBA,3,88.4,45.1,70.3,5.93,3,1.8,100.0,66.9,77.2,High
+STU0196,Aryan Shah,Male,BCom,1,60.8,45.6,76.7,4.54,1,3.1,57.1,75.7,68.3,High
+STU0197,Amit Deshmukh,Female,BSc IT,1,42.5,97.8,81.7,10.0,3,3.1,74.4,73.8,10.0,High
+STU0198,Vishal Sharma,Male,BSc IT,2,71.7,50.2,49.5,6.59,1,1.3,94.1,98.8,100.0,High
+STU0199,Diya Kulkarni,Male,BSc IT,1,76.4,58.8,97.8,6.31,1,2.7,76.8,61.1,78.7,High
+STU0200,Sahil Kulkarni,Female,BCA,5,75.7,58.1,38.5,6.97,0,0.5,60.5,73.8,49.6,High
+STU0201,Neha Yadav,Male,BCom,4,67.1,57.3,59.7,6.44,0,6.9,64.0,100.0,64.4,High
+STU0202,Rohan More,Male,BSc IT,2,73.9,73.9,70.3,6.98,3,1.8,52.5,59.2,42.0,High
+STU0203,Aditya Patil,Male,BBA,4,94.7,79.2,79.4,8.73,0,6.4,78.2,70.2,100.0,Low
+STU0204,Varun Shah,Male,BSc CS,4,77.7,59.1,100.0,6.61,0,3.6,73.5,53.8,46.8,Medium
+STU0205,Sneha Joshi,Male,BSc CS,3,66.4,44.2,38.6,5.06,1,4.5,57.3,69.2,54.5,High
+STU0206,Karan Singh,Female,BSc IT,3,64.5,84.4,62.9,6.56,1,2.6,49.4,56.3,50.4,High
+STU0207,Rohan Singh,Female,BSc CS,2,69.5,62.5,33.7,6.1,0,3.9,45.2,83.7,66.6,High
+STU0208,Kavya More,Male,BSc CS,6,96.6,91.7,72.6,8.94,0,4.7,79.8,70.2,92.4,Medium
+STU0209,Ananya Sharma,Female,BCA,3,150.0,28.1,76.9,8.56,0,4.7,66.8,54.0,100.0,High
+STU0210,Diya Gupta,Male,BBA,3,71.7,67.1,100.0,6.96,0,4.9,68.2,80.6,57.0,Medium
+STU0211,Neha More,Male,BBA,3,64.8,94.7,74.2,4.88,1,2.8,52.7,70.7,72.6,High
+STU0212,Ananya Pawar,Male,BCA,4,88.5,58.3,90.8,4.96,0,2.6,43.0,82.3,66.6,High
+STU0213,Amit Singh,Male,BCA,2,100.0,60.4,82.5,6.82,2,0.6,79.4,50.8,45.4,High
+STU0214,Rahul Joshi,Male,BSc CS,4,78.8,68.7,64.2,7.3,2,4.4,65.6,73.5,100.0,High
+STU0215,Rohan Yadav,Female,BCom,5,73.2,55.1,46.6,6.24,1,5.4,78.6,79.6,92.3,High
+STU0216,Diya Joshi,Female,BSc CS,4,72.6,59.0,77.0,6.08,0,6.4,59.2,61.6,68.8,High
+STU0217,Sahil Deshmukh,Male,BCA,5,36.2,58.6,45.1,5.91,0,4.0,61.4,49.1,96.6,High
+STU0218,Tanvi More,Female,BBA,1,83.2,54.0,95.3,6.76,0,2.1,75.7,67.4,89.2,High
+STU0219,Karan Kulkarni,Male,BSc CS,1,74.0,83.7,69.1,3.23,0,0.5,76.0,86.4,66.6,High
+STU0220,Varun Sharma,Female,BCom,5,78.4,71.4,93.5,5.15,2,5.4,77.0,84.9,71.5,High
+STU0221,Varun More,Male,BSc CS,5,61.3,68.0,63.4,5.86,0,0.5,60.6,61.6,95.2,High
+STU0222,Ananya Verma,Female,BSc IT,4,66.2,76.9,76.8,8.61,2,2.9,74.2,48.8,46.1,High
+STU0223,Isha More,Male,BSc CS,5,65.8,59.8,75.8,5.58,0,3.1,81.6,61.5,98.5,High
+STU0224,Aarav Verma,Male,BCA,2,87.3,51.6,71.2,7.07,0,3.4,63.4,61.0,60.5,High
+STU0225,Aarav Patil,Female,BBA,1,66.3,54.4,64.2,7.14,3,3.6,57.3,74.7,95.5,High
+STU0226,Sahil Shah,Female,BBA,1,100.0,64.0,79.1,8.75,1,3.7,85.1,66.4,64.9,High
+STU0227,Diya Deshmukh,Male,BCA,6,78.5,47.1,55.3,8.69,0,0.5,55.2,56.7,71.8,High
+STU0228,Aarav Deshmukh,Female,BSc IT,5,52.9,56.0,50.2,6.71,0,3.5,74.4,84.6,64.3,High
+STU0229,Aryan Gupta,Male,BCA,3,70.1,55.7,94.4,6.09,0,0.5,64.1,70.1,54.4,High
+STU0230,Akash More,Female,BSc CS,3,62.2,98.0,85.1,5.8,1,4.8,37.4,74.5,59.6,High
+STU0231,Sahil Yadav,Female,BCA,5,39.1,20.0,73.2,6.44,0,2.5,81.9,42.1,92.6,High
+STU0232,Ananya Singh,Male,BCA,2,96.0,61.1,100.0,6.15,1,0.5,23.6,31.6,18.7,High
+STU0233,Riya More,Female,BSc IT,3,82.5,91.6,67.2,7.63,1,2.0,35.2,46.4,40.2,High
+STU0234,Ananya Sharma,Female,BSc CS,6,80.0,65.9,95.8,7.43,2,2.5,72.9,60.8,50.5,High
+STU0235,Riya Kulkarni,Male,BCom,5,74.5,76.1,75.2,7.69,0,5.6,72.9,76.6,43.4,High
+STU0236,Vishal Gupta,Female,BCom,2,51.3,65.6,53.6,8.69,0,3.9,55.4,32.9,95.2,High
+STU0237,Neha Verma,Male,BBA,2,64.7,53.3,100.0,9.59,1,4.1,67.2,91.9,90.2,Low
+STU0238,Sahil Gupta,Male,BCA,4,84.6,28.1,89.8,6.99,0,5.6,27.0,70.6,76.8,High
+STU0239,Aryan Joshi,Male,BBA,2,56.2,67.3,69.8,8.45,0,3.3,75.6,88.4,52.2,Medium
+STU0240,Aarav Kulkarni,Male,BSc IT,3,34.0,51.6,85.1,6.27,0,4.9,68.7,54.7,91.7,High
+STU0241,Ananya Pawar,Male,BCom,3,68.6,51.2,64.7,12.0,0,4.7,64.3,75.6,33.2,High
+STU0242,Karan Singh,Female,BCA,5,69.9,56.0,86.9,8.39,0,1.2,65.3,69.3,100.0,Medium
+STU0243,Ananya Joshi,Male,BSc IT,5,74.0,91.9,29.0,8.31,0,6.2,72.4,80.3,51.3,Medium
+STU0244,Aditya Joshi,Male,BSc IT,2,82.9,100.0,53.6,6.94,3,0.9,64.6,64.5,59.8,High
+STU0245,Karan Verma,Female,BCA,6,81.6,67.5,89.6,5.8,1,5.2,36.9,75.1,56.4,High
+STU0246,Varun Verma,Female,BSc IT,1,75.9,56.6,67.5,4.71,0,0.8,97.9,84.5,43.5,High
+STU0247,Aarav Jadhav,Female,BCA,4,89.9,45.2,75.7,6.74,0,4.6,83.0,58.2,100.0,Medium
+STU0248,Ananya Deshmukh,Male,BCA,1,49.2,71.5,47.8,9.1,1,6.9,45.7,71.6,80.8,High
+STU0249,Amit Jadhav,Male,BSc CS,2,79.6,92.5,100.0,6.34,2,3.1,59.8,39.7,89.3,High
+STU0250,Sahil Pawar,Male,BBA,2,81.4,60.0,93.4,7.98,0,3.0,61.5,78.5,40.5,Medium
+STU0251,Aditya Sharma,Female,BSc IT,1,53.4,25.9,68.4,8.07,2,4.6,81.2,97.3,68.6,High
+STU0252,Vishal Jadhav,Male,BSc IT,4,49.5,74.7,64.7,6.37,1,2.9,32.6,49.3,75.4,High
+STU0253,Neha Patil,Female,BSc CS,1,60.8,79.8,90.5,8.77,0,6.8,57.5,66.6,70.4,Medium
+STU0254,Akash More,Male,BSc CS,5,62.1,38.6,100.0,2.44,3,3.8,38.6,81.2,41.8,High
+STU0255,Aarav Sharma,Female,BSc CS,3,83.3,66.8,89.2,4.97,1,2.9,60.7,68.5,86.5,High
+STU0256,Varun Khan,Male,BCom,6,62.8,71.2,100.0,5.43,2,2.5,57.9,70.5,67.4,High
+STU0257,Ananya More,Male,BCom,5,59.2,62.8,55.4,5.57,0,1.8,66.2,62.1,45.9,High
+STU0258,Akash Sharma,Male,BCom,3,62.8,51.3,57.3,7.3,1,2.4,55.9,61.6,27.9,High
+STU0259,Aarav Jadhav,Female,BCA,6,88.8,80.3,50.6,7.24,1,2.9,53.7,66.7,77.1,High
+STU0260,Karan Khan,Female,BSc IT,6,72.2,57.5,80.0,7.39,0,2.6,74.3,68.6,100.0,High
+STU0261,Neha Deshmukh,Male,BBA,6,69.3,40.2,75.2,7.69,1,2.3,71.8,50.3,44.7,High
+STU0262,Rahul More,Male,BCA,2,70.3,31.2,69.3,5.37,0,7.3,73.3,67.0,68.4,High
+STU0263,Riya Patil,Male,BSc IT,6,91.4,84.2,86.6,4.97,0,1.6,62.3,91.5,87.2,Medium
+STU0264,Varun Patil,Female,BSc IT,4,60.8,73.9,94.2,7.39,0,3.8,56.4,61.7,39.6,Medium
+STU0265,Akash Pawar,Male,BSc CS,1,91.7,65.4,44.5,5.85,1,4.6,63.2,49.4,55.4,High
+STU0266,Sneha Verma,Male,BSc CS,4,75.2,57.0,61.3,4.44,2,4.6,72.5,65.7,47.8,High
+STU0267,Diya Deshmukh,Male,BCA,1,,55.5,86.8,8.26,0,3.4,32.3,57.3,84.7,High
+STU0268,Karan Verma,Male,BSc CS,5,100.0,46.8,63.6,8.89,1,3.1,70.9,47.9,91.5,Medium
+STU0269,Aditya Yadav,Female,BSc IT,5,56.2,57.1,57.6,9.14,0,4.3,69.6,70.1,68.2,High
+STU0270,Isha Pawar,Female,BSc CS,1,66.7,30.1,90.3,7.08,2,4.0,65.9,57.3,48.2,High
+STU0271,Amit Verma,Male,BCom,4,53.5,52.2,48.8,7.74,1,3.0,62.8,58.6,56.1,High
+STU0272,Tanvi Deshmukh,Male,BSc CS,1,86.3,59.0,66.6,8.85,1,0.7,26.5,70.3,52.4,High
+STU0273,Kavya Deshmukh,Female,BSc IT,6,97.3,73.8,77.9,5.84,1,2.7,58.4,45.0,45.5,High
+STU0274,Amit Shah,Female,BCA,2,97.0,63.4,61.7,8.47,0,1.4,91.8,41.9,63.0,Medium
+STU0275,Amit Verma,Male,BBA,5,90.4,76.7,86.1,7.21,0,2.3,65.2,78.1,76.5,Medium
+STU0276,Ananya Shah,Female,BSc CS,2,69.0,85.6,61.8,8.17,3,3.6,60.4,39.0,74.8,High
+STU0277,Akash Sharma,Female,BSc IT,6,66.5,80.9,97.4,7.08,0,4.1,65.3,53.3,64.8,Medium
+STU0278,Akash Joshi,Male,BBA,6,46.9,71.5,69.7,8.74,1,6.7,70.3,41.0,66.1,High
+STU0279,Tanvi Sharma,Female,BBA,5,100.0,64.2,84.1,7.14,3,2.5,74.9,60.7,63.4,High
+STU0280,Aryan Jadhav,Female,BCom,5,79.0,48.3,85.4,4.57,0,4.9,61.6,74.4,39.1,Medium
+STU0281,Ananya More,Male,BBA,6,64.6,75.8,60.7,8.98,2,4.1,71.4,69.7,68.2,High
+STU0282,Sneha Pawar,Male,BSc IT,3,91.9,90.9,35.0,5.38,3,5.8,90.1,100.0,53.3,High
+STU0283,Rahul Pawar,Female,BSc IT,2,57.4,69.5,78.5,8.68,1,4.5,80.1,84.3,38.1,High
+STU0284,Akash Shah,Male,BSc CS,2,78.1,94.7,73.3,6.66,0,1.7,100.0,54.0,72.4,High
+STU0285,Sneha Sharma,Female,BSc CS,3,69.4,39.6,82.0,8.56,0,0.5,55.1,50.0,52.8,Medium
+STU0286,Vishal Shah,Male,BSc CS,4,81.6,45.5,67.9,8.5,0,4.1,90.1,100.0,69.6,High
+STU0287,Rahul Khan,Female,BBA,2,71.0,77.7,64.3,7.45,2,2.5,53.1,83.9,82.0,High
+STU0288,Varun Sharma,Male,BBA,1,50.2,68.2,100.0,7.56,2,1.7,70.3,76.8,46.0,High
+STU0289,Amit More,Female,BCom,6,73.1,85.0,45.5,7.43,1,1.2,76.0,69.1,66.8,High
+STU0290,Isha Yadav,Female,BSc CS,6,87.7,63.8,85.2,3.78,0,3.8,57.3,72.1,28.8,High
+STU0291,Neha Shah,Female,BCA,3,71.6,50.1,61.7,6.98,0,6.2,66.3,45.8,95.7,Medium
+STU0292,Aryan More,Male,BCom,2,83.6,60.6,66.0,5.13,1,2.8,78.7,70.4,37.8,High
+STU0293,Riya Joshi,Male,BCA,4,56.3,39.5,66.3,7.06,1,4.6,54.3,69.1,54.7,High
+STU0294,Varun Verma,Female,BBA,2,71.6,45.9,57.5,5.09,2,3.3,90.0,54.4,91.8,High
+STU0295,Rohan Gupta,Female,BCom,6,62.6,79.6,82.3,5.02,1,1.2,44.2,59.9,60.3,High
+STU0296,Ananya Yadav,Male,BCom,5,83.2,78.0,97.0,9.21,2,4.8,94.1,90.7,41.1,High
+STU0297,Neha Shah,Male,BSc IT,1,72.5,69.8,80.5,8.4,1,1.5,80.0,66.1,79.3,High
+STU0298,Vishal Khan,Male,BBA,3,82.4,36.5,73.9,6.79,1,3.5,63.7,99.1,78.8,High
+STU0299,Amit Gupta,Male,BBA,5,88.3,58.3,54.2,7.08,0,2.9,59.0,41.9,52.3,High
+STU0300,Sahil Shah,Male,BCom,4,82.4,44.4,81.3,6.43,2,5.1,57.4,60.2,54.5,High
+STU0301,Aryan Deshmukh,Male,BBA,5,76.1,82.8,100.0,7.65,1,1.6,63.0,44.8,56.3,High
+STU0302,Karan Verma,Female,BCom,5,57.0,54.7,65.1,5.79,0,4.2,64.3,49.9,60.9,High
+STU0303,Aryan Kulkarni,Male,BSc IT,4,72.0,46.6,65.2,8.29,0,2.0,83.8,55.6,27.1,High
+STU0304,Ananya Yadav,Female,BCom,5,64.0,64.5,61.9,6.42,0,2.6,94.5,72.7,61.4,High
+STU0305,Kavya Khan,Male,BBA,3,66.8,53.8,63.2,6.17,0,0.5,68.0,72.0,100.0,High
+STU0306,Tanvi More,Male,BBA,6,66.4,87.7,22.6,6.83,0,7.3,52.3,57.8,47.1,High
+STU0307,Isha Verma,Female,BCom,2,57.3,52.2,79.3,5.91,0,4.5,56.8,34.6,53.3,High
+STU0308,Neha Sharma,Female,BCom,5,42.6,41.6,56.8,7.29,0,2.1,62.3,90.2,41.3,High
+STU0309,Arjun Pawar,Male,BCom,3,62.0,29.6,43.0,5.99,0,1.5,49.5,63.7,77.2,High
+STU0310,Riya Deshmukh,Female,BSc CS,2,74.9,63.5,85.6,7.5,2,2.6,47.3,51.3,89.1,High
+STU0311,Diya Verma,Female,BBA,2,51.8,55.0,52.5,8.62,0,4.8,96.5,72.1,88.6,High
+STU0312,Isha Patil,Female,BBA,5,72.2,41.1,65.9,5.72,1,0.5,69.5,71.1,40.0,High
+STU0313,Aditya Gupta,Female,BSc CS,3,100.0,83.0,98.4,6.6,0,3.2,52.5,63.2,75.0,High
+STU0314,Ananya Singh,Male,BCom,6,87.3,74.7,46.6,7.49,0,6.7,77.2,70.2,93.7,Medium
+STU0315,Varun Jadhav,Female,BSc IT,5,96.7,63.5,44.4,6.15,0,1.5,47.3,50.7,75.2,High
+STU0316,Sahil Deshmukh,Male,BCom,4,77.9,85.8,76.8,7.5,2,3.6,48.6,79.4,74.6,High
+STU0317,Aarav Singh,Male,BCom,2,89.5,74.6,92.7,7.63,1,7.5,53.0,53.0,55.6,Medium
+STU0318,Vishal Sharma,Male,BSc CS,5,61.1,50.8,43.7,8.42,0,4.6,89.8,58.9,69.4,High
+STU0319,Aryan Shah,Male,BBA,2,62.3,47.4,79.3,5.89,1,3.7,61.2,77.7,89.7,High
+STU0320,Rahul Joshi,Female,BCom,3,30.9,77.1,82.5,5.39,0,4.4,28.4,86.1,71.6,High
+STU0321,Amit Singh,Female,BBA,1,89.8,70.3,34.9,6.34,4,2.8,83.2,91.8,40.0,High
+STU0322,Varun Deshmukh,Male,BCA,5,95.1,66.7,86.4,5.35,3,5.8,60.4,83.8,55.9,High
+STU0323,Neha Singh,Male,BBA,6,63.7,50.5,87.8,7.65,1,2.8,37.3,63.1,89.2,High
+STU0324,Aryan Khan,Male,BSc IT,5,68.2,73.7,66.4,5.06,1,0.5,60.2,44.9,71.5,High
+STU0325,Karan Verma,Male,BSc IT,2,60.7,51.9,94.5,10.0,2,2.8,72.8,89.1,67.4,Medium
+STU0326,Varun Pawar,Female,BCom,3,77.7,62.4,92.5,8.74,1,1.8,71.1,88.6,53.9,Medium
+STU0327,Akash Deshmukh,Male,BBA,4,88.9,87.2,73.9,6.82,1,3.0,92.0,57.9,88.8,High
+STU0328,Rahul Patil,Female,BCom,6,45.9,53.4,63.9,8.1,3,3.0,52.2,81.8,98.2,High
+STU0329,Vishal More,Male,BSc CS,3,78.1,38.8,54.5,4.34,1,5.7,65.7,63.0,90.3,High
+STU0330,Diya Deshmukh,Male,BSc IT,5,67.8,47.2,71.3,10.0,1,4.8,54.5,90.5,93.9,High
+STU0331,Isha Pawar,Male,BCom,4,73.7,79.9,82.3,5.91,2,4.0,41.9,60.3,57.8,High
+STU0332,Aarav Yadav,Male,BSc CS,3,78.9,68.1,66.2,6.62,1,3.5,78.3,97.7,55.0,High
+STU0333,Rahul More,Female,BCom,1,69.2,61.9,32.4,4.02,1,1.6,71.9,79.8,61.9,High
+STU0334,Sneha Shah,Female,BBA,6,70.4,55.9,94.8,7.53,0,0.5,69.3,95.0,65.8,Medium
+STU0335,Aarav Singh,Female,BBA,2,68.8,71.8,75.4,5.14,0,3.7,71.4,61.0,93.6,High
+STU0336,Arjun Verma,Male,BBA,3,86.6,50.4,65.2,6.95,0,4.9,54.7,74.1,88.3,High
+STU0337,Neha Deshmukh,Male,BBA,3,78.3,68.9,87.4,5.98,0,3.3,49.9,53.5,75.8,High
+STU0338,Rahul Deshmukh,Female,BCA,1,75.3,52.3,99.4,5.18,0,2.5,65.6,80.7,36.4,High
+STU0339,Rohan Gupta,Female,BSc CS,5,52.9,49.6,21.6,5.59,4,4.3,82.4,81.5,31.2,High
+STU0340,Sahil Singh,Male,BSc CS,6,66.3,53.8,79.8,7.14,1,3.4,89.1,100.0,69.8,High
+STU0341,Kavya More,Male,BBA,6,85.5,58.0,46.3,4.88,1,6.5,76.9,75.2,82.6,High
+STU0342,Ananya Joshi,Female,BCA,2,72.6,63.2,81.0,5.68,0,5.7,65.4,78.9,63.4,High
+STU0343,Akash Yadav,Male,BBA,3,81.9,67.8,74.3,7.79,2,5.2,69.0,60.9,100.0,High
+STU0344,Vishal Shah,Male,BCA,4,98.5,20.0,83.4,10.0,1,4.9,65.2,76.1,43.4,Medium
+STU0345,Tanvi Shah,Female,BBA,3,87.6,51.1,63.0,7.52,1,1.2,49.6,62.3,40.8,High
+STU0346,Sneha Kulkarni,Male,BSc IT,2,73.4,57.7,38.3,,0,4.7,65.4,69.7,51.7,Medium
+STU0347,Rohan Sharma,Female,BSc IT,3,64.3,88.1,63.9,6.25,0,4.2,45.0,70.6,51.0,High
+STU0348,Akash Pawar,Male,BCom,1,33.7,46.7,79.3,6.85,1,4.6,63.1,62.7,75.5,High
+STU0349,Kavya More,Female,BBA,3,69.5,66.6,90.3,6.28,1,4.4,89.5,68.9,56.6,High
+STU0350,Karan Jadhav,Male,BSc CS,3,67.1,87.9,50.9,8.15,2,4.3,77.3,62.4,34.0,High
+STU0351,Arjun More,Female,BCom,4,77.9,43.0,90.5,7.13,2,8.4,51.2,62.3,82.8,High
+STU0352,Diya Verma,Female,BSc IT,1,69.7,70.3,60.3,8.16,3,3.4,63.9,84.1,29.8,High
+STU0353,Amit Verma,Female,BBA,1,67.2,51.2,78.5,6.33,1,5.2,52.5,70.6,43.6,High
+STU0354,Diya Verma,Female,BCom,3,,55.9,62.8,8.79,3,2.7,64.1,73.2,32.5,High
+STU0355,Tanvi More,Male,BBA,6,57.9,51.2,75.3,6.55,2,4.9,80.6,46.1,69.1,High
+STU0356,Ananya Shah,Male,BSc IT,4,79.1,52.3,88.1,5.34,0,5.2,74.8,74.4,68.7,High
+STU0357,Amit Khan,Female,BCom,3,97.7,100.0,49.9,10.0,0,4.2,100.0,76.0,100.0,Low
+STU0358,Sneha Shah,Male,BSc IT,3,70.5,77.5,59.8,4.06,0,6.5,82.9,62.0,83.3,High
+STU0359,Aarav Gupta,Male,BCA,2,76.9,81.6,75.3,5.69,0,1.9,68.1,99.3,93.8,High
+STU0360,Vishal Deshmukh,Male,BSc IT,2,86.3,71.9,100.0,5.86,0,2.6,75.2,33.7,70.8,High
+STU0361,Sahil Deshmukh,Male,BBA,6,59.8,38.3,56.5,10.0,0,3.9,62.0,79.8,45.5,High
+STU0362,Rahul Kulkarni,Male,BSc CS,4,77.5,,100.0,9.51,1,5.1,48.1,78.7,67.6,Medium
+STU0363,Akash Deshmukh,Female,BSc IT,5,60.9,81.2,100.0,9.04,0,3.8,84.6,76.1,76.8,Medium
+STU0364,Arjun Patil,Female,BSc CS,2,85.0,50.3,70.2,6.3,0,5.8,80.1,70.6,79.1,High
+STU0365,Varun Gupta,Female,BCA,5,74.3,79.4,66.6,10.0,1,2.3,61.4,76.3,55.6,Medium
+STU0366,Rohan Shah,Female,BCom,1,76.5,75.3,59.5,7.35,2,1.4,69.1,81.0,74.8,High
+STU0367,Aditya Verma,Male,BCom,2,60.3,93.6,70.8,8.27,3,4.1,83.6,57.1,46.3,High
+STU0368,Tanvi Khan,Male,BSc CS,2,82.6,57.3,46.7,7.07,1,3.4,77.7,72.5,44.1,High
+STU0369,Rahul Gupta,Female,BCom,4,100.0,46.4,70.6,6.73,0,4.5,43.1,65.3,42.7,Medium
+STU0370,Aarav Singh,Male,BSc IT,6,56.9,58.2,98.9,6.42,0,3.5,68.7,51.6,65.5,High
+STU0371,Aarav Patil,Male,BSc CS,5,66.9,87.0,61.0,6.49,0,2.9,62.5,78.8,41.4,Medium
+STU0372,Rohan Sharma,Female,BBA,2,75.5,34.7,67.7,7.71,0,3.4,81.7,59.5,56.5,Medium
+STU0373,Kavya Gupta,Male,BSc IT,2,83.8,30.9,41.4,7.35,0,3.6,80.5,45.5,83.1,High
+STU0374,Sneha Deshmukh,Female,BSc IT,4,63.6,65.4,78.7,6.75,4,3.0,84.8,59.9,44.4,High
+STU0375,Aarav Patil,Female,BSc IT,4,30.0,56.9,76.8,9.06,0,3.1,48.2,56.0,54.9,High
+STU0376,Isha Yadav,Male,BBA,6,92.4,64.1,73.1,2.35,0,2.8,53.2,83.4,66.4,High
+STU0377,Aarav Gupta,Male,BCA,5,83.4,79.1,68.1,7.56,0,5.0,81.7,70.3,69.9,High
+STU0378,Sahil Pawar,Female,BCom,1,45.9,55.2,66.7,7.88,1,3.8,56.1,88.7,55.0,High
+STU0379,Arjun More,Female,BSc CS,6,62.9,34.0,81.0,8.52,0,7.6,42.2,58.0,80.7,Medium
+STU0380,Sneha Gupta,Male,BCA,1,95.5,96.7,71.5,6.7,0,3.8,73.0,81.1,76.8,Medium
+STU0381,Ananya Singh,Female,BSc CS,3,93.7,48.0,77.7,7.11,0,2.5,56.8,100.0,87.8,High
+STU0382,Akash Gupta,Female,BCom,2,86.1,47.1,75.9,8.28,0,8.3,91.8,73.3,63.4,High
+STU0383,Ananya Gupta,Female,BBA,5,69.4,81.7,92.2,9.04,0,4.2,69.4,80.9,54.7,Low
+STU0384,Ananya Verma,Male,BSc IT,6,73.2,57.8,84.2,6.35,0,5.3,67.4,78.4,51.3,High
+STU0385,Karan Yadav,Female,BSc IT,2,70.0,63.0,75.5,7.2,0,4.6,59.5,46.7,71.1,Medium
+STU0386,Sneha Gupta,Male,BBA,5,88.9,71.7,99.3,9.32,1,4.6,88.9,76.8,57.5,Medium
+STU0387,Riya Shah,Female,BCA,5,58.9,81.3,79.6,3.61,1,4.5,70.4,72.6,53.6,High
+STU0388,Riya Sharma,Male,BCA,5,59.9,58.7,95.5,5.76,1,1.5,58.9,64.1,56.0,High
+STU0389,Varun Deshmukh,Female,BSc CS,2,87.2,88.3,82.9,9.0,0,4.2,53.1,54.7,51.3,Medium
+STU0390,Rahul Joshi,Male,BBA,6,71.3,29.8,38.8,8.44,0,1.1,63.9,78.4,69.0,High
+STU0391,Aarav Sharma,Male,BCA,4,92.7,76.2,95.5,7.58,0,3.2,50.3,53.4,36.7,Medium
+STU0392,Diya Patil,Male,BBA,2,61.9,50.6,74.4,6.13,0,2.2,80.4,100.0,71.1,High
+STU0393,Diya Pawar,Female,BCom,5,71.2,86.0,71.1,5.48,0,4.1,37.9,69.7,78.5,High
+STU0394,Aditya Singh,Female,BSc IT,6,58.2,66.3,77.1,5.91,0,4.1,62.9,49.7,53.4,High
+STU0395,Akash Khan,Female,BSc IT,3,72.1,53.2,65.8,9.12,1,4.4,74.2,60.3,100.0,High
+STU0396,Tanvi More,Male,BSc IT,1,49.8,74.6,76.1,5.86,2,4.0,70.1,63.8,65.4,High
+STU0397,Aarav Singh,Female,BBA,5,64.7,78.3,61.3,6.95,1,2.4,54.2,100.0,33.8,High
+STU0398,Neha Gupta,Male,BBA,3,50.5,74.3,94.9,5.67,0,3.0,74.9,54.7,59.4,High
+STU0399,Sneha Pawar,Female,BSc CS,4,82.4,47.5,70.0,8.06,1,5.2,51.7,66.3,66.3,High
+STU0400,Rohan Gupta,Male,BSc IT,5,82.7,56.3,65.1,5.99,0,5.4,64.7,59.9,74.0,High
+STU0401,Riya Patil,Male,BSc CS,3,46.0,63.9,55.4,6.65,1,1.4,74.8,75.5,59.9,High
+STU0402,Kavya Yadav,Male,BSc IT,5,92.0,63.3,76.8,4.27,0,0.7,71.9,60.2,44.8,High
+STU0403,Aryan Singh,Female,BSc CS,2,100.0,76.0,75.4,4.38,0,2.2,54.9,50.9,43.1,High
+STU0404,Aditya Singh,Female,BSc CS,6,72.7,31.8,79.0,6.81,2,5.4,83.0,65.1,51.9,High
+STU0405,Tanvi Patil,Female,BCom,3,62.4,69.3,53.5,4.81,1,5.7,66.3,63.5,53.8,High
+STU0406,Tanvi Kulkarni,Male,BSc CS,6,100.0,59.4,43.2,9.96,0,1.8,76.1,59.1,42.3,Medium
+STU0407,Rohan Khan,Male,BBA,2,52.2,50.6,83.3,3.71,0,4.1,87.9,59.9,50.3,High
+STU0408,Varun Patil,Female,BSc CS,2,72.3,52.1,98.7,5.6,0,6.8,81.8,85.8,78.2,High
+STU0409,Vishal Shah,Female,BSc IT,6,74.7,60.6,53.5,,3,4.2,81.8,63.2,98.0,High
+STU0410,Arjun Sharma,Female,BSc CS,3,92.2,20.0,100.0,6.25,1,6.1,67.9,51.0,80.1,High
+STU0411,Rohan More,Male,BCA,6,77.4,52.8,77.1,5.14,3,5.3,76.9,61.1,91.1,High
+STU0412,Karan Yadav,Male,BSc IT,6,64.5,50.0,71.9,5.36,0,1.9,68.2,68.8,84.5,High
+STU0413,Sneha Gupta,Male,BCA,1,57.7,72.5,64.8,5.31,1,3.2,46.9,48.0,81.7,High
+STU0414,Amit Verma,Male,BSc IT,3,66.9,51.1,47.1,6.37,1,3.6,69.5,92.4,58.2,High
+STU0415,Sneha Verma,Male,BBA,1,56.9,60.6,89.8,9.73,0,3.7,68.8,81.0,67.8,Medium
+STU0416,Sneha More,Female,BBA,5,72.7,88.7,58.0,6.92,0,5.1,73.8,89.5,56.6,Medium
+STU0417,Vishal Jadhav,Male,BBA,6,63.5,79.9,58.0,8.57,1,4.2,63.1,73.9,60.6,Medium
+STU0418,Ananya Patil,Male,BCA,5,49.6,78.4,89.9,7.56,1,0.5,53.6,36.6,66.4,High
+STU0419,Arjun Gupta,Male,BCom,3,90.8,56.0,38.1,8.47,1,1.1,74.8,91.0,79.3,High
+STU0420,Aditya Deshmukh,Male,BSc IT,6,64.5,72.7,44.6,2.6,1,0.5,45.3,55.0,73.5,High
+STU0421,Kavya Khan,Male,BBA,5,53.0,60.3,71.7,6.34,1,3.8,86.9,56.3,61.8,High
+STU0422,Sahil Khan,Female,BSc IT,4,69.5,60.9,77.3,8.76,1,3.9,61.5,70.3,66.1,High
+STU0423,Varun Shah,Male,BCA,2,73.0,70.6,80.7,5.94,0,4.0,68.7,88.7,73.7,Medium
+STU0424,Sahil Khan,Male,BCom,6,45.8,54.4,66.6,9.44,0,1.8,73.4,83.8,78.3,High
+STU0425,Sahil Jadhav,Male,BCA,2,77.0,87.9,100.0,9.03,1,4.7,73.9,81.6,34.6,Medium
+STU0426,Amit Jadhav,Female,BSc IT,1,56.3,61.4,67.9,6.1,3,4.8,43.9,63.3,43.5,High
+STU0427,Amit Jadhav,Female,BCom,5,97.7,73.9,67.8,6.05,0,1.2,77.4,63.1,87.1,High
+STU0428,Akash Yadav,Female,BCom,1,79.9,87.3,57.7,5.28,0,0.9,69.5,73.2,63.8,High
+STU0429,Tanvi Deshmukh,Male,BCA,6,66.0,80.5,74.2,5.86,0,3.5,55.5,66.0,56.5,Medium
+STU0430,Varun Yadav,Female,BBA,2,60.8,41.5,83.1,4.95,0,6.7,53.8,81.3,59.7,High
+STU0431,Ananya Patil,Male,BSc IT,2,70.4,71.1,93.7,7.44,0,6.6,60.0,80.5,59.7,Medium
+STU0432,Karan Deshmukh,Male,BSc CS,5,81.2,77.6,45.2,4.62,1,4.5,45.5,76.9,76.2,High
+STU0433,Arjun Sharma,Female,BSc CS,6,71.6,78.3,67.6,7.71,0,2.2,90.8,30.1,42.8,High
+STU0434,Ananya Shah,Male,BCA,4,68.7,46.2,80.0,7.74,1,5.1,87.3,69.9,65.5,High
+STU0435,Neha Verma,Male,BSc IT,4,72.9,53.5,82.6,4.31,2,2.7,71.8,66.4,69.9,High
+STU0436,Riya Patil,Male,BSc IT,5,62.9,79.9,72.1,9.12,3,2.1,61.6,70.5,72.9,High
+STU0437,Sneha Kulkarni,Female,BCA,6,66.9,51.8,81.8,7.57,0,0.5,62.0,56.7,69.5,High
+STU0438,Rahul Khan,Male,BSc IT,5,40.7,59.2,57.4,7.92,1,3.7,76.4,48.1,75.3,High
+STU0439,Isha Verma,Male,BBA,6,86.6,89.2,100.0,5.66,0,2.4,91.4,74.9,53.5,Medium
+STU0440,Rohan Shah,Female,BCA,1,76.5,63.2,89.9,7.73,0,3.7,56.4,62.7,46.2,High
+STU0441,Rohan Jadhav,Male,BBA,5,60.4,52.4,47.8,8.49,1,0.5,48.2,76.6,100.0,High
+STU0442,Kavya Deshmukh,Male,BSc IT,6,100.0,50.0,52.6,6.65,1,3.8,88.2,57.9,59.0,High
+STU0443,Sneha Verma,Female,BCA,4,73.3,69.3,53.2,9.8,0,0.5,38.2,89.2,61.3,High
+STU0444,Amit Sharma,Male,BSc IT,6,56.5,42.7,84.2,6.87,3,5.5,49.9,83.0,78.6,High
+STU0445,Diya Sharma,Male,BCA,6,84.9,60.0,48.9,8.51,2,4.4,61.3,72.5,96.9,High
+STU0446,Akash Deshmukh,Male,BSc IT,5,78.0,69.3,66.0,7.24,1,3.0,41.6,64.8,54.1,High
+STU0447,Vishal Jadhav,Male,BBA,1,77.9,84.8,80.2,,1,4.5,81.7,80.8,45.0,Medium
+STU0448,Riya Verma,Male,BBA,1,65.6,74.7,70.8,4.29,0,1.7,77.9,73.9,40.2,High
+STU0449,Riya Jadhav,Female,BSc IT,1,78.8,52.6,76.7,7.36,1,3.6,56.4,71.6,96.9,High
+STU0450,Aditya Deshmukh,Female,BCA,1,68.1,82.9,52.8,5.7,0,4.9,84.2,83.6,44.2,High
+STU0451,Riya Khan,Female,BSc CS,3,80.3,59.2,82.7,5.53,2,0.5,86.7,89.4,64.4,High
+STU0452,Varun Pawar,Female,BBA,5,43.4,44.2,61.0,9.42,0,2.7,63.3,49.2,45.5,Medium
+STU0453,Akash Pawar,Male,BBA,2,65.5,61.2,66.2,6.48,0,3.5,58.2,52.2,36.0,High
+STU0454,Riya Khan,Male,BSc CS,5,97.8,87.0,76.3,5.3,1,3.1,98.9,56.3,59.2,High
+STU0455,Rohan More,Male,BSc IT,3,60.5,66.6,73.9,6.26,0,6.1,75.8,45.5,46.2,High
+STU0456,Rahul Patil,Male,BCA,1,62.9,64.2,72.4,4.85,0,1.5,68.8,67.1,51.2,High
+STU0457,Arjun Yadav,Male,BSc IT,3,65.3,90.2,58.5,8.95,0,2.4,85.5,77.0,100.0,Medium
+STU0458,Varun Shah,Female,BCom,4,53.8,41.1,66.6,5.76,2,0.5,69.5,67.7,73.5,High
+STU0459,Ananya More,Female,BBA,4,38.9,43.4,72.0,7.59,0,6.2,57.4,60.0,83.6,High
+STU0460,Karan Pawar,Male,BCom,5,68.5,38.1,47.2,8.83,0,3.1,66.2,84.9,81.5,High
+STU0461,Sneha Pawar,Male,BBA,5,74.0,70.0,63.7,6.05,0,2.7,80.6,70.1,63.0,High
+STU0462,Neha Shah,Male,BBA,2,71.2,66.7,79.0,7.6,0,3.4,35.1,73.1,56.2,Medium
+STU0463,Sneha Deshmukh,Female,BCom,2,69.8,88.7,49.0,5.25,0,4.6,60.7,85.3,70.0,High
+STU0464,Vishal Shah,Male,BCom,4,72.6,67.9,92.8,10.0,1,4.1,85.7,66.2,68.4,Medium
+STU0465,Amit Verma,Male,BSc IT,1,87.3,57.5,94.9,8.2,0,8.3,57.3,98.9,53.6,Medium
+STU0466,Akash Shah,Male,BCom,3,69.1,64.0,49.6,6.51,0,,88.2,61.3,67.6,High
+STU0467,Rahul Patil,Female,BSc IT,2,63.4,65.9,96.4,12.0,0,2.7,86.2,98.0,50.9,Medium
+STU0468,Rohan Joshi,Male,BSc IT,6,67.8,37.3,69.4,6.63,0,2.5,64.0,53.4,61.6,High
+STU0469,Rohan Singh,Female,BSc IT,2,80.7,100.0,79.5,6.29,0,2.8,56.5,75.8,58.3,Medium
+STU0470,Aditya Jadhav,Female,BBA,1,93.2,72.3,63.1,9.73,1,0.8,60.7,58.4,39.6,Medium
+STU0471,Diya Sharma,Female,BBA,1,62.6,67.4,88.6,4.96,0,3.6,100.0,84.8,18.0,High
+STU0472,Neha Yadav,Female,BCom,5,73.5,73.8,79.3,7.0,0,4.9,93.1,60.8,46.2,High
+STU0473,Karan Shah,Female,BBA,3,77.1,75.4,57.3,6.77,1,2.4,66.9,72.4,100.0,High
+STU0474,Ananya Singh,Female,BCom,1,57.1,61.8,51.0,6.62,0,2.0,55.9,58.2,58.8,High
+STU0475,Vishal Verma,Male,BBA,2,72.3,53.9,45.7,6.64,1,6.2,66.8,82.1,80.5,High
+STU0476,Aditya Khan,Male,BCA,2,50.0,73.6,75.4,6.63,0,0.9,68.7,58.2,22.5,High
+STU0477,Rahul Singh,Male,BCA,4,45.5,70.2,82.3,8.11,0,0.5,46.3,93.3,44.8,High
+STU0478,Ananya Shah,Female,BCom,1,77.5,51.0,83.7,7.71,2,1.4,66.2,53.1,37.9,High
+STU0479,Aarav Gupta,Male,BBA,6,66.2,86.7,69.9,7.43,0,0.7,84.8,47.8,61.0,Medium
+STU0480,Arjun Singh,Female,BBA,5,75.0,68.7,51.2,2.25,2,4.2,38.0,82.3,100.0,High
+STU0481,Sahil Joshi,Female,BSc IT,3,71.7,75.7,59.7,7.25,1,2.9,77.4,59.1,74.2,High
+STU0482,Kavya Kulkarni,Female,BSc CS,6,,86.3,92.7,4.32,1,3.1,85.6,67.9,98.9,High
+STU0483,Isha Pawar,Male,BCom,5,71.3,64.4,63.3,7.77,2,5.6,56.6,63.2,59.9,High
+STU0484,Akash Yadav,Female,BSc CS,2,53.5,69.1,74.6,9.01,2,2.3,90.4,48.3,92.3,High
+STU0485,Diya Gupta,Female,BSc CS,6,92.9,77.0,52.6,5.41,1,4.9,54.6,66.8,100.0,High
+STU0486,Amit Jadhav,Male,BCom,5,51.7,52.4,78.1,6.41,1,6.2,71.6,87.0,62.8,High
+STU0487,Arjun Patil,Male,BBA,2,69.1,64.9,63.8,5.9,0,2.7,60.4,83.0,54.2,High
+STU0488,Vishal More,Female,BCom,2,56.4,66.0,90.8,8.65,0,4.8,60.4,71.5,38.6,Medium
+STU0489,Kavya Joshi,Female,BSc CS,2,80.6,48.7,85.9,6.94,0,3.1,55.7,84.7,58.8,Medium
+STU0490,Rohan Singh,Male,BBA,2,67.0,100.0,63.1,9.39,0,5.2,75.5,52.1,66.6,Low
+STU0491,Sneha Kulkarni,Male,BCA,2,64.2,41.5,69.7,7.42,2,0.7,77.7,63.1,100.0,High
+STU0492,Arjun Yadav,Male,BCom,4,84.8,43.2,62.1,7.16,0,0.5,64.0,73.9,39.1,High
+STU0493,Aditya Khan,Female,BCom,6,72.4,85.0,46.5,6.9,0,2.8,44.6,66.0,66.2,High
+STU0494,Diya Verma,Male,BBA,5,79.7,75.4,56.6,8.03,1,1.9,71.0,64.3,28.7,Medium
+STU0495,Varun Deshmukh,Male,BCA,4,,47.6,75.6,4.19,0,2.6,71.3,50.0,56.5,High
+STU0496,Neha Gupta,Male,BCA,4,50.9,73.7,77.9,6.93,0,3.1,61.7,36.8,71.2,High
+STU0497,Arjun Verma,Female,BBA,1,73.6,87.5,74.7,6.69,1,4.8,93.0,80.3,75.3,High
+STU0498,Amit Yadav,Male,BSc IT,1,67.2,63.5,66.6,7.89,1,2.8,41.5,71.6,76.8,High
+STU0499,Vishal Sharma,Male,BCom,1,81.4,100.0,88.8,6.52,1,2.0,31.7,81.5,72.9,High
+STU0500,Vishal Sharma,Male,BCom,3,70.8,36.4,73.1,5.24,0,2.9,54.0,61.4,76.6,High
+STU0501,Neha Sharma,Male,BSc CS,1,75.1,75.1,84.7,6.81,0,2.1,75.7,57.3,65.9,Medium
+STU0502,Riya Singh,Male,BBA,5,47.6,82.7,40.1,5.18,1,1.8,49.2,68.1,44.0,High
+STU0503,Ananya Kulkarni,Female,BSc CS,4,100.0,78.3,20.0,3.91,0,0.6,50.3,80.8,28.0,High
+STU0504,Kavya Joshi,Female,BSc CS,5,69.5,60.7,77.1,7.89,1,3.6,79.3,64.5,54.1,Medium
+STU0505,Rahul Khan,Female,BCA,6,82.5,59.4,46.4,7.67,2,,71.9,80.0,62.3,High
+STU0506,Akash Sharma,Male,BCom,1,59.5,71.1,68.2,7.5,0,5.2,70.7,52.9,90.1,Medium
+STU0507,Arjun Patil,Female,BSc CS,3,76.6,77.1,66.6,8.75,0,0.9,76.7,65.6,63.0,High
+STU0508,Karan Gupta,Female,BCA,6,52.5,73.6,100.0,5.8,0,2.5,58.6,66.9,61.1,High
+STU0509,Karan More,Female,BBA,3,78.8,80.6,79.2,4.65,1,6.8,59.3,86.4,72.7,High
+STU0510,Aditya Deshmukh,Male,BSc CS,6,66.7,47.7,75.0,6.69,0,1.8,77.1,71.1,59.6,High
+STU0511,Diya Patil,Male,BCom,4,72.4,60.4,87.1,6.28,0,3.1,44.8,94.2,81.2,Medium
+STU0512,Vishal Sharma,Female,BSc CS,5,82.5,49.0,78.6,5.54,2,1.3,32.9,47.8,100.0,High
+STU0513,Ananya Shah,Female,BBA,2,53.5,57.8,63.8,6.68,0,1.1,58.5,69.9,100.0,High
+STU0514,Sneha Shah,Male,BSc CS,5,61.7,80.2,91.3,5.88,0,6.3,79.0,70.7,66.9,Medium
+STU0515,Kavya Jadhav,Male,BCom,1,78.9,65.7,52.0,4.05,1,3.8,68.8,77.3,71.7,High
+STU0516,Arjun Pawar,Female,BCA,2,100.0,100.0,77.8,6.14,0,3.7,77.9,55.8,96.6,Medium
+STU0517,Akash Kulkarni,Male,BCom,3,69.9,67.1,44.1,5.1,1,0.5,34.8,93.3,62.0,High
+STU0518,Sneha Gupta,Female,BCA,4,80.9,65.0,75.7,7.15,1,4.1,69.7,68.2,78.6,High
+STU0519,Neha Patil,Male,BSc IT,4,70.4,65.7,75.5,5.82,0,5.6,74.8,51.7,42.3,High
+STU0520,Riya Gupta,Female,BCom,3,100.0,53.8,100.0,8.47,2,5.6,44.7,67.8,58.8,High
+STU0521,Kavya Shah,Female,BCom,1,45.8,63.1,43.8,9.21,0,4.7,77.9,63.3,88.1,High
+STU0522,Aditya More,Male,BBA,3,73.4,82.0,61.2,7.82,4,1.5,63.3,100.0,50.6,High
+STU0523,Akash Yadav,Female,BSc CS,6,47.6,65.8,86.8,4.47,0,4.1,100.0,83.7,62.4,High
+STU0524,Aarav Jadhav,Female,BCA,1,34.4,51.3,78.0,9.06,0,4.7,32.3,68.7,33.5,High
+STU0525,Diya Khan,Female,BCA,2,76.5,49.2,75.2,9.16,0,0.5,85.5,66.3,100.0,High
+STU0526,Isha Gupta,Male,BBA,3,74.1,56.8,54.8,6.83,0,1.5,59.1,82.3,90.3,High
+STU0527,Riya More,Male,BBA,1,67.7,65.2,61.4,8.78,1,5.1,40.7,83.0,68.8,High
+STU0528,Akash Gupta,Male,BSc CS,2,70.4,83.1,94.4,5.97,1,5.1,57.1,24.3,75.2,High
+STU0529,Ananya Gupta,Female,BSc CS,3,100.0,42.6,71.1,4.0,1,0.7,69.2,77.6,72.9,High
+STU0530,Varun Khan,Male,BCom,4,68.1,58.9,78.8,5.66,0,4.9,80.6,68.4,92.7,High
+STU0531,Riya Verma,Female,BSc IT,3,79.7,66.3,69.9,9.39,0,3.7,90.8,48.3,54.6,Medium
+STU0532,Amit Shah,Female,BSc CS,5,62.3,34.7,50.7,4.56,1,4.9,86.3,81.2,79.6,High
+STU0533,Rahul Verma,Male,BBA,3,76.4,50.7,88.8,6.8,0,2.4,50.5,100.0,86.5,High
+STU0534,Tanvi Jadhav,Male,BSc CS,5,68.4,53.1,81.1,6.85,1,4.7,82.0,76.4,89.3,High
+STU0535,Diya Pawar,Female,BCA,2,65.8,51.3,100.0,6.03,1,5.0,70.9,84.5,19.8,High
+STU0536,Diya Kulkarni,Female,BSc IT,3,99.3,67.1,53.7,6.13,0,2.9,55.2,95.1,53.0,High
+STU0537,Varun Deshmukh,Male,BCom,2,89.7,61.4,86.8,6.91,1,3.5,61.8,55.5,44.6,High
+STU0538,Arjun Sharma,Male,BCA,2,74.1,55.1,48.4,5.96,1,2.3,54.4,40.1,68.0,High
+STU0539,Rohan Sharma,Male,BCA,1,37.4,70.8,74.8,4.67,1,6.5,65.6,77.9,24.7,High
+STU0540,Sneha Sharma,Female,BSc IT,2,66.6,91.6,89.6,7.12,0,3.3,54.1,64.3,24.1,High
+STU0541,Rohan Pawar,Female,BCom,2,100.0,90.2,34.7,8.41,0,1.8,49.6,47.4,100.0,High
+STU0542,Aditya Kulkarni,Female,BBA,3,68.5,33.2,68.3,8.1,0,2.2,72.2,66.8,77.4,High
+STU0543,Diya Jadhav,Female,BCom,3,88.5,73.2,61.9,5.59,0,3.7,74.4,78.9,67.4,High
+STU0544,Varun Pawar,Female,BSc CS,4,93.6,61.2,59.4,4.92,0,4.9,62.2,65.8,72.3,High
+STU0545,Varun Singh,Male,BCA,1,75.3,66.5,78.9,6.37,2,1.1,85.5,56.2,67.9,High
+STU0546,Arjun Yadav,Male,BSc CS,2,59.4,57.6,92.2,9.15,1,6.8,61.1,64.6,84.9,High
+STU0547,Aryan Yadav,Female,BBA,1,35.5,65.9,69.6,7.77,1,4.1,60.5,67.7,52.4,High
+STU0548,Diya Verma,Female,BSc CS,5,82.3,66.4,75.7,7.86,0,4.3,74.9,39.1,68.7,Medium
+STU0549,Vishal Deshmukh,Male,BCom,2,59.8,54.7,74.1,8.13,2,3.3,63.0,65.9,69.5,High
+STU0550,Aarav Joshi,Male,BSc CS,1,74.6,49.7,72.0,7.43,0,3.5,66.3,47.8,44.1,High
+STU0551,Aryan Khan,Male,BBA,4,53.3,56.8,52.4,6.98,1,3.2,27.2,77.9,90.5,High
+STU0552,Amit Deshmukh,Male,BBA,4,68.0,67.7,92.0,7.79,3,5.3,65.3,44.6,56.1,High
+STU0553,Arjun Shah,Female,BBA,2,72.5,73.6,77.3,5.98,1,3.5,37.6,83.2,85.3,High
+STU0554,Aarav Deshmukh,Male,BCom,5,76.0,77.7,79.1,4.68,4,4.9,46.7,61.9,67.3,High
+STU0555,Ananya Khan,Female,BBA,4,55.3,56.1,57.5,7.88,1,2.7,45.0,59.9,97.7,High
+STU0556,Aarav Kulkarni,Male,BCA,4,90.0,68.5,63.7,8.66,0,3.9,49.4,72.4,44.2,Medium
+STU0557,Amit Singh,Male,BBA,5,63.0,79.4,68.8,5.12,0,2.1,56.8,55.0,43.3,High
+STU0558,Aditya Verma,Male,BSc CS,1,46.9,82.6,44.4,8.03,0,5.7,57.7,72.2,46.9,Medium
+STU0559,Ananya Khan,Female,BSc CS,4,70.4,63.1,41.6,9.32,0,2.0,75.0,57.0,67.7,High
+STU0560,Karan Sharma,Female,BSc CS,3,72.5,60.5,61.2,6.8,1,2.9,68.3,59.6,95.8,High
+STU0561,Arjun Deshmukh,Male,BCom,6,74.4,67.1,81.4,5.57,0,2.9,36.5,74.1,96.9,High
+STU0562,Rohan Joshi,Female,BSc CS,6,92.4,45.6,60.2,6.98,2,2.9,66.2,50.9,18.8,High
+STU0563,Rahul Jadhav,Female,BCom,4,68.5,60.9,53.7,5.97,0,4.8,69.8,49.0,70.0,High
+STU0564,Vishal Jadhav,Male,BCom,1,70.2,75.9,57.3,5.87,0,2.9,60.1,71.7,10.0,High
+STU0565,Rohan Deshmukh,Male,BBA,1,55.5,74.3,63.8,7.45,3,6.0,64.1,67.6,80.9,High
+STU0566,Diya Gupta,Female,BCA,2,84.3,59.7,65.6,4.39,0,2.0,67.9,70.5,87.4,High
+STU0567,Rohan Joshi,Female,BBA,3,74.8,67.5,100.0,4.63,1,3.8,76.5,72.9,64.2,High
+STU0568,Neha Deshmukh,Female,BBA,1,65.7,50.8,91.0,6.83,1,2.1,41.4,68.9,66.7,High
+STU0569,Aditya Khan,Male,BCom,5,43.4,75.3,90.4,6.77,0,4.3,61.3,77.1,66.5,High
+STU0570,Varun Yadav,Male,BCom,3,93.7,62.8,93.0,7.32,0,3.5,87.6,69.5,49.3,Medium
+STU0571,Amit Joshi,Female,BSc CS,6,53.6,59.6,54.0,9.61,0,3.2,86.2,37.9,73.6,High
+STU0572,Kavya Khan,Male,BSc CS,3,63.1,58.2,50.0,6.96,1,5.6,77.8,41.8,60.4,High
+STU0573,Ananya Joshi,Male,BBA,5,77.4,63.0,52.1,7.7,1,2.3,73.1,96.9,83.6,High
+STU0574,Kavya Kulkarni,Female,BSc IT,4,54.1,56.8,96.0,5.34,0,4.6,89.8,68.0,62.7,High
+STU0575,Karan Jadhav,Female,BSc IT,5,49.6,74.5,62.2,7.95,1,2.1,93.8,82.3,47.8,High
+STU0576,Arjun Singh,Male,BSc CS,5,40.1,57.7,49.5,6.01,0,3.7,63.1,62.8,34.3,High
+STU0577,Diya Pawar,Male,BSc IT,4,82.8,89.5,64.2,6.91,1,1.3,50.5,67.1,27.7,High
+STU0578,Rohan Verma,Female,BSc CS,4,63.8,87.4,67.7,6.64,2,2.3,60.9,61.2,91.3,High
+STU0579,Riya Khan,Male,BCom,4,100.0,49.7,76.8,8.35,2,3.4,100.0,100.0,55.8,High
+STU0580,Neha Verma,Male,BBA,4,57.1,65.1,76.5,4.84,1,6.8,41.5,71.8,71.8,High
+STU0581,Rahul Jadhav,Female,BCA,4,58.2,53.6,57.1,3.38,0,3.7,57.9,60.0,100.0,High
+STU0582,Tanvi Shah,Female,BBA,5,63.5,58.8,84.3,6.48,4,6.5,43.8,43.2,53.7,High
+STU0583,Aarav Jadhav,Male,BSc CS,2,75.6,96.0,60.5,7.5,0,3.9,66.9,97.6,52.5,High
+STU0584,Kavya More,Male,BSc CS,2,64.9,59.1,69.2,7.03,1,2.8,47.0,65.6,62.4,High
+STU0585,Neha Joshi,Male,BBA,1,81.2,69.8,84.4,8.65,0,6.3,63.4,79.2,65.6,Medium
+STU0586,Sahil Joshi,Female,BSc CS,2,57.3,72.7,60.4,7.46,4,4.3,35.7,80.8,100.0,High
+STU0587,Ananya Jadhav,Male,BSc IT,6,51.3,48.0,61.8,5.95,1,2.3,74.3,61.1,96.3,High
+STU0588,Ananya Jadhav,Male,BSc IT,2,45.0,50.3,82.7,3.31,1,4.3,83.3,78.1,77.4,High
+STU0589,Karan Sharma,Female,BSc CS,5,38.6,44.7,56.6,6.44,0,3.0,59.2,58.9,94.0,High
+STU0590,Isha Singh,Female,BSc CS,4,64.2,49.8,65.1,8.34,1,0.5,63.0,53.1,61.4,High
+STU0591,Varun Deshmukh,Male,BSc IT,4,67.5,20.0,82.0,6.21,1,5.2,62.5,85.5,71.0,High
+STU0592,Riya Jadhav,Female,BSc CS,5,62.5,72.7,100.0,6.84,1,5.5,67.7,65.6,59.0,High
+STU0593,Isha Singh,Female,BSc CS,6,90.7,96.9,82.9,7.43,0,6.8,64.4,75.8,39.2,Medium
+STU0594,Kavya Pawar,Male,BBA,2,90.4,66.4,80.5,5.28,0,4.3,76.5,74.2,89.1,High
+STU0595,Aarav Kulkarni,Female,BCA,5,67.0,41.3,81.6,7.73,0,3.1,83.5,77.6,75.6,High
+STU0596,Ananya Gupta,Female,BSc IT,1,45.1,53.7,52.7,9.26,0,5.0,52.8,44.7,65.4,High
+STU0597,Riya Joshi,Male,BBA,4,63.5,56.7,74.1,12.0,0,5.0,60.4,59.2,65.0,High
+STU0598,Aarav Singh,Female,BCA,3,63.0,47.7,71.5,5.11,0,6.4,78.5,63.1,34.9,High
+STU0599,Varun Jadhav,Male,BSc CS,1,62.1,77.8,77.8,6.7,0,3.4,43.7,55.5,45.5,High
+STU0600,Rohan Gupta,Male,BSc CS,6,61.5,77.0,74.1,3.46,0,3.2,35.4,74.4,71.7,High
+STU0601,Rohan Shah,Female,BBA,1,62.2,45.5,78.8,7.31,0,2.2,68.4,85.8,54.4,High
+STU0602,Isha Verma,Female,BSc CS,5,66.2,75.6,66.4,7.48,2,4.5,72.4,88.2,60.6,High
+STU0603,Vishal Shah,Female,BCom,2,62.5,88.4,73.1,9.31,0,0.7,54.2,62.9,62.9,Medium
+STU0604,Isha Yadav,Male,BBA,4,75.1,94.4,49.9,6.51,0,4.9,56.3,72.4,51.4,Medium
+STU0605,Vishal Shah,Female,BCA,6,77.4,100.0,66.2,7.41,0,4.6,53.6,74.7,45.6,High
+STU0606,Kavya Singh,Male,BBA,6,58.3,49.6,97.0,5.51,1,4.6,52.0,77.3,32.8,High
+STU0607,Aditya Pawar,Female,BSc IT,3,91.1,100.0,77.7,6.27,3,3.7,75.4,54.8,62.1,High
+STU0608,Tanvi Khan,Female,BBA,1,57.3,58.3,71.6,4.51,0,6.3,47.3,95.3,77.4,High
+STU0609,Aditya Khan,Female,BSc CS,3,47.7,54.5,100.0,6.51,0,5.1,61.0,81.9,32.1,High
+STU0610,Sneha Khan,Male,BSc CS,2,77.7,69.2,47.5,6.34,3,2.4,51.4,82.3,64.5,High
+STU0611,Neha Khan,Female,BCom,2,59.7,54.7,52.0,7.25,0,2.4,43.2,86.1,70.6,High
+STU0612,Varun Singh,Female,BCom,3,76.8,70.4,100.0,5.86,0,1.9,78.1,76.0,45.2,High
+STU0613,Aryan Joshi,Male,BCom,4,35.9,42.9,72.8,6.93,0,4.5,57.2,52.6,93.4,High
+STU0614,Arjun Gupta,Male,BCA,2,92.9,60.2,67.6,6.3,0,1.7,67.8,65.9,57.3,High
+STU0615,Aarav Sharma,Female,BCom,3,82.1,84.6,50.4,6.3,4,5.5,42.4,43.2,63.0,High
+STU0616,Kavya Singh,Female,BCA,1,49.5,63.1,80.1,6.92,0,5.9,53.9,74.2,61.8,High
+STU0617,Tanvi Gupta,Female,BCom,3,49.8,66.3,81.8,6.86,3,1.9,76.3,65.5,29.6,High
+STU0618,Sneha Pawar,Male,BCA,3,97.1,71.6,52.3,7.94,4,3.2,100.0,67.4,85.2,High
+STU0619,Sneha Joshi,Male,BBA,5,60.9,82.7,69.5,6.62,1,3.5,35.4,86.1,45.9,High
+STU0620,Isha Sharma,Male,BBA,2,59.5,37.5,66.0,6.28,0,5.1,62.0,61.1,60.3,High
+STU0621,Vishal Singh,Male,BSc CS,4,38.0,73.4,76.6,6.53,0,6.4,71.2,64.2,77.0,High
+STU0622,Diya Sharma,Female,BCA,4,66.7,59.7,51.9,5.73,0,0.5,55.8,68.3,94.2,High
+STU0623,Aryan Sharma,Male,BSc IT,5,68.6,66.7,94.5,6.26,0,2.9,77.7,40.4,43.4,High
+STU0624,Rahul Kulkarni,Male,BSc CS,6,82.7,81.0,88.5,9.85,1,3.0,52.0,64.0,56.1,Medium
+STU0625,Varun Khan,Male,BBA,4,51.0,44.9,65.5,5.43,0,1.0,67.3,30.7,92.6,High
+STU0626,Varun Kulkarni,Female,BCA,3,49.2,47.8,68.1,6.38,3,2.6,57.2,59.2,74.3,High
+STU0627,Sneha Deshmukh,Female,BCom,5,78.8,33.0,69.5,6.22,0,4.3,83.3,80.8,78.4,High
+STU0628,Sahil Jadhav,Male,BSc IT,1,87.1,55.2,58.0,6.43,1,3.0,54.9,74.7,44.0,High
+STU0629,Varun Patil,Male,BBA,2,48.4,85.3,64.0,6.3,2,,59.7,59.1,57.4,High
+STU0630,Aarav Kulkarni,Female,BSc CS,2,88.2,62.1,67.1,7.22,0,8.7,79.2,68.6,61.6,Medium
+STU0631,Varun Patil,Female,BCA,2,72.6,42.6,100.0,4.23,0,4.0,49.6,51.9,47.8,High
+STU0632,Aditya Singh,Female,BSc IT,3,88.4,56.2,89.0,8.36,0,3.7,66.0,68.0,31.5,Medium
+STU0633,Sneha Patil,Female,BCA,1,70.9,40.2,88.8,7.75,0,1.5,37.7,100.0,54.8,High
+STU0634,Arjun Yadav,Female,BCom,5,34.2,46.0,78.7,4.94,0,4.0,48.7,95.7,92.1,High
+STU0635,Amit Sharma,Female,BSc CS,5,69.7,70.2,51.9,3.4,0,3.2,70.7,68.8,66.2,High
+STU0636,Diya Deshmukh,Female,BCA,2,87.9,45.2,71.3,5.33,0,0.5,50.1,70.4,92.5,High
+STU0637,Aryan Yadav,Female,BBA,1,58.6,81.8,89.5,6.44,4,1.6,56.8,53.3,68.6,High
+STU0638,Karan Verma,Male,BSc CS,1,66.2,62.9,49.4,10.0,0,4.9,72.4,56.0,49.7,Medium
+STU0639,Varun Kulkarni,Male,BBA,1,69.4,65.4,83.5,7.61,0,7.0,56.3,73.4,90.6,Medium
+STU0640,Aditya More,Male,BCA,4,30.0,59.5,100.0,4.09,0,4.2,77.3,60.1,69.2,High
+STU0641,Aarav Pawar,Male,BSc CS,4,97.1,76.4,91.1,5.77,0,5.5,68.2,81.6,84.2,Medium
+STU0642,Tanvi Pawar,Male,BBA,2,58.5,76.5,97.5,6.72,0,3.2,71.5,91.5,43.6,High
+STU0643,Diya Sharma,Male,BCom,1,79.6,69.4,75.9,,3,3.3,83.6,73.0,85.8,High
+STU0644,Akash Jadhav,Female,BCom,6,70.7,73.0,89.4,4.83,0,5.5,69.8,69.5,86.4,High
+STU0645,Diya Singh,Female,BCA,1,90.9,60.6,59.1,6.6,0,6.5,88.1,42.8,70.8,Medium
+STU0646,Rohan Gupta,Male,BSc CS,5,78.1,72.7,86.3,5.72,0,5.8,78.7,79.2,48.9,Medium
+STU0647,Akash Yadav,Male,BSc IT,5,68.5,58.6,83.8,5.14,0,1.6,57.1,50.8,64.1,High
+STU0648,Aarav More,Female,BSc CS,2,58.6,64.0,77.2,7.19,0,3.4,84.4,61.7,77.2,High
+STU0649,Rohan Jadhav,Female,BCom,6,84.0,59.6,95.7,7.96,1,4.0,69.0,82.4,69.7,Medium
+STU0650,Aditya Yadav,Female,BBA,1,43.9,56.7,62.3,8.06,0,3.0,59.1,83.4,77.0,High
+STU0651,Riya Jadhav,Male,BSc IT,6,81.7,53.0,68.6,7.66,0,4.2,69.2,61.0,85.2,Medium
+STU0652,Riya Khan,Female,BCA,2,55.5,71.5,73.7,6.05,1,5.0,81.7,61.9,52.0,High
+STU0653,Sahil Joshi,Male,BSc IT,5,90.8,85.0,53.5,7.87,0,5.3,71.8,57.5,41.9,Medium
+STU0654,Vishal Gupta,Male,BCA,5,74.4,82.7,76.1,7.26,0,6.5,92.3,50.0,64.2,High
+STU0655,Riya Pawar,Female,BSc IT,4,81.7,43.9,41.1,7.0,4,2.9,81.3,58.5,58.4,High
+STU0656,Sahil Patil,Female,BCA,2,73.2,84.6,90.8,5.88,0,1.0,72.8,43.8,80.7,High
+STU0657,Aryan Verma,Male,BCA,2,45.7,58.9,72.8,6.05,1,4.1,49.6,78.2,43.5,High
+STU0658,Aryan Sharma,Female,BSc IT,1,59.1,73.6,62.6,6.91,0,6.9,62.3,73.9,85.4,High
+STU0659,Varun Deshmukh,Female,BSc IT,1,82.1,49.5,57.0,10.0,0,2.6,66.1,76.4,92.1,High
+STU0660,Varun Joshi,Male,BCA,4,74.5,66.3,67.8,7.25,0,,75.4,53.7,65.0,High
+STU0661,Tanvi Patil,Female,BCom,3,89.7,69.0,84.4,5.88,0,4.8,74.6,50.1,66.2,High
+STU0662,Aarav Gupta,Male,BSc IT,6,78.0,40.2,81.9,5.55,0,3.8,67.5,68.8,49.6,High
+STU0663,Vishal Khan,Male,BSc CS,3,57.5,73.7,59.3,6.06,0,3.5,66.8,69.0,54.1,High
+STU0664,Karan Patil,Female,BBA,3,60.1,85.5,56.8,10.0,2,1.8,75.8,65.8,56.8,High
+STU0665,Akash Pawar,Male,BCA,2,73.5,61.2,83.8,6.2,1,0.5,52.1,63.7,93.9,High
+STU0666,Neha Joshi,Male,BCA,6,37.3,85.8,59.0,8.16,0,1.5,90.4,93.7,63.6,High
+STU0667,Ananya Gupta,Female,BBA,2,97.1,61.0,73.1,6.24,1,2.8,34.3,74.4,38.6,High
+STU0668,Arjun Kulkarni,Female,BCom,6,78.6,77.6,74.2,7.19,2,5.5,86.8,97.6,70.1,High
+STU0669,Isha Patil,Female,BBA,5,90.4,28.5,77.6,7.99,1,3.3,64.3,87.0,81.5,High
+STU0670,Neha Yadav,Male,BSc IT,2,48.3,100.0,87.4,5.94,0,2.6,80.0,93.5,64.5,Medium
+STU0671,Vishal Verma,Male,BBA,2,90.7,87.9,49.3,5.84,2,1.9,70.5,51.9,94.4,High
+STU0672,Neha Jadhav,Female,BCA,2,100.0,59.4,37.6,9.29,0,4.7,70.2,76.9,80.6,Medium
+STU0673,Sneha Verma,Male,BBA,4,52.2,32.4,61.8,8.28,0,5.9,73.3,61.5,44.0,Medium
+STU0674,Riya Pawar,Female,BSc CS,2,83.6,68.6,100.0,7.99,0,5.4,77.1,43.0,54.0,Medium
+STU0675,Sneha Patil,Female,BSc IT,1,72.0,40.9,100.0,7.98,2,4.6,60.1,90.4,69.5,High
+STU0676,Varun Sharma,Male,BBA,1,48.8,71.1,100.0,7.49,3,0.8,80.5,63.6,31.7,High
+STU0677,Riya Shah,Female,BCA,6,79.4,70.6,68.5,9.83,3,2.9,48.7,52.2,71.7,High
+STU0678,Diya Patil,Male,BSc IT,5,84.5,,39.9,6.87,0,7.0,64.9,61.8,29.8,High
+STU0679,Rahul Shah,Male,BCA,4,63.0,81.9,29.8,7.67,3,5.5,77.5,56.1,85.5,High
+STU0680,Aryan Shah,Female,BCom,6,89.5,76.9,60.9,4.62,0,0.7,79.9,57.6,83.1,High
+STU0681,Kavya Kulkarni,Male,BSc CS,1,47.0,79.6,68.4,5.56,0,3.4,71.9,64.7,75.1,High
+STU0682,Amit Verma,Female,BCom,4,49.6,64.1,95.4,5.0,0,4.2,59.1,94.0,51.5,High
+STU0683,Rahul Patil,Male,BSc CS,4,74.0,41.4,87.6,8.71,0,2.1,78.5,58.0,68.4,High
+STU0684,Ananya Khan,Male,BBA,5,72.4,79.6,76.1,2.97,1,0.5,55.0,92.9,54.7,High
+STU0685,Arjun Patil,Male,BSc IT,4,61.3,59.7,56.0,6.2,0,3.7,91.3,80.7,44.4,High
+STU0686,Karan Joshi,Female,BBA,2,84.1,41.8,54.7,2.31,3,2.1,63.7,73.9,58.2,High
+STU0687,Isha Singh,Male,BSc CS,4,80.0,85.6,76.6,5.55,0,2.1,41.9,79.2,79.0,Medium
+STU0688,Aditya Sharma,Female,BSc CS,5,84.9,97.6,84.5,6.06,0,2.9,47.1,68.2,65.9,Medium
+STU0689,Ananya Shah,Male,BSc CS,6,70.2,63.3,79.1,8.88,3,3.3,65.7,87.3,94.0,High
+STU0690,Arjun Verma,Male,BCA,5,81.0,98.5,53.4,7.39,0,3.5,67.1,76.5,80.3,Medium
+STU0691,Neha Pawar,Female,BSc IT,5,65.3,65.5,83.7,5.55,1,1.9,94.5,43.0,78.2,High
+STU0692,Karan Singh,Female,BBA,1,100.0,57.9,79.7,8.4,1,3.1,49.4,72.4,32.8,High
+STU0693,Arjun Khan,Female,BBA,2,59.8,53.9,52.7,6.83,0,0.5,65.6,79.8,59.3,High
+STU0694,Diya Patil,Female,BCom,1,100.0,90.2,57.9,6.86,1,4.1,49.1,63.7,43.7,High
+STU0695,Neha Deshmukh,Female,BSc CS,6,72.5,51.5,84.4,5.0,0,0.5,57.6,69.9,61.3,High
+STU0696,Aryan Verma,Male,BSc CS,3,51.4,75.8,67.8,5.31,2,3.0,90.3,58.8,51.1,High
+STU0697,Rahul Sharma,Male,BSc CS,6,92.5,55.1,100.0,5.56,0,,48.0,47.3,57.4,High
+STU0698,Riya Patil,Female,BBA,2,73.9,56.6,81.0,6.87,0,1.6,73.8,44.7,86.2,High
+STU0699,Kavya Sharma,Male,BCom,4,84.8,80.5,63.2,6.92,0,4.8,70.9,44.9,74.5,Medium
+STU0700,Varun Gupta,Male,BCA,5,90.4,57.9,71.8,9.12,0,5.6,64.6,78.0,85.1,Medium
+STU0701,Amit Yadav,Male,BSc IT,3,77.1,57.5,73.1,7.38,1,0.5,72.8,30.6,33.0,High
+STU0702,Kavya Jadhav,Female,BCA,2,63.1,82.1,58.9,2.74,3,3.2,47.6,58.0,66.2,High
+STU0703,Kavya Joshi,Male,BBA,1,86.6,89.6,55.6,7.19,1,0.5,89.8,56.5,84.3,Medium
+STU0704,Sneha Khan,Male,BSc CS,5,72.0,74.3,84.6,4.62,0,3.3,93.9,63.8,95.1,Medium
+STU0705,Aryan Jadhav,Male,BSc IT,6,82.3,53.5,87.2,5.35,3,3.5,65.7,40.2,34.0,High
+STU0706,Akash Singh,Female,BBA,1,39.7,55.8,82.9,5.58,0,0.5,100.0,74.1,58.0,High
+STU0707,Aditya Pawar,Male,BBA,2,78.7,65.3,99.3,5.8,1,7.0,59.0,48.9,85.7,High
+STU0708,Rohan Jadhav,Male,BBA,2,62.4,69.1,62.2,4.74,1,4.0,71.0,85.0,61.2,High
+STU0709,Ananya Jadhav,Female,BSc IT,6,96.8,48.2,100.0,7.11,0,2.0,86.5,58.7,46.8,Medium
+STU0710,Aarav Verma,Female,BSc IT,3,81.3,75.6,55.8,4.68,2,6.1,58.1,66.6,34.0,High
+STU0711,Amit Joshi,Male,BCom,6,75.6,65.4,53.8,7.34,0,0.5,44.3,68.1,46.0,High
+STU0712,Varun Yadav,Male,BCom,4,79.3,36.5,40.3,10.0,1,1.3,40.8,71.7,31.2,High
+STU0713,Vishal Khan,Female,BCA,1,57.0,49.1,64.0,4.81,1,0.5,95.9,68.6,66.2,High
+STU0714,Sneha Kulkarni,Female,BSc IT,3,96.3,55.9,62.9,6.37,2,6.7,57.1,61.6,82.9,High
+STU0715,Rahul Khan,Female,BSc IT,5,100.0,62.8,81.5,3.01,2,4.1,62.2,73.1,39.8,High
+STU0716,Aditya Shah,Female,BSc IT,4,77.9,94.2,76.4,6.35,0,4.7,48.3,75.0,70.2,Medium
+STU0717,Aditya Gupta,Female,BCom,3,95.9,67.8,50.5,7.76,1,4.0,79.2,56.5,81.9,High
+STU0718,Isha Shah,Female,BBA,1,63.5,50.5,64.9,7.88,0,4.5,53.3,74.4,64.9,High
+STU0719,Diya Sharma,Female,BSc CS,2,60.0,67.5,65.3,6.92,0,3.6,57.6,85.9,32.8,High
+STU0720,Aarav Shah,Male,BCom,5,72.6,58.4,40.0,8.13,2,4.0,69.5,78.6,72.7,High
+STU0721,Kavya Jadhav,Female,BSc IT,6,78.5,69.2,54.3,10.0,3,3.7,49.0,82.0,63.9,High
+STU0722,Karan Shah,Female,BCom,1,66.1,73.3,58.1,9.37,2,2.4,62.3,70.6,61.9,High
+STU0723,Aryan Yadav,Male,BCA,4,80.1,83.3,97.8,6.02,0,3.4,86.0,54.0,54.1,High
+STU0724,Akash Patil,Female,BSc IT,4,76.6,63.6,75.4,4.62,2,4.0,71.4,55.9,66.7,High
+STU0725,Ananya More,Female,BCA,2,57.0,90.2,83.9,6.19,3,3.7,67.0,72.8,75.2,High
+STU0726,Neha Yadav,Male,BSc IT,2,79.8,78.5,45.0,5.38,0,0.8,68.2,82.1,100.0,High
+STU0727,Arjun Patil,Female,BCom,5,85.0,52.7,93.5,7.48,0,1.1,59.2,100.0,67.2,High
+STU0728,Neha Yadav,Male,BBA,6,74.6,99.4,95.4,5.03,1,5.4,94.9,82.7,95.2,High
+STU0729,Ananya More,Male,BSc CS,5,89.3,69.2,36.0,6.69,1,2.9,52.8,50.4,72.2,High
+STU0730,Sneha Deshmukh,Male,BCA,2,53.7,50.6,59.3,8.06,4,4.6,68.2,56.5,63.0,High
+STU0731,Sneha Verma,Male,BCom,2,,90.4,80.9,6.65,0,1.5,66.7,100.0,68.0,Medium
+STU0732,Sneha More,Female,BBA,4,54.4,97.2,83.6,5.38,1,0.8,80.1,64.8,40.6,High
+STU0733,Sahil Jadhav,Male,BCom,2,55.3,63.5,59.8,8.56,1,2.0,81.5,68.7,71.1,High
+STU0734,Varun Jadhav,Male,BCA,3,62.5,55.9,66.5,3.98,0,3.1,64.5,53.6,25.2,High
+STU0735,Sneha Pawar,Female,BSc CS,1,57.9,61.2,61.2,6.31,2,2.3,69.4,91.5,47.7,High
+STU0736,Ananya Singh,Male,BCom,2,63.8,75.4,74.0,6.74,0,5.8,69.9,75.5,67.2,High
+STU0737,Sahil Singh,Male,BSc IT,5,68.8,84.4,93.5,6.82,0,3.8,30.9,56.4,88.9,High
+STU0738,Diya Shah,Male,BBA,6,84.6,73.1,58.1,7.07,0,6.8,41.2,53.1,93.6,High
+STU0739,Tanvi Shah,Male,BCom,6,67.2,65.6,90.0,7.72,0,4.2,55.9,72.6,60.3,High
+STU0740,Neha Khan,Female,BBA,6,48.2,88.0,57.9,6.75,1,0.5,56.6,68.7,68.1,High
+STU0741,Isha Deshmukh,Male,BSc IT,3,89.1,59.0,56.7,6.25,3,5.4,47.0,80.5,84.7,High
+STU0742,Rohan Verma,Female,BSc CS,5,59.4,80.5,86.7,6.19,0,0.8,76.2,76.2,38.4,High
+STU0743,Sahil Pawar,Female,BSc CS,3,,59.4,88.6,5.88,0,3.9,65.0,64.0,73.1,High
+STU0744,Sneha Pawar,Male,BSc IT,2,,70.9,87.3,7.98,0,2.1,61.8,59.8,48.4,Medium
+STU0745,Aryan Kulkarni,Male,BBA,1,75.0,62.2,48.3,5.83,1,7.4,46.2,65.6,61.6,High
+STU0746,Rohan Gupta,Male,BCom,6,88.4,63.1,63.6,8.07,3,6.1,64.3,59.7,55.8,High
+STU0747,Aryan Shah,Male,BSc IT,5,79.2,58.0,86.8,6.83,1,2.2,25.6,66.0,73.7,High
+STU0748,Varun Jadhav,Female,BCA,6,59.1,85.5,72.7,6.02,1,3.3,62.6,68.2,76.0,High
+STU0749,Tanvi Khan,Female,BBA,3,100.0,52.3,52.7,7.73,1,3.9,65.9,54.5,82.8,High
+STU0750,Tanvi Kulkarni,Female,BSc CS,4,74.9,52.2,80.2,5.71,0,5.1,68.6,77.5,72.0,High
+STU0751,Vishal Pawar,Male,BSc IT,2,69.8,97.9,59.1,7.76,1,3.6,41.5,62.4,68.4,High
+STU0752,Akash Patil,Female,BSc CS,1,86.5,79.6,100.0,7.12,1,1.7,68.4,55.4,100.0,High
+STU0753,Karan Pawar,Male,BBA,2,75.7,25.8,99.8,5.91,1,2.2,49.4,62.7,34.5,High
+STU0754,Sneha Kulkarni,Male,BSc CS,4,78.0,55.0,82.9,7.59,2,3.5,52.8,71.6,98.9,High
+STU0755,Akash More,Male,BSc IT,1,100.0,35.0,96.5,7.62,1,5.7,75.8,69.2,59.2,Medium
+STU0756,Rahul Patil,Male,BBA,4,67.9,48.8,73.2,8.54,1,4.3,95.2,74.3,76.4,High
+STU0757,Akash Gupta,Male,BCA,2,67.2,20.0,85.8,8.25,3,2.1,65.8,81.5,58.5,High
+STU0758,Kavya Jadhav,Female,BSc IT,3,73.7,,98.6,7.54,4,4.7,52.7,87.6,50.9,High
+STU0759,Neha Pawar,Female,BCom,2,88.1,45.7,76.4,5.11,1,2.8,67.8,72.3,74.7,High
+STU0760,Rohan Jadhav,Male,BSc IT,2,49.4,65.0,67.4,10.0,0,5.1,79.1,52.0,85.8,High
+STU0761,Sneha Joshi,Female,BBA,2,42.5,38.0,41.3,4.69,0,8.0,74.3,64.0,74.5,High
+STU0762,Rahul Patil,Male,BSc IT,5,63.2,65.3,70.5,8.22,1,2.9,100.0,52.9,54.2,High
+STU0763,Aarav Deshmukh,Male,BCA,4,47.5,57.4,86.8,7.45,0,4.9,54.3,93.5,100.0,High
+STU0764,Karan More,Male,BCA,4,65.6,88.0,89.0,5.04,0,2.2,68.8,97.8,89.0,High
+STU0765,Aditya Pawar,Female,BCom,6,79.5,86.6,81.1,6.61,0,3.3,88.2,77.8,83.7,Medium
+STU0766,Akash Verma,Male,BSc CS,4,58.6,76.6,62.3,6.68,1,3.6,87.3,80.9,57.9,High
+STU0767,Aditya Kulkarni,Male,BBA,6,50.6,58.8,36.4,8.76,0,3.2,35.7,71.8,52.5,Medium
+STU0768,Rahul Deshmukh,Female,BBA,5,73.0,95.8,63.1,5.73,0,7.9,64.9,73.5,59.4,Medium
+STU0769,Tanvi Yadav,Female,BSc CS,3,84.9,39.2,66.5,6.41,0,2.9,87.3,44.0,86.6,High
+STU0770,Aryan Kulkarni,Female,BCA,6,46.6,41.5,66.4,3.3,1,4.6,100.0,66.9,45.2,High
+STU0771,Vishal Deshmukh,Male,BCA,2,84.3,62.7,83.1,9.4,0,0.5,75.6,54.8,43.6,Medium
+STU0772,Sneha Deshmukh,Male,BSc IT,3,84.3,100.0,100.0,5.19,0,4.3,59.5,72.2,75.8,High
+STU0773,Neha Shah,Female,BCom,5,86.3,60.8,74.2,7.29,1,5.6,49.9,67.1,71.4,High
+STU0774,Sahil Jadhav,Male,BCom,4,90.3,61.1,68.1,6.65,1,2.6,98.3,97.2,49.6,High
+STU0775,Neha Shah,Female,BCom,6,100.0,40.9,67.3,6.65,0,0.5,75.9,81.7,43.2,High
+STU0776,Karan Kulkarni,Female,BSc IT,2,66.7,79.1,74.2,8.01,1,3.4,52.3,72.3,93.8,High
+STU0777,Aryan Joshi,Male,BCom,1,73.6,79.3,57.1,9.31,0,3.5,62.0,64.0,72.1,Medium
+STU0778,Ananya Sharma,Male,BSc CS,1,65.8,76.6,74.2,7.18,1,4.8,69.7,93.1,37.7,High
+STU0779,Sneha Yadav,Female,BSc IT,3,72.0,53.9,80.1,7.78,0,7.1,73.2,67.6,39.1,Medium
+STU0780,Rahul Kulkarni,Female,BSc CS,4,95.0,52.7,75.8,7.29,0,2.8,51.5,73.0,57.8,High
+STU0781,Tanvi Joshi,Female,BSc IT,1,51.8,43.3,80.2,8.33,1,2.0,55.8,68.6,79.7,High
+STU0782,Tanvi Kulkarni,Female,BCom,3,59.1,65.3,79.8,6.11,1,1.4,40.2,61.9,76.9,High
+STU0783,Ananya Shah,Male,BSc CS,5,92.7,46.7,40.1,8.41,0,3.9,80.6,68.5,87.6,High
+STU0784,Sahil Sharma,Female,BSc CS,3,87.3,45.2,83.5,8.47,0,4.4,59.9,38.6,35.2,High
+STU0785,Riya Shah,Female,BSc CS,3,66.6,57.2,59.9,8.42,2,2.5,72.0,44.8,69.5,High
+STU0786,Rohan Sharma,Female,BSc IT,3,84.8,56.2,52.3,5.81,1,4.9,86.3,73.2,93.5,High
+STU0787,Amit More,Male,BBA,2,77.1,55.4,52.1,6.55,0,4.3,68.3,91.5,91.7,High
+STU0788,Ananya Deshmukh,Male,BCom,3,94.5,71.5,79.8,7.16,1,3.6,63.3,73.2,72.2,High
+STU0789,Ananya Khan,Female,BSc CS,6,73.1,65.3,68.0,4.74,0,1.9,67.9,57.2,100.0,High
+STU0790,Arjun Pawar,Male,BBA,3,87.4,59.4,41.7,9.19,0,2.6,65.9,46.4,77.2,Medium
+STU0791,Riya Jadhav,Male,BCom,2,100.0,66.9,80.6,6.78,0,0.5,83.7,79.8,85.9,High
+STU0792,Kavya Kulkarni,Male,BCom,2,81.0,48.1,46.1,7.23,0,3.9,69.7,59.5,65.9,High
+STU0793,Rahul Patil,Female,BSc CS,5,72.7,65.7,74.5,5.93,0,3.5,56.8,77.6,49.4,High
+STU0794,Aryan Joshi,Female,BSc CS,4,82.8,66.4,76.3,4.81,0,3.8,80.7,73.8,47.5,High
+STU0795,Amit Khan,Male,BSc IT,1,66.5,40.0,87.9,5.89,0,4.4,83.5,75.2,68.6,High
+STU0796,Diya Joshi,Female,BBA,1,100.0,79.9,100.0,7.13,0,4.2,44.9,68.5,60.8,Medium
+STU0797,Varun Deshmukh,Female,BBA,3,74.7,49.9,47.4,7.81,0,3.3,88.0,73.8,29.6,High
+STU0798,Riya Verma,Male,BSc CS,5,67.9,65.4,71.1,7.04,0,3.6,70.5,66.2,44.5,High
+STU0799,Kavya Patil,Male,BCom,3,59.5,82.6,67.0,7.32,1,1.0,69.2,58.5,58.6,High
+STU0800,Isha Sharma,Female,BSc CS,1,88.5,78.8,79.8,6.29,0,2.4,80.1,53.5,79.5,High
+STU0801,Akash Jadhav,Male,BCom,2,85.0,64.5,75.9,7.54,1,3.6,56.5,32.2,64.7,High
+STU0802,Arjun Gupta,Female,BCom,4,64.5,58.2,65.7,9.02,0,2.2,79.3,65.3,63.6,Medium
+STU0803,Ananya Singh,Female,BSc CS,5,80.6,79.2,64.1,7.86,0,5.0,59.3,90.8,45.3,Medium
+STU0804,Rohan Pawar,Male,BCA,2,49.4,74.8,51.9,8.01,1,2.3,42.9,79.0,65.5,High
+STU0805,Sneha Shah,Female,BBA,4,74.8,54.1,89.8,7.24,3,3.9,50.0,71.4,91.4,High
+STU0806,Akash Joshi,Female,BCom,5,78.8,51.3,80.3,4.55,0,3.7,73.5,57.0,68.1,High
+STU0807,Sneha Deshmukh,Male,BCom,5,97.6,30.8,88.5,5.23,0,4.8,50.8,83.0,34.9,High
+STU0808,Karan Yadav,Male,BCA,1,60.4,66.5,66.4,7.48,1,5.1,89.2,66.2,40.0,Medium
+STU0809,Tanvi Patil,Male,BSc IT,2,52.8,62.7,60.2,6.78,3,4.7,82.8,91.6,76.8,High
+STU0810,Sneha Jadhav,Female,BCA,5,58.6,82.2,52.6,7.46,4,0.5,85.0,53.3,60.5,High
+STU0811,Akash Yadav,Male,BCA,6,52.0,69.7,78.5,9.31,0,5.6,66.9,56.8,63.5,Medium
+STU0812,Arjun Deshmukh,Male,BCom,5,92.0,85.3,53.3,7.89,0,6.2,68.9,55.3,52.7,Low
+STU0813,Rohan Shah,Male,BBA,4,95.2,52.8,100.0,8.69,1,2.6,47.1,45.8,75.1,Medium
+STU0814,Isha Joshi,Male,BCA,1,76.8,82.2,48.5,6.94,1,3.9,79.9,53.9,59.0,High
+STU0815,Riya Gupta,Female,BSc IT,3,90.3,55.5,76.9,5.59,1,1.9,70.7,69.5,61.3,High
+STU0816,Aditya Khan,Female,BSc CS,1,74.0,76.4,100.0,6.71,2,0.5,73.5,57.3,48.0,High
+STU0817,Isha Jadhav,Male,BCA,3,70.6,40.7,82.8,5.59,1,2.2,90.3,20.0,83.4,High
+STU0818,Akash Khan,Female,BCA,2,67.0,67.8,75.2,9.14,0,2.5,55.9,84.1,60.6,Medium
+STU0819,Isha Yadav,Male,BSc IT,2,67.3,32.2,54.6,7.99,0,2.9,63.1,42.7,77.2,High
+STU0820,Aditya More,Male,BBA,5,48.8,59.7,47.1,7.58,1,1.8,69.9,76.8,41.1,High
+STU0821,Karan Shah,Female,BCA,6,76.0,71.0,85.9,8.65,0,2.2,51.0,68.5,99.7,Medium
+STU0822,Rohan Jadhav,Female,BCA,2,71.4,55.7,99.1,3.77,0,3.5,62.2,99.8,90.5,High
+STU0823,Ananya Khan,Male,BBA,5,83.2,47.2,64.1,7.68,0,2.1,72.4,83.0,26.8,High
+STU0824,Aditya Jadhav,Male,BSc IT,1,73.4,77.5,51.5,4.83,0,4.5,60.1,60.4,49.0,High
+STU0825,Rohan Singh,Female,BCA,2,69.6,62.3,27.8,6.79,0,4.7,84.6,57.5,74.6,High
+STU0826,Diya Khan,Male,BBA,1,58.9,56.2,54.3,6.33,2,7.8,42.3,90.5,38.6,High
+STU0827,Ananya Verma,Female,BCA,1,73.1,64.7,70.0,7.79,0,5.5,81.8,45.9,62.4,Medium
+STU0828,Tanvi Singh,Male,BSc CS,6,83.1,100.0,100.0,7.14,0,3.9,74.9,70.9,73.5,High
+STU0829,Ananya More,Male,BCom,2,54.8,82.5,84.1,8.82,0,2.4,56.5,66.0,61.3,High
+STU0830,Sahil Deshmukh,Female,BSc CS,1,73.3,,77.5,5.9,0,4.0,51.1,62.9,75.8,High
+STU0831,Ananya Deshmukh,Female,BCA,6,75.5,71.0,64.8,7.86,3,4.1,33.8,73.3,51.1,High
+STU0832,Sneha Patil,Female,BSc IT,6,61.2,66.7,61.5,7.04,2,2.6,53.1,70.8,20.1,High
+STU0833,Diya Deshmukh,Female,BCom,2,63.2,25.7,97.3,4.35,0,4.9,80.7,74.9,84.6,High
+STU0834,Varun Verma,Female,BSc CS,6,75.5,53.1,75.6,5.42,1,1.0,64.2,70.1,84.5,High
+STU0835,Akash Jadhav,Female,BBA,2,55.0,56.3,34.2,6.58,0,3.1,82.4,74.3,100.0,High
+STU0836,Diya Patil,Female,BSc IT,2,77.2,34.0,59.9,8.47,4,4.5,55.7,69.4,20.9,High
+STU0837,Diya Khan,Male,BSc CS,3,58.6,45.5,56.6,7.5,0,3.0,75.6,58.1,80.0,High
+STU0838,Rahul Deshmukh,Male,BBA,1,87.9,32.3,62.2,5.05,0,3.1,54.2,68.1,25.6,High
+STU0839,Aarav Singh,Male,BCA,4,100.0,63.4,82.1,6.59,1,3.3,50.5,57.3,100.0,High
+STU0840,Varun Jadhav,Female,BBA,2,59.1,77.1,70.1,9.83,2,2.0,63.4,56.3,74.8,High
+STU0841,Aarav Khan,Female,BSc CS,1,80.0,81.7,70.6,6.97,0,5.6,55.0,63.0,46.0,Medium
+STU0842,Sahil Shah,Female,BSc CS,6,61.1,70.6,95.6,6.31,1,1.7,41.9,66.2,80.6,High
+STU0843,Rahul Khan,Male,BCA,5,87.6,48.6,59.5,7.54,0,4.1,62.3,68.5,53.9,High
+STU0844,Rahul Shah,Female,BBA,2,53.0,33.1,100.0,7.95,2,4.2,66.6,81.7,71.0,High
+STU0845,Karan Joshi,Female,BBA,6,79.2,35.9,59.9,6.12,0,1.8,84.0,60.5,69.1,High
+STU0846,Arjun More,Male,BCA,6,58.9,43.7,73.6,7.55,2,3.6,79.1,71.0,99.9,High
+STU0847,Aryan Gupta,Female,BBA,6,68.9,49.8,66.9,6.31,0,1.9,83.3,69.8,100.0,High
+STU0848,Kavya Deshmukh,Male,BCA,6,56.5,61.4,74.2,7.88,0,6.0,75.8,58.9,53.1,Medium
+STU0849,Varun Pawar,Male,BSc IT,6,84.3,47.8,80.0,7.05,3,1.5,70.0,69.1,86.2,High
+STU0850,Karan Verma,Female,BSc CS,2,59.4,69.4,79.8,7.52,4,2.3,46.6,83.0,72.1,High
+STU0851,Kavya Gupta,Female,BSc IT,4,80.3,,58.4,5.66,1,1.3,67.2,70.8,36.7,High
+STU0852,Aryan Patil,Female,BCom,3,66.8,64.2,51.8,5.57,0,1.1,74.0,71.4,51.1,High
+STU0853,Amit Patil,Male,BCom,6,70.3,82.2,100.0,8.22,0,6.4,86.9,57.4,100.0,Medium
+STU0854,Riya Deshmukh,Male,BCom,6,74.2,45.1,63.3,6.68,0,4.5,75.3,97.5,72.2,High
+STU0855,Neha Pawar,Male,BCA,3,60.6,70.7,84.6,7.23,0,3.8,83.6,58.3,85.0,Medium
+STU0856,Aditya Deshmukh,Female,BBA,2,75.2,63.8,43.1,6.34,1,2.3,49.5,43.0,60.8,High
+STU0857,Riya Khan,Female,BSc IT,1,95.0,58.7,67.0,8.15,0,5.1,60.1,80.9,54.2,Low
+STU0858,Sneha Shah,Female,BSc IT,5,60.3,78.2,69.7,5.89,1,2.0,71.4,66.3,65.5,High
+STU0859,Sneha Jadhav,Female,BSc IT,5,89.6,78.1,80.5,6.6,1,4.9,82.4,63.5,59.7,High
+STU0860,Aditya More,Male,BSc IT,1,94.5,48.9,23.0,7.98,0,1.9,62.8,59.8,35.1,Medium
+STU0861,Rahul Yadav,Male,BCom,2,59.8,61.1,75.0,8.56,1,2.3,63.8,96.1,44.9,High
+STU0862,Sahil Singh,Male,BSc IT,5,50.2,68.5,51.3,6.01,1,4.9,75.3,73.3,79.2,High
+STU0863,Varun Kulkarni,Male,BBA,3,76.5,59.6,77.8,9.74,1,5.1,48.1,76.2,57.4,High
+STU0864,Aryan Verma,Female,BCom,1,63.8,73.4,53.3,7.27,0,4.6,89.1,70.4,65.5,High
+STU0865,Isha Patil,Female,BSc IT,4,100.0,68.5,56.6,5.24,1,1.6,51.8,72.1,69.7,High
+STU0866,Rohan Kulkarni,Female,BCA,2,72.5,93.3,67.1,7.35,0,2.7,36.2,89.0,71.3,High
+STU0867,Ananya Deshmukh,Male,BSc CS,1,60.0,39.5,53.1,6.23,0,3.8,65.2,64.2,87.9,High
+STU0868,Amit Joshi,Male,BSc CS,5,54.8,62.0,63.4,7.45,1,2.0,90.5,46.1,43.0,High
+STU0869,Amit Patil,Female,BSc CS,2,88.3,49.5,50.5,6.74,1,6.0,73.8,81.0,76.4,High
+STU0870,Amit Khan,Female,BCom,3,63.4,73.7,39.0,6.91,0,0.5,76.3,75.5,80.1,High
+STU0871,Sneha More,Male,BSc IT,2,72.7,38.1,90.3,5.43,1,2.1,65.6,69.6,84.7,High
+STU0872,Sneha Verma,Female,BCom,2,86.3,69.5,48.7,8.29,3,2.6,62.7,75.1,36.7,High
+STU0873,Aarav Singh,Male,BBA,3,64.7,53.9,68.8,5.07,0,0.5,41.8,62.4,70.1,High
+STU0874,Tanvi Patil,Male,BCA,6,71.3,52.3,85.6,5.14,2,1.0,31.1,68.3,99.3,High
+STU0875,Riya Deshmukh,Male,BCA,3,71.8,40.9,60.9,7.35,1,4.6,67.9,66.0,63.0,High
+STU0876,Neha Joshi,Female,BSc CS,2,82.2,56.6,57.1,9.2,1,3.6,84.7,59.1,74.7,High
+STU0877,Akash Joshi,Female,BSc CS,3,80.9,81.4,76.1,6.27,0,6.3,70.2,85.8,80.6,High
+STU0878,Neha Pawar,Male,BSc CS,6,68.7,63.6,92.1,7.85,0,6.3,74.4,46.8,44.5,Medium
+STU0879,Kavya Sharma,Female,BSc IT,1,73.0,74.0,51.0,8.41,2,4.3,88.8,100.0,100.0,Medium
+STU0880,Arjun Yadav,Male,BBA,3,66.4,90.6,69.3,8.02,0,4.1,69.9,81.2,75.0,Medium
+STU0881,Kavya Verma,Male,BBA,3,49.8,68.2,40.8,6.33,0,3.6,63.2,41.3,75.4,High
+STU0882,Aditya Kulkarni,Male,BBA,2,75.9,55.1,64.9,5.16,1,0.5,52.7,64.6,31.8,High
+STU0883,Aditya Deshmukh,Male,BBA,1,100.0,71.5,72.6,3.49,0,1.0,95.3,65.5,80.9,High
+STU0884,Amit Sharma,Female,BSc CS,4,58.7,55.3,56.6,6.41,1,3.7,72.9,73.9,75.1,High
+STU0885,Akash Deshmukh,Male,BCA,4,60.4,55.9,63.8,8.57,1,4.6,50.8,53.2,97.5,High
+STU0886,Isha Pawar,Male,BSc CS,5,58.9,39.7,46.7,5.11,2,4.0,47.4,68.5,58.8,High
+STU0887,Rohan Pawar,Female,BBA,3,82.9,78.8,73.4,7.85,1,1.9,83.8,66.2,45.2,Medium
+STU0888,Kavya Joshi,Male,BSc CS,3,78.7,57.8,91.0,5.37,0,5.2,49.4,56.9,51.4,High
+STU0889,Aditya Kulkarni,Male,BBA,1,69.6,66.9,52.3,6.96,0,6.2,92.8,54.8,54.9,High
+STU0890,Vishal Singh,Female,BCom,6,58.2,47.4,60.8,7.86,1,5.2,23.7,81.8,42.6,High
+STU0891,Kavya Khan,Female,BCA,4,73.4,71.0,81.0,5.81,0,5.3,86.3,42.6,90.8,High
+STU0892,Akash Sharma,Female,BCom,5,48.5,51.8,93.8,7.06,3,2.5,72.3,75.2,91.6,High
+STU0893,Neha Jadhav,Male,BSc IT,1,74.2,61.7,45.1,6.18,1,5.4,66.8,80.0,61.1,High
+STU0894,Rohan Gupta,Female,BSc CS,3,85.1,78.0,69.0,7.86,0,3.8,62.4,64.7,57.1,Medium
+STU0895,Vishal Singh,Female,BSc IT,4,53.2,76.7,77.1,7.15,2,4.4,93.4,68.8,28.7,High
+STU0896,Varun Shah,Male,BSc CS,5,49.0,63.6,70.2,6.88,0,4.2,75.6,85.5,78.9,High
+STU0897,Ananya Yadav,Male,BCom,2,95.7,35.7,27.4,9.14,0,3.3,51.5,57.4,98.1,Medium
+STU0898,Aarav Verma,Male,BBA,4,62.8,100.0,81.0,7.79,1,2.0,39.2,59.0,52.3,High
+STU0899,Arjun Patil,Male,BBA,5,89.0,91.9,99.3,5.76,2,3.4,67.7,60.6,62.7,High
+STU0900,Akash Sharma,Male,BSc CS,1,69.7,75.6,74.1,6.67,0,5.3,65.0,85.5,73.7,High
+STU0901,Neha Patil,Female,BBA,2,69.6,51.9,53.4,6.69,0,2.7,42.2,87.4,99.5,High
+STU0902,Rohan More,Female,BCom,5,78.6,62.2,62.8,6.92,0,5.1,64.2,47.1,69.0,High
+STU0903,Sahil Khan,Female,BBA,5,58.7,55.3,100.0,10.0,0,4.8,56.4,83.1,68.9,Medium
+STU0904,Diya More,Male,BCom,3,74.0,84.2,88.4,7.36,0,3.0,65.1,80.3,68.6,Medium
+STU0905,Riya Shah,Male,BSc IT,6,66.3,68.2,83.5,3.75,0,6.0,75.9,91.3,36.5,High
+STU0906,Sneha Deshmukh,Male,BCom,4,52.2,51.5,78.4,5.99,1,2.9,87.4,73.8,36.1,High
+STU0907,Diya Khan,Female,BCA,3,77.1,56.5,60.1,3.9,2,6.2,78.6,67.3,48.8,High
+STU0908,Riya Patil,Female,BCA,2,68.1,81.9,68.4,6.31,0,4.3,54.2,85.2,85.3,High
+STU0909,Vishal Pawar,Male,BCA,6,69.6,89.6,70.6,3.82,0,3.5,70.5,78.5,58.3,High
+STU0910,Akash Deshmukh,Female,BSc CS,5,,88.5,81.9,5.49,2,1.9,65.9,100.0,54.4,High
+STU0911,Neha Gupta,Male,BSc CS,3,95.9,76.1,99.2,4.52,1,3.3,45.0,82.4,54.1,High
+STU0912,Akash Joshi,Female,BSc CS,6,85.2,60.0,92.1,7.38,3,3.1,71.0,70.3,62.2,High
+STU0913,Riya Shah,Female,BCom,4,86.5,20.0,46.5,6.8,0,1.2,92.9,50.4,99.0,High
+STU0914,Riya Pawar,Female,BSc CS,2,67.4,68.8,76.0,7.25,0,3.1,65.5,59.3,62.0,High
+STU0915,Sneha Kulkarni,Male,BSc IT,1,46.1,64.0,85.3,6.64,0,2.1,41.1,46.5,49.3,High
+STU0916,Neha Joshi,Female,BCA,3,150.0,66.2,83.1,4.71,1,4.6,65.5,64.8,65.5,High
+STU0917,Amit Shah,Female,BCom,2,71.1,64.9,60.7,7.57,0,5.9,46.8,81.9,100.0,Medium
+STU0918,Arjun Shah,Male,BCA,1,60.8,42.8,100.0,9.68,1,1.3,78.0,67.9,54.9,High
+STU0919,Aditya Jadhav,Female,BSc CS,3,78.3,72.9,49.0,7.41,0,6.6,72.9,83.3,41.4,Medium
+STU0920,Diya Khan,Male,BCom,2,89.5,74.1,52.5,6.16,0,3.3,62.4,73.1,55.0,High
+STU0921,Rahul Sharma,Male,BBA,2,71.7,74.9,76.2,4.66,1,1.7,60.0,62.0,67.6,High
+STU0922,Diya Gupta,Male,BSc IT,6,91.2,79.1,100.0,5.44,0,4.9,61.8,69.3,78.8,High
+STU0923,Tanvi Kulkarni,Male,BSc CS,3,88.2,73.7,56.9,7.48,1,2.7,65.1,75.1,85.1,High
+STU0924,Tanvi Kulkarni,Male,BSc CS,2,55.9,57.4,67.2,8.41,0,3.4,53.4,70.1,44.1,High
+STU0925,Rohan Singh,Female,BSc IT,5,61.9,62.9,91.4,7.19,0,2.8,44.2,70.3,46.0,High
+STU0926,Kavya Deshmukh,Male,BSc IT,3,86.4,65.5,71.7,8.0,0,2.0,82.1,56.5,58.5,High
+STU0927,Aarav More,Male,BBA,2,31.3,65.7,66.0,7.86,0,4.8,59.2,61.5,78.7,High
+STU0928,Arjun Shah,Male,BSc CS,6,69.8,80.0,82.2,7.56,0,3.0,67.5,100.0,39.8,Medium
+STU0929,Diya Khan,Male,BSc CS,1,50.5,74.3,76.9,5.81,1,0.9,69.3,86.4,52.9,High
+STU0930,Varun Jadhav,Female,BCA,1,64.9,97.2,90.5,7.06,2,4.5,69.8,45.9,53.1,High
+STU0931,Isha Sharma,Male,BCom,5,67.5,99.3,95.2,5.53,0,1.3,47.4,32.5,83.8,High
+STU0932,Neha Shah,Female,BCom,3,66.6,65.3,77.5,6.83,0,1.4,39.9,69.1,75.6,High
+STU0933,Riya Singh,Male,BCA,6,63.7,20.0,77.3,7.3,4,5.6,56.2,81.4,83.1,High
+STU0934,Vishal Sharma,Female,BCom,2,55.5,83.8,75.9,9.32,0,1.3,70.9,60.2,91.8,Medium
+STU0935,Karan Jadhav,Male,BSc IT,2,100.0,55.4,80.8,4.84,0,0.5,54.1,83.3,58.9,High
+STU0936,Tanvi More,Male,BCom,1,100.0,51.2,73.0,7.52,0,4.6,59.7,68.9,41.3,Medium
+STU0937,Aarav Patil,Female,BCom,6,54.6,57.6,72.0,9.02,1,3.0,96.9,65.6,41.4,High
+STU0938,Aarav Sharma,Male,BCA,5,95.7,56.9,93.5,7.94,0,3.1,37.3,79.3,28.2,Medium
+STU0939,Isha Deshmukh,Female,BBA,1,66.0,73.8,99.3,8.05,1,2.9,53.7,60.0,55.8,High
+STU0940,Aarav Deshmukh,Male,BCom,1,73.9,39.0,44.9,7.68,0,3.9,93.4,63.7,57.3,High
+STU0941,Vishal Verma,Female,BCom,5,71.1,46.8,72.2,8.75,0,2.1,64.3,78.1,80.8,Medium
+STU0942,Aryan Patil,Male,BBA,3,62.1,69.5,59.6,5.17,0,6.2,54.4,67.5,65.3,High
+STU0943,Arjun Pawar,Male,BCA,2,86.8,74.0,66.4,4.72,1,0.8,82.5,96.6,55.2,High
+STU0944,Riya Verma,Female,BBA,3,73.9,74.3,79.2,6.79,1,4.3,65.8,78.4,62.7,Medium
+STU0945,Tanvi Patil,Male,BCA,6,64.9,51.4,84.0,3.56,0,4.7,59.8,77.4,44.2,High
+STU0946,Karan Pawar,Male,BSc IT,4,52.4,48.3,70.0,8.65,0,2.1,67.9,67.3,85.5,High
+STU0947,Neha Sharma,Male,BCA,4,58.6,55.9,37.6,8.63,1,1.7,55.1,81.1,49.3,High
+STU0948,Diya Khan,Male,BSc IT,4,47.4,67.8,54.6,6.15,2,5.3,49.7,63.2,42.2,High
+STU0949,Akash Khan,Male,BSc IT,5,72.2,87.8,88.1,6.24,0,1.7,63.3,72.2,81.4,Medium
+STU0950,Arjun Shah,Male,BCA,1,54.1,31.2,22.7,6.69,1,2.4,49.8,54.3,76.5,High
+STU0951,Arjun Shah,Female,BSc CS,3,68.0,60.5,93.4,6.88,0,5.1,65.2,83.6,30.5,Medium
+STU0952,Aryan Shah,Female,BCA,2,92.6,42.7,81.4,6.99,0,3.6,70.3,72.4,82.1,High
+STU0953,Tanvi More,Female,BCom,4,90.0,37.6,95.7,7.64,0,0.5,77.8,97.7,50.2,Medium
+STU0954,Diya Jadhav,Male,BCom,3,71.5,79.5,68.4,6.54,1,6.6,81.9,100.0,57.5,Medium
+STU0955,Tanvi More,Female,BSc CS,4,70.7,72.7,34.9,8.21,0,2.5,58.9,79.4,68.7,High
+STU0956,Vishal Kulkarni,Male,BSc IT,4,100.0,71.2,79.7,7.47,2,2.8,72.5,69.0,76.7,High
+STU0957,Rohan Khan,Male,BSc CS,2,79.8,78.7,94.9,5.89,1,4.0,72.4,53.8,73.9,Medium
+STU0958,Aryan Khan,Male,BCom,6,67.1,56.3,88.6,8.8,2,4.6,69.9,81.6,64.0,High
+STU0959,Vishal Joshi,Male,BSc CS,6,50.6,57.1,60.1,4.76,0,7.0,57.8,71.2,56.5,High
+STU0960,Arjun Verma,Female,BCA,6,77.9,99.0,73.6,6.66,0,0.5,49.6,76.1,73.2,High
+STU0961,Akash Shah,Male,BSc CS,5,84.4,60.1,62.4,8.25,3,5.0,72.5,93.9,62.6,High
+STU0962,Karan Kulkarni,Female,BSc IT,1,62.5,75.8,57.3,5.72,1,4.8,39.4,55.6,100.0,High
+STU0963,Kavya Patil,Male,BCA,5,76.4,64.1,89.2,7.26,2,3.3,61.0,54.1,76.7,High
+STU0964,Neha Pawar,Female,BBA,3,66.5,34.4,50.4,7.62,0,4.9,26.7,64.5,46.5,High
+STU0965,Neha Deshmukh,Female,BCom,5,69.2,31.3,55.9,5.51,0,5.2,45.0,80.3,55.4,High
+STU0966,Rahul Yadav,Female,BCom,3,34.7,54.7,52.1,6.69,1,1.0,51.8,76.3,66.0,High
+STU0967,Varun Pawar,Female,BSc CS,3,68.7,80.9,45.2,6.57,0,6.6,81.5,54.6,91.0,High
+STU0968,Riya Joshi,Female,BCA,1,150.0,76.6,74.6,5.97,1,0.7,75.3,79.3,93.2,High
+STU0969,Rahul Jadhav,Female,BBA,2,62.5,78.6,92.9,10.0,0,1.5,56.7,50.0,57.1,Medium
+STU0970,Varun More,Male,BCA,1,72.8,48.2,68.7,5.66,0,3.0,75.9,55.4,46.3,High
+STU0971,Tanvi Singh,Female,BCom,6,60.7,89.9,44.9,8.31,0,7.0,78.3,66.3,43.8,High
+STU0972,Tanvi Yadav,Male,BCA,6,77.4,48.6,87.1,6.21,0,2.9,62.6,59.7,70.0,High
+STU0973,Ananya Jadhav,Female,BBA,5,68.8,67.4,100.0,5.17,0,3.4,44.2,81.3,100.0,High
+STU0974,Isha Khan,Male,BSc CS,3,57.9,63.8,60.4,6.95,1,6.1,61.9,72.3,75.8,High
+STU0975,Akash More,Female,BSc IT,4,92.0,61.2,63.4,7.77,0,3.0,63.5,94.5,33.1,Medium
+STU0976,Karan Yadav,Female,BCA,4,85.9,85.4,81.3,8.18,0,1.4,46.5,64.3,50.5,High
+STU0977,Akash Deshmukh,Male,BSc IT,3,62.9,52.7,100.0,9.14,2,2.7,70.5,66.2,52.5,High
+STU0978,Rohan Sharma,Female,BCom,1,79.5,42.4,62.6,10.0,0,6.0,69.2,86.2,48.6,Medium
+STU0979,Aryan More,Female,BSc CS,2,80.1,64.3,48.0,7.18,0,3.6,71.7,66.6,57.2,High
+STU0980,Sneha Kulkarni,Female,BSc CS,1,81.6,57.6,83.4,5.81,1,7.0,69.2,90.4,72.4,High
+STU0981,Vishal Gupta,Male,BCA,3,46.6,100.0,86.4,7.48,2,4.8,75.9,76.1,78.6,High
+STU0982,Amit More,Female,BSc CS,3,87.1,74.8,72.1,6.4,0,2.3,62.3,32.7,86.8,Medium
+STU0983,Neha Kulkarni,Male,BCA,2,63.5,57.5,62.0,8.19,0,3.6,68.0,85.7,75.5,Medium
+STU0984,Vishal More,Female,BCA,5,66.6,47.1,89.9,4.85,1,2.0,59.0,81.7,25.9,High
+STU0985,Tanvi Sharma,Female,BSc IT,5,100.0,33.9,81.5,10.0,0,2.3,56.2,82.3,43.9,High
+STU0986,Varun Shah,Male,BSc CS,2,76.5,47.6,58.2,8.08,1,10.0,85.1,39.3,61.8,Medium
+STU0987,Amit Verma,Female,BCA,5,66.2,65.8,72.9,4.27,3,5.3,34.3,58.1,67.9,High
+STU0988,Aditya Joshi,Female,BSc IT,4,38.9,86.8,47.7,5.74,3,5.0,78.2,59.2,82.2,High
+STU0989,Aditya Patil,Male,BBA,5,92.8,81.9,84.3,8.02,0,2.4,55.7,55.4,65.9,Medium
+STU0990,Amit Singh,Female,BSc IT,5,51.8,67.7,67.3,8.56,0,6.3,53.7,94.1,66.0,Medium
+STU0991,Aryan Verma,Male,BSc IT,5,56.9,58.8,64.2,4.89,3,5.5,68.9,67.8,69.8,High
+STU0992,Varun Yadav,Male,BCA,4,67.0,68.3,71.4,7.87,0,6.9,42.7,67.5,59.9,High
+STU0993,Neha Yadav,Male,BCom,5,93.2,55.7,72.7,3.88,0,6.8,52.8,76.3,66.7,Medium
+STU0994,Rahul Patil,Female,BCom,6,83.6,91.5,88.1,6.67,1,0.8,52.3,76.5,87.5,High
+STU0995,Diya Gupta,Male,BCom,4,69.6,61.0,82.6,8.47,0,1.5,61.7,20.0,63.3,High
+STU0996,Rohan Sharma,Male,BSc IT,2,76.6,62.6,69.2,5.97,0,1.7,52.9,58.3,64.4,High
+STU0997,Akash Verma,Female,BCA,1,63.0,28.5,85.7,4.54,2,1.8,89.0,46.8,64.3,High
+STU0998,Diya Joshi,Male,BSc CS,2,74.1,60.9,79.2,7.02,0,4.1,92.0,74.0,91.0,High
+STU0999,Sahil Kulkarni,Female,BSc IT,1,73.1,77.4,64.3,5.89,0,2.5,34.7,63.7,42.8,High
+STU1000,Karan More,Female,BSc IT,2,86.5,46.9,69.8,7.74,0,7.2,73.2,68.2,100.0,High
+STU1001,Riya Kulkarni,Female,BCA,6,86.5,52.0,69.3,5.47,1,6.9,77.9,36.8,41.5,High
+STU1002,Aditya Pawar,Female,BBA,1,79.4,76.7,81.1,5.64,0,3.5,73.1,63.4,51.9,High
+STU1003,Ananya Gupta,Male,BSc IT,1,66.6,40.4,65.4,3.77,0,7.0,55.1,84.7,79.9,High
+STU1004,Arjun Deshmukh,Male,BBA,3,83.1,80.9,65.0,7.05,1,6.2,61.3,89.1,85.6,High
+STU1005,Isha Kulkarni,Male,BBA,1,70.6,55.5,100.0,6.56,2,2.7,53.8,78.8,36.9,High
+STU1006,Rohan Kulkarni,Male,BCom,1,55.8,57.8,88.9,5.02,0,0.5,58.7,48.0,43.1,High
+STU1007,Aryan Shah,Male,BCA,3,66.0,46.0,58.3,7.09,2,3.1,46.9,86.9,70.6,High
+STU1008,Vishal Patil,Female,BBA,5,73.3,70.0,82.3,8.34,0,2.3,63.3,78.9,100.0,High
+STU1009,Aryan Singh,Male,BCA,5,85.7,100.0,74.1,6.48,1,3.9,42.5,66.2,89.9,High
+STU1010,Sneha Khan,Male,BCom,3,69.2,76.5,79.0,7.2,0,3.7,62.0,37.6,60.0,Medium
+STU1011,Aditya Yadav,Male,BCA,4,53.9,50.2,74.5,7.21,0,3.6,46.3,82.3,16.6,High
+STU1012,Ananya Gupta,Female,BSc IT,1,72.9,82.2,93.4,4.99,1,4.4,68.1,59.1,66.6,High
+STU1013,Aarav Jadhav,Female,BBA,1,73.7,58.9,78.2,9.88,0,1.3,54.8,73.2,72.2,Medium
+STU1014,Neha Jadhav,Male,BCA,3,74.8,86.0,70.9,6.09,0,4.2,69.4,69.0,57.3,High
+STU1015,Amit Deshmukh,Female,BSc CS,3,85.8,76.9,90.8,7.78,0,2.7,81.2,91.1,48.0,Medium
+STU1016,Rohan Khan,Male,BCA,4,87.3,20.0,76.2,7.95,1,3.9,88.8,66.1,68.2,High
+STU1017,Karan Yadav,Male,BBA,6,63.1,47.9,74.2,6.59,0,5.2,27.1,67.8,46.2,High
+STU1018,Riya Verma,Female,BCom,5,62.8,79.1,77.7,7.71,0,1.3,52.5,91.7,100.0,High
+STU1019,Karan More,Female,BCom,2,56.4,66.4,70.3,7.17,0,3.0,60.5,58.1,95.3,High
+STU1020,Isha Sharma,Male,BBA,6,82.5,47.6,72.2,4.67,0,3.3,71.9,80.2,78.2,High
+STU1021,Ananya Joshi,Male,BSc IT,5,93.7,53.9,61.4,6.3,0,2.6,40.2,65.0,66.8,High
+STU1022,Diya Khan,Female,BSc IT,1,67.3,33.5,58.5,5.88,0,5.1,50.3,53.0,51.8,High
+STU1023,Neha Sharma,Male,BCom,6,68.4,62.6,54.0,6.11,0,2.2,67.0,68.0,64.6,High
+STU1024,Vishal More,Female,BCom,3,94.0,99.4,46.9,4.84,0,2.5,66.3,78.4,97.8,High
+STU1025,Kavya Gupta,Male,BBA,4,79.6,76.9,56.2,8.49,1,2.2,70.7,88.3,82.4,Medium
+STU1026,Rohan Gupta,Female,BSc IT,5,78.5,99.0,68.9,9.2,1,5.5,71.7,90.1,69.1,Medium
+STU1027,Neha Gupta,Male,BCom,4,54.1,78.1,73.9,8.27,2,2.6,70.1,63.6,83.5,High
+STU1028,Sneha Sharma,Male,BSc IT,5,82.2,80.4,67.1,8.71,0,4.3,67.9,53.2,75.9,Medium
+STU1029,Neha Jadhav,Female,BCom,6,58.1,95.6,29.6,6.28,3,7.1,65.8,63.2,72.9,High
+STU1030,Rohan Singh,Male,BCA,1,55.0,70.0,100.0,5.85,0,3.4,75.0,50.3,84.6,High
+STU1031,Neha Khan,Male,BSc CS,2,66.8,61.0,91.6,5.63,4,5.5,31.4,64.7,75.3,High
+STU1032,Vishal Patil,Female,BCA,4,63.2,80.5,80.0,7.77,0,6.5,88.2,62.9,82.2,Medium
+STU1033,Riya Patil,Male,BCom,4,68.7,87.3,100.0,7.14,0,5.3,31.9,78.9,68.2,Medium
+STU1034,Isha Gupta,Male,BSc CS,2,50.4,56.3,54.4,6.68,0,3.5,48.8,34.9,59.9,High
+STU1035,Vishal Verma,Male,BSc CS,4,86.4,52.5,100.0,8.74,0,4.7,61.6,57.0,54.0,Medium
+STU1036,Aarav Pawar,Female,BCom,4,88.9,66.2,54.6,7.41,2,1.2,75.1,57.1,51.7,High
+STU1037,Akash Singh,Female,BCom,5,42.8,77.3,76.3,5.54,1,2.1,20.1,85.8,32.9,High
+STU1038,Ananya Gupta,Female,BSc IT,5,86.7,76.8,49.1,5.78,4,2.4,64.6,51.3,46.8,High
+STU1039,Ananya Sharma,Male,BCom,2,59.8,41.2,72.3,7.82,1,7.5,76.9,71.4,46.2,High
+STU1040,Sneha Yadav,Male,BBA,1,84.9,94.6,79.0,8.36,0,2.0,79.9,66.1,54.9,Medium
+STU1041,Riya More,Male,BCom,6,71.0,53.7,69.2,7.63,0,2.0,54.5,83.6,96.2,High
+STU1042,Karan Joshi,Male,BBA,6,72.4,59.8,84.8,9.65,4,1.6,60.5,76.9,61.8,High
+STU1043,Tanvi Jadhav,Female,BCom,4,69.2,49.6,73.8,9.25,1,4.5,55.8,69.8,69.8,High
+STU1044,Kavya Kulkarni,Male,BSc IT,1,90.2,100.0,62.6,7.46,1,3.8,59.1,59.7,70.5,High
+STU1045,Aditya Shah,Male,BBA,2,53.4,67.9,61.8,5.54,0,5.5,49.5,40.2,96.8,High
+STU1046,Tanvi Deshmukh,Male,BCA,2,81.1,50.4,86.6,4.84,0,4.7,51.7,71.7,53.5,High
+STU1047,Aryan Jadhav,Female,BBA,5,88.5,77.8,60.2,6.22,3,1.0,71.5,76.0,60.5,High
+STU1048,Rohan Khan,Male,BSc IT,4,82.7,76.3,88.5,7.93,0,2.0,67.0,44.4,62.9,Medium
+STU1049,Tanvi Pawar,Male,BBA,3,100.0,61.0,94.0,9.54,0,6.0,72.4,49.5,87.7,Low
+STU1050,Neha Singh,Male,BCom,2,64.1,77.4,42.0,7.43,0,3.1,68.2,71.8,91.9,Medium
+STU1051,Vishal Pawar,Male,BCom,4,86.4,50.8,92.4,8.55,1,5.6,75.6,73.1,74.5,High
+STU1052,Rahul Joshi,Male,BSc IT,1,70.4,56.1,100.0,6.43,0,3.2,78.2,53.1,89.7,High
+STU1053,Sahil Patil,Female,BSc CS,5,90.5,31.8,76.5,7.73,0,1.8,38.9,59.4,68.6,High
+STU1054,Karan More,Male,BCom,6,71.9,42.8,82.8,8.04,0,3.0,52.2,40.5,61.5,Medium
+STU1055,Diya Patil,Male,BCA,1,66.2,92.9,90.7,3.83,0,1.8,61.5,88.7,88.6,High
+STU1056,Aarav Pawar,Male,BSc IT,2,91.6,90.3,67.0,6.18,0,2.5,64.7,48.5,74.8,High
+STU1057,Diya Deshmukh,Male,BBA,2,64.6,65.1,75.3,8.22,0,3.9,54.9,76.1,50.3,Medium
+STU1058,Arjun Gupta,Male,BBA,1,50.8,90.6,48.3,7.21,3,4.4,78.7,67.5,84.9,High
+STU1059,Rohan Singh,Male,BCA,2,64.2,61.4,74.5,5.01,3,0.6,94.7,87.3,60.8,High
+STU1060,Rohan Patil,Male,BCom,4,81.3,60.1,81.0,3.15,0,3.5,67.8,56.1,58.4,High
+STU1061,Aarav Pawar,Male,BSc IT,2,92.9,64.9,81.3,6.25,1,2.4,66.3,68.9,82.9,High
+STU1062,Kavya Verma,Male,BCA,5,73.7,62.0,91.2,6.69,1,2.3,77.7,42.5,63.2,High
+STU1063,Tanvi Patil,Male,BCom,4,91.8,60.6,58.1,5.47,0,3.7,37.0,38.9,72.8,High
+STU1064,Sneha Verma,Female,BSc IT,3,51.6,82.3,62.4,,0,2.5,65.4,76.9,78.2,High
+STU1065,Diya Jadhav,Female,BBA,2,65.4,66.4,100.0,7.56,0,6.0,79.7,41.2,49.3,Medium
+STU1066,Sneha More,Female,BSc IT,2,67.7,75.4,69.3,7.81,0,5.6,55.4,64.6,72.7,Medium
+STU1067,Diya Shah,Female,BSc CS,5,70.3,80.5,75.6,3.27,0,5.6,46.6,83.2,92.0,High
+STU1068,Riya Joshi,Male,BSc IT,5,73.3,70.2,70.8,4.83,2,2.6,62.2,79.2,45.9,High
+STU1069,Aarav Sharma,Female,BSc CS,6,82.4,48.5,57.2,6.34,0,1.8,64.1,58.0,74.0,High
+STU1070,Varun Kulkarni,Female,BSc IT,1,65.3,42.4,100.0,7.66,1,3.6,51.4,44.2,48.4,High
+STU1071,Sahil Gupta,Male,BSc CS,1,74.1,66.4,62.5,7.53,0,3.2,96.4,75.6,85.4,High
+STU1072,Isha Verma,Female,BBA,1,71.3,61.3,51.7,7.51,0,2.4,57.8,88.1,85.2,High
+STU1073,Aditya Patil,Female,BCom,5,58.1,65.4,63.9,6.22,0,1.4,47.7,58.1,57.9,High
+STU1074,Arjun Shah,Male,BSc CS,1,70.3,63.7,36.0,6.31,0,3.4,63.6,56.0,100.0,High
+STU1075,Aarav Shah,Male,BSc CS,1,69.8,100.0,60.3,5.71,1,2.8,78.6,60.1,87.1,High
+STU1076,Sahil Deshmukh,Male,BBA,3,69.5,42.7,54.6,7.95,1,4.7,65.3,76.6,79.1,High
+STU1077,Isha Gupta,Female,BSc CS,1,72.5,32.2,83.1,5.42,0,4.7,72.3,86.4,78.0,High
+STU1078,Rahul Shah,Female,BCA,2,73.1,69.3,59.9,8.08,1,5.5,51.9,49.4,84.7,High
+STU1079,Kavya Joshi,Male,BBA,6,65.5,58.0,88.0,7.11,3,1.2,87.3,45.5,45.1,High
+STU1080,Aditya Deshmukh,Male,BCA,5,91.1,69.1,97.2,6.73,1,4.2,73.4,100.0,68.9,Medium
+STU1081,Arjun Kulkarni,Female,BBA,4,54.5,73.3,86.1,5.81,0,2.2,80.7,65.3,72.7,High
+STU1082,Amit Singh,Male,BSc CS,6,61.2,84.5,68.1,4.77,1,1.3,70.5,71.8,57.0,High
+STU1083,Varun Singh,Female,BCA,3,100.0,39.9,74.5,5.83,0,2.7,77.4,57.6,74.3,High
+STU1084,Aditya Patil,Male,BSc CS,5,56.4,55.1,44.6,6.3,2,5.4,51.9,75.3,89.6,High
+STU1085,Rahul Shah,Male,BBA,5,51.7,70.9,69.6,3.25,0,2.8,57.6,82.4,56.6,High
+STU1086,Varun Deshmukh,Female,BSc CS,2,83.0,76.3,56.5,6.5,0,6.3,85.2,72.5,63.9,Medium
+STU1087,Kavya Sharma,Male,BCA,6,40.8,99.1,84.5,8.19,0,4.5,88.4,94.1,48.6,High
+STU1088,Aryan Shah,Male,BCA,6,68.5,79.3,100.0,7.65,0,2.8,47.8,63.1,29.3,Medium
+STU1089,Rohan Sharma,Male,BSc CS,1,100.0,63.1,81.0,6.06,2,5.6,68.7,64.1,80.6,High
+STU1090,Neha Verma,Female,BSc IT,2,48.8,49.8,36.2,6.87,0,4.3,58.5,71.5,64.5,High
+STU1091,Aryan Gupta,Male,BBA,1,42.3,55.0,65.5,5.97,0,1.8,54.5,75.0,66.0,High
+STU1092,Varun More,Male,BBA,1,49.5,54.5,74.2,7.02,3,6.8,69.3,71.4,45.3,High
+STU1093,Aarav Sharma,Male,BSc CS,5,85.5,74.5,73.6,9.11,0,4.0,82.1,48.7,61.3,Low
+STU1094,Sneha Yadav,Male,BSc IT,6,88.9,68.1,58.8,8.25,0,3.5,71.8,72.7,86.9,Medium
+STU1095,Neha Singh,Male,BCA,1,64.3,42.8,76.4,7.58,1,2.0,60.2,62.4,65.0,High
+STU1096,Kavya Yadav,Male,BCom,3,82.2,57.0,49.6,6.06,0,5.6,72.7,59.3,65.6,Medium
+STU1097,Diya Kulkarni,Female,BCom,3,150.0,78.0,55.0,7.92,0,4.4,59.6,68.5,69.2,High
+STU1098,Riya Verma,Female,BSc CS,6,98.8,69.6,83.6,4.27,0,4.6,71.2,53.6,40.3,High
+STU1099,Aditya Kulkarni,Male,BSc IT,3,68.3,73.1,53.7,6.42,1,2.6,85.9,51.0,77.5,High
+STU1100,Isha Yadav,Female,BSc IT,5,37.5,70.1,81.7,7.68,3,5.0,33.8,28.8,39.9,High
+STU1101,Diya Patil,Female,BBA,2,59.7,90.0,47.3,7.91,0,5.1,77.0,94.2,46.2,High
+STU1102,Arjun More,Male,BCA,4,65.6,67.8,100.0,7.8,0,2.3,41.9,76.3,44.0,High
+STU1103,Neha Gupta,Female,BSc IT,1,68.1,57.8,58.1,7.24,0,0.9,83.4,66.2,61.5,High
+STU1104,Aditya Gupta,Female,BCom,4,69.2,49.3,68.0,6.51,2,4.5,55.4,58.0,58.0,High
+STU1105,Rohan More,Female,BCA,2,88.8,68.0,78.0,7.61,0,0.7,46.7,24.9,65.0,Medium
+STU1106,Amit Khan,Female,BCA,2,91.1,24.9,61.8,5.37,2,3.8,75.4,57.1,46.9,High
+STU1107,Sahil Pawar,Female,BSc CS,5,69.4,61.1,74.6,5.53,0,2.7,70.5,78.7,85.1,High
+STU1108,Arjun Kulkarni,Female,BSc IT,3,88.5,60.7,82.4,6.89,3,5.7,50.0,82.1,81.7,High
+STU1109,Tanvi More,Female,BSc CS,3,77.4,42.2,89.3,7.06,1,2.8,46.2,77.6,61.5,High
+STU1110,Kavya Deshmukh,Female,BSc IT,2,73.0,49.1,86.2,4.06,1,5.5,62.2,70.4,55.4,High
+STU1111,Kavya Pawar,Male,BBA,5,85.6,77.0,68.9,7.48,0,2.6,46.9,87.6,53.4,Medium
+STU1112,Sahil Gupta,Male,BSc CS,5,73.1,67.7,69.4,7.96,1,5.3,49.1,63.1,58.8,High
+STU1113,Rohan Shah,Female,BSc CS,6,100.0,65.6,100.0,6.68,0,7.2,66.7,84.3,37.0,Medium
+STU1114,Amit Khan,Female,BCom,1,50.4,68.9,89.1,10.0,0,1.6,50.5,62.2,45.8,Medium
+STU1115,Varun Joshi,Male,BSc CS,3,64.3,65.5,55.4,5.78,0,4.0,71.4,54.8,82.2,High
+STU1116,Rahul Singh,Female,BSc IT,2,70.1,83.9,73.8,6.26,2,8.4,87.4,52.9,71.0,High
+STU1117,Varun Patil,Female,BCom,6,78.6,66.0,66.0,6.21,1,3.6,62.8,52.0,97.7,High
+STU1118,Riya Deshmukh,Male,BSc CS,4,91.0,40.7,69.6,6.69,0,3.6,67.0,77.9,59.0,High
+STU1119,Amit Gupta,Male,BSc CS,3,71.6,90.1,49.9,6.31,1,4.9,95.3,56.9,57.8,High
+STU1120,Vishal Kulkarni,Male,BBA,1,50.7,69.9,64.6,4.69,0,3.6,47.2,52.5,56.8,High
+STU1121,Rohan More,Female,BSc CS,5,84.6,54.6,100.0,5.98,2,0.5,82.9,78.7,58.6,High
+STU1122,Akash Jadhav,Female,BCA,2,83.3,43.9,82.4,6.65,1,5.5,81.1,72.9,51.8,High
+STU1123,Sahil Verma,Male,BCom,3,42.9,70.3,27.2,8.64,1,0.5,77.8,82.4,70.4,High
+STU1124,Amit Kulkarni,Male,BCA,4,71.9,62.1,93.9,10.0,0,2.7,84.4,75.7,65.6,Medium
+STU1125,Tanvi Patil,Female,BCom,1,48.1,89.2,91.6,8.8,3,5.7,69.2,56.7,54.8,High
+STU1126,Sneha Deshmukh,Male,BBA,1,62.0,58.5,65.5,5.64,2,2.9,56.3,69.1,90.0,High
+STU1127,Amit Verma,Female,BSc CS,6,58.5,50.6,84.9,5.76,1,2.3,81.4,69.9,100.0,High
+STU1128,Kavya Pawar,Female,BSc CS,3,84.1,78.3,56.5,6.56,0,5.1,82.0,54.2,88.3,Medium
+STU1129,Neha Verma,Male,BSc CS,4,73.8,78.8,63.5,9.48,1,2.0,81.6,51.4,76.2,High
+STU1130,Aryan Deshmukh,Male,BCom,1,52.7,66.7,99.0,6.55,1,1.3,65.7,57.8,80.2,High
+STU1131,Aryan Jadhav,Female,BSc CS,2,85.2,74.8,67.1,4.81,0,4.0,54.3,98.5,100.0,High
+STU1132,Sneha Verma,Male,BCA,1,50.5,63.4,38.3,6.05,0,3.2,67.9,61.8,80.2,High
+STU1133,Karan Jadhav,Male,BSc CS,4,77.0,67.7,70.9,7.94,0,1.3,79.1,86.5,53.3,High
+STU1134,Amit Joshi,Male,BBA,5,59.8,82.6,70.6,7.83,1,4.6,80.4,61.0,72.8,High
+STU1135,Amit Singh,Male,BCA,5,66.5,74.0,93.6,6.5,0,4.3,58.6,81.3,77.5,High
+STU1136,Aryan Singh,Female,BSc CS,6,79.6,61.3,72.3,7.83,0,2.9,69.7,81.5,45.1,High
+STU1137,Aarav More,Female,BSc CS,3,79.8,85.6,64.4,3.39,1,3.0,45.4,82.3,59.3,High
+STU1138,Rahul Verma,Female,BSc IT,4,92.1,26.2,90.8,6.96,0,4.3,79.8,73.8,87.0,High
+STU1139,Rohan Khan,Female,BCom,6,70.8,96.8,74.2,8.09,0,5.6,53.3,88.7,28.5,Medium
+STU1140,Rahul Pawar,Male,BCA,1,76.6,36.7,58.5,5.55,0,3.0,76.8,73.7,40.0,High
+STU1141,Isha Verma,Male,BSc IT,1,65.4,54.0,92.8,5.55,2,4.7,47.8,93.7,61.5,High
+STU1142,Isha Verma,Female,BBA,5,74.7,63.3,75.5,4.0,1,4.5,80.5,43.7,72.1,High
+STU1143,Karan Jadhav,Female,BCom,6,78.6,61.7,72.1,9.18,0,5.1,69.8,73.2,37.8,Medium
+STU1144,Sahil Sharma,Male,BCA,5,70.5,80.1,75.2,5.72,3,3.6,53.3,72.2,62.5,High
+STU1145,Ananya Joshi,Female,BSc CS,2,44.9,47.1,52.7,7.16,0,1.9,75.4,54.0,88.1,High
+STU1146,Tanvi Jadhav,Female,BCA,5,77.0,68.2,62.5,7.71,3,2.7,56.1,76.7,66.4,High
+STU1147,Varun Joshi,Male,BSc CS,2,77.5,54.7,72.1,9.07,0,4.1,76.2,45.6,83.8,Medium
+STU1148,Aryan Verma,Female,BCom,1,61.8,68.7,68.5,6.57,0,6.8,60.9,58.2,53.2,High
+STU1149,Tanvi Yadav,Male,BSc CS,6,52.7,63.0,94.9,5.99,0,2.6,39.2,38.0,48.8,High
+STU1150,Amit Verma,Male,BBA,2,94.1,65.5,75.9,7.06,0,4.9,50.3,91.4,82.0,High
+STU1151,Aarav Pawar,Female,BSc CS,6,79.4,55.2,87.4,8.73,0,2.9,58.5,64.5,72.4,High
+STU1152,Tanvi Gupta,Male,BBA,6,68.6,55.8,72.2,6.54,1,3.7,85.5,100.0,41.3,High
+STU1153,Rohan Sharma,Female,BCom,2,54.9,68.6,91.0,5.37,2,6.2,78.5,80.0,49.0,High
+STU1154,Akash More,Male,BCom,3,59.7,79.1,79.2,4.49,0,4.9,89.4,74.7,96.3,High
+STU1155,Aditya Sharma,Female,BCA,5,91.5,54.4,72.2,4.97,0,1.3,89.8,59.2,46.5,High
+STU1156,Sneha Singh,Female,BBA,2,74.1,50.1,71.8,8.1,0,2.5,57.0,52.3,83.7,Medium
+STU1157,Sahil Gupta,Female,BBA,1,63.7,73.8,54.8,6.32,0,5.8,62.2,75.8,55.4,High
+STU1158,Rohan Yadav,Male,BSc IT,6,79.6,63.5,81.1,5.89,1,3.8,58.8,66.9,64.9,High
+STU1159,Aryan Khan,Male,BSc IT,4,59.8,77.3,71.3,5.73,0,1.4,54.9,47.9,70.9,High
+STU1160,Karan Shah,Female,BSc IT,2,94.5,49.5,63.0,6.93,1,2.0,37.4,45.2,23.0,High
+STU1161,Riya Deshmukh,Male,BSc CS,5,92.3,35.5,91.9,6.44,0,4.8,64.8,53.6,35.7,High
+STU1162,Aditya Yadav,Female,BSc IT,6,65.0,55.5,49.5,6.39,0,5.3,45.7,95.3,66.7,High
+STU1163,Aryan Gupta,Female,BBA,3,62.6,51.7,64.4,8.82,0,3.5,64.5,100.0,50.5,High
+STU1164,Tanvi Yadav,Male,BSc CS,1,32.7,62.7,90.5,9.11,0,8.0,96.7,71.1,84.9,Medium
+STU1165,Karan Singh,Female,BCom,3,49.8,53.8,77.7,4.38,0,5.0,57.4,70.2,32.9,High
+STU1166,Aryan Shah,Male,BCA,4,51.9,75.9,71.1,7.29,1,3.1,67.9,63.0,76.3,High
+STU1167,Sneha Khan,Female,BSc IT,2,74.0,59.4,76.5,5.63,0,2.0,78.6,54.0,37.5,High
+STU1168,Aryan Jadhav,Male,BCom,6,67.1,66.4,75.2,6.43,0,1.7,69.2,88.6,58.0,High
+STU1169,Riya Yadav,Female,BBA,2,51.8,66.5,44.7,7.26,1,4.1,69.4,96.1,43.7,High
+STU1170,Amit Verma,Female,BCA,5,67.8,67.1,65.7,6.48,0,2.6,59.6,54.6,100.0,High
+STU1171,Arjun Verma,Male,BCom,2,79.6,63.6,100.0,7.15,1,6.5,61.5,66.8,38.2,High
+STU1172,Aryan Deshmukh,Female,BCA,1,79.9,72.2,60.1,7.81,0,6.1,50.6,61.3,62.6,High
+STU1173,Riya Joshi,Female,BSc IT,4,43.5,51.3,66.3,7.24,0,4.6,77.7,61.7,30.5,Medium
+STU1174,Diya Gupta,Male,BBA,3,70.1,86.4,62.3,5.83,2,1.4,38.9,85.8,97.0,High
+STU1175,Aarav Joshi,Female,BCA,4,51.2,60.2,70.4,5.86,1,2.3,79.6,48.3,73.0,High
+STU1176,Akash Shah,Male,BCom,6,85.5,43.0,61.5,4.64,0,5.8,43.9,75.0,67.7,High
+STU1177,Diya Sharma,Female,BSc IT,2,83.8,67.0,80.8,5.52,0,2.5,79.4,78.9,94.5,High
+STU1178,Arjun Shah,Male,BSc IT,6,58.5,50.4,75.6,9.74,2,5.5,59.7,65.9,67.9,High
+STU1179,Aryan Joshi,Female,BCom,3,60.5,74.6,85.9,5.61,0,4.4,46.5,81.4,69.4,High
+STU1180,Rahul Sharma,Female,BCom,6,65.1,99.4,53.1,5.01,0,3.6,73.7,70.2,67.6,High
+STU1181,Aditya More,Female,BCA,5,38.2,51.4,65.9,7.28,1,2.2,78.9,86.3,76.3,High
+STU1182,Ananya More,Male,BSc CS,4,77.0,69.3,67.9,6.63,1,3.3,58.4,45.2,55.2,High
+STU1183,Diya Singh,Male,BSc IT,3,67.9,35.9,80.2,6.51,1,3.8,75.8,62.8,60.7,High
+STU1184,Diya Patil,Male,BCA,3,86.6,71.3,57.7,8.91,1,5.4,30.7,66.9,81.2,High
+STU1185,Akash Singh,Male,BCom,3,55.5,49.8,88.5,7.62,1,1.9,45.2,27.9,70.5,High
+STU1186,Neha Deshmukh,Female,BCA,1,62.7,54.0,93.4,6.01,2,3.0,84.4,51.7,62.7,High
+STU1187,Akash Singh,Female,BCom,4,49.4,46.4,54.2,6.16,1,3.6,61.6,55.8,37.0,High
+STU1188,Arjun Patil,Male,BBA,6,56.9,75.7,63.2,6.05,0,4.7,37.1,82.2,95.0,High
+STU1189,Neha Patil,Male,BCom,3,54.3,80.1,62.4,8.11,0,1.9,54.5,57.4,51.8,Medium
+STU1190,Arjun Sharma,Male,BCom,4,86.9,64.4,100.0,6.34,1,1.1,51.1,55.7,84.7,High
+STU1191,Akash Patil,Female,BCom,3,61.5,50.2,64.3,4.11,2,4.7,62.5,80.3,68.5,High
+STU1192,Vishal Jadhav,Male,BSc CS,5,73.9,89.4,100.0,6.73,0,0.8,59.4,43.7,39.1,Medium
+STU1193,Neha Verma,Male,BCom,5,66.3,52.0,49.2,4.49,0,5.8,67.7,36.9,90.0,High
+STU1194,Amit Gupta,Female,BSc IT,5,53.0,29.4,54.2,10.0,3,3.2,64.0,62.6,70.1,High
+STU1195,Rahul Deshmukh,Female,BSc IT,2,69.5,71.3,59.6,5.35,1,0.7,85.4,46.3,91.7,High
+STU1196,Rohan Shah,Male,BCA,3,81.0,46.3,56.8,6.56,0,2.6,71.4,46.9,61.4,High
+STU1197,Sahil Verma,Female,BSc CS,2,53.9,79.8,67.2,7.19,1,4.2,71.9,76.6,79.1,High
+STU1198,Sahil More,Male,BCA,4,84.1,57.9,59.2,6.37,4,2.5,82.5,81.1,29.7,High
+STU1199,Sneha More,Female,BSc IT,2,59.3,73.7,57.3,6.36,2,3.5,59.2,79.8,55.0,High
+STU1200,Diya Joshi,Male,BSc IT,4,64.8,86.4,92.9,7.43,1,4.8,46.1,84.6,39.5,High
+STU1201,Akash Kulkarni,Male,BBA,4,80.0,44.7,94.0,9.09,0,3.1,83.1,86.6,57.5,Medium
+STU1202,Rahul Pawar,Male,BCom,4,62.0,54.9,89.1,7.95,2,1.8,67.0,36.1,74.4,High
+STU1203,Varun Jadhav,Male,BSc IT,6,72.6,62.8,81.4,9.02,0,3.0,67.1,74.8,52.9,High
+STU1204,Ananya Joshi,Female,BCA,2,67.3,88.6,73.7,5.23,2,6.0,55.5,60.1,82.3,High
+STU1205,Diya Jadhav,Female,BCA,6,73.9,53.5,63.1,7.28,0,6.5,55.7,56.8,47.9,High
+STU1206,Neha Sharma,Female,BCom,3,36.3,54.5,54.8,7.03,0,0.5,77.7,76.4,82.7,High
+STU1207,Vishal Singh,Female,BCom,2,44.6,71.7,78.5,7.33,0,5.5,79.8,42.0,91.2,High
+STU1208,Tanvi Jadhav,Male,BBA,3,81.2,54.8,50.9,8.86,0,4.0,76.8,41.7,85.3,Medium
+STU1209,Aryan Sharma,Male,BSc CS,3,87.6,66.4,54.1,6.47,1,5.2,76.9,77.5,58.1,High
+STU1210,Sahil More,Female,BCA,4,58.3,39.2,92.8,6.19,3,2.5,73.5,75.3,22.5,High
+STU1211,Arjun Joshi,Female,BCom,2,68.3,99.4,100.0,7.6,1,0.5,67.0,70.1,76.6,Medium
+STU1212,Aditya Deshmukh,Female,BCA,3,76.4,42.4,79.1,4.13,2,4.6,62.4,54.8,62.5,High
+STU1213,Riya Joshi,Female,BCom,5,82.4,58.9,91.9,6.44,0,1.8,83.2,79.2,45.4,High
+STU1214,Aarav Pawar,Female,BSc IT,3,41.6,63.5,67.6,6.6,1,1.0,59.4,78.2,53.9,High
+STU1215,Tanvi Deshmukh,Male,BCA,5,58.7,94.6,47.9,5.42,2,1.1,70.5,69.3,93.7,High
+STU1216,Aditya Shah,Male,BSc IT,2,67.0,42.8,83.0,8.39,1,4.6,52.9,50.3,42.3,High
+STU1217,Aditya Khan,Male,BCA,6,82.5,95.7,82.2,5.21,0,3.8,55.1,61.6,74.4,Medium
+STU1218,Isha Sharma,Female,BSc CS,2,100.0,76.1,73.3,6.6,1,4.9,61.5,80.6,69.4,High
+STU1219,Kavya Yadav,Female,BBA,6,68.6,70.7,67.6,7.24,1,4.7,52.9,87.9,57.9,High
+STU1220,Vishal Kulkarni,Female,BSc IT,6,50.9,48.2,89.3,8.83,0,2.7,77.0,63.1,77.9,Medium
+STU1221,Amit Patil,Female,BCom,2,78.0,73.1,54.3,6.78,2,3.4,44.8,64.3,97.6,High
+STU1222,Arjun Yadav,Male,BSc CS,3,91.8,52.4,58.1,8.2,3,2.6,66.5,65.6,59.1,High
+STU1223,Kavya Singh,Male,BCA,1,73.6,84.3,53.9,7.85,0,3.1,67.0,72.1,60.1,Medium
+STU1224,Ananya Joshi,Female,BSc IT,3,58.4,48.5,73.5,6.99,1,1.8,37.8,59.3,77.4,High
+STU1225,Karan More,Male,BCA,3,86.4,62.2,52.4,5.17,1,4.2,58.4,24.6,83.4,High
+STU1226,Rohan Sharma,Male,BCA,4,82.0,55.1,59.7,4.65,1,5.4,68.8,85.9,62.4,High
+STU1227,Karan Singh,Female,BCA,4,56.6,48.2,59.3,6.96,0,2.0,71.4,94.9,58.9,High
+STU1228,Tanvi Deshmukh,Female,BBA,3,77.7,75.9,67.3,5.99,2,5.8,61.9,58.8,20.6,High
+STU1229,Akash Kulkarni,Female,BBA,5,87.0,72.6,45.2,8.18,0,3.7,75.2,52.0,49.4,Medium
+STU1230,Karan Kulkarni,Female,BCom,6,89.7,83.3,73.6,7.92,0,3.9,63.4,65.9,42.2,Medium
+STU1231,Riya Singh,Female,BSc IT,4,71.0,35.5,94.5,6.52,2,0.5,65.2,65.2,78.7,High
+STU1232,Akash Pawar,Female,BSc CS,3,66.6,81.0,74.4,5.06,1,0.5,68.8,82.9,60.1,High
+STU1233,Vishal Kulkarni,Male,BSc CS,1,90.4,100.0,99.7,7.57,2,3.8,78.9,68.8,59.3,Medium
+STU1234,Isha Gupta,Male,BSc CS,5,53.8,56.8,96.0,5.27,0,4.9,54.9,56.1,64.8,High
+STU1235,Akash Patil,Female,BCA,2,78.6,94.3,86.0,5.66,0,2.3,57.7,48.2,47.6,Medium
+STU1236,Aditya Yadav,Male,BBA,3,51.4,59.8,73.3,5.33,3,6.5,55.0,81.0,96.1,High
+STU1237,Tanvi Kulkarni,Female,BSc IT,3,88.0,42.0,72.4,6.59,0,4.8,60.0,77.0,91.0,Medium
+STU1238,Vishal Patil,Female,BCA,6,68.1,59.1,85.7,8.56,2,1.9,86.4,83.9,97.4,High
+STU1239,Karan Shah,Female,BBA,5,91.0,80.8,64.9,6.79,2,3.6,73.6,53.5,78.7,High
+STU1240,Aditya Shah,Female,BBA,4,79.4,50.6,38.1,6.14,1,8.0,48.0,95.6,64.4,High
+STU1241,Aarav Joshi,Male,BSc IT,4,53.7,54.4,80.9,4.51,0,1.3,56.0,41.8,97.3,High
+STU1242,Riya Sharma,Female,BSc IT,4,93.4,73.5,51.6,7.63,1,4.5,70.6,78.6,51.4,Medium
+STU1243,Riya Singh,Male,BSc IT,2,95.3,64.0,54.7,5.63,2,2.9,51.4,39.4,47.6,High
+STU1244,Riya Deshmukh,Female,BCA,5,85.2,73.4,72.0,6.98,0,4.8,54.1,56.1,53.0,Medium
+STU1245,Vishal Yadav,Female,BCom,5,60.6,67.8,70.3,6.27,0,5.8,85.2,91.4,75.5,Medium
+STU1246,Akash Shah,Female,BSc IT,4,67.4,71.7,46.6,8.06,0,2.8,55.8,80.5,49.8,High
+STU1247,Arjun Shah,Male,BCom,4,74.2,57.1,75.0,6.56,0,5.5,79.3,59.8,61.9,High
+STU1248,Rahul Gupta,Female,BCA,6,61.4,67.7,89.4,6.71,2,7.5,83.8,60.2,33.0,High
+STU1249,Aditya Jadhav,Female,BCom,1,97.4,49.2,51.7,7.53,2,3.6,54.0,69.5,74.6,High
+STU1250,Aditya Joshi,Female,BSc CS,1,74.2,84.6,94.9,9.96,4,4.9,51.7,75.7,34.7,High
+STU1251,Rohan Joshi,Male,BCom,3,31.4,53.9,43.9,8.13,1,2.4,60.9,86.8,46.4,High
+STU1252,Rahul More,Male,BSc IT,3,77.1,82.1,100.0,6.67,1,3.5,48.7,61.2,89.3,High
+STU1253,Neha More,Male,BCA,5,66.8,60.3,64.6,6.8,0,3.2,66.8,43.8,88.6,High
+STU1254,Rahul Kulkarni,Female,BSc IT,5,70.9,67.2,74.6,6.01,1,4.9,61.9,70.4,72.5,High
+STU1255,Vishal Patil,Male,BSc CS,2,66.5,56.1,37.9,5.38,1,5.7,70.4,61.1,70.5,High
+STU1256,Arjun Deshmukh,Female,BSc IT,2,84.1,47.7,70.9,5.97,2,3.3,86.0,48.5,54.4,High
+STU1257,Kavya Kulkarni,Male,BSc IT,1,88.8,36.1,76.1,5.64,2,6.3,77.3,72.5,49.5,High
+STU1258,Aditya More,Male,BSc IT,3,76.2,47.1,70.4,7.78,3,6.3,72.3,64.8,57.8,High
+STU1259,Varun Yadav,Female,BBA,1,66.9,58.8,61.9,5.19,2,5.0,35.5,72.6,34.7,High
+STU1260,Ananya Yadav,Male,BSc CS,1,71.4,67.4,55.0,8.8,2,2.6,71.7,54.6,70.0,High
+STU1261,Aditya Verma,Female,BSc IT,3,72.3,80.2,92.3,7.93,0,2.4,90.8,75.3,66.0,Medium
+STU1262,Aditya Kulkarni,Female,BSc IT,2,60.0,56.9,72.6,6.83,2,2.0,20.0,48.2,46.3,High
+STU1263,Kavya Patil,Male,BSc IT,6,80.7,49.9,99.7,6.8,1,5.2,75.3,55.6,96.4,High
+STU1264,Rohan Shah,Female,BCA,6,78.9,40.9,62.5,5.96,0,1.3,62.6,64.4,77.1,High
+STU1265,Varun Shah,Female,BBA,6,95.1,71.7,64.2,7.21,0,4.7,52.3,94.1,78.8,Medium
+STU1266,Akash Gupta,Male,BCA,3,90.8,86.1,86.7,8.43,1,1.6,77.0,79.8,55.3,Medium
+STU1267,Isha More,Male,BBA,4,61.7,84.3,42.8,5.75,0,5.0,90.6,84.2,65.0,High
+STU1268,Riya Yadav,Female,BSc IT,4,84.3,75.4,50.2,4.5,0,3.5,76.6,89.3,77.5,High
+STU1269,Aryan More,Male,BSc CS,4,57.7,74.2,91.8,7.85,1,5.9,59.4,100.0,68.1,Medium
+STU1270,Aarav Joshi,Female,BCom,5,82.4,91.2,50.9,7.29,2,5.6,50.8,68.6,97.0,Medium
+STU1271,Amit Pawar,Female,BCom,2,64.3,69.3,39.3,5.12,2,6.1,67.2,89.3,60.9,High
+STU1272,Diya Sharma,Male,BSc IT,2,56.7,74.3,100.0,,0,6.1,78.1,83.2,54.9,High
+STU1273,Ananya Pawar,Male,BCA,5,76.2,58.9,46.9,5.51,0,3.8,59.2,82.9,77.7,High
+STU1274,Vishal Deshmukh,Male,BSc CS,1,31.9,42.2,75.3,5.71,0,1.4,60.6,94.6,39.7,High
+STU1275,Vishal Joshi,Male,BBA,6,45.7,53.1,73.2,6.31,0,1.6,100.0,61.7,83.5,High
+STU1276,Arjun Pawar,Female,BSc IT,4,69.3,63.9,21.4,6.4,0,0.5,81.2,60.5,39.0,High
+STU1277,Tanvi Gupta,Female,BSc CS,6,73.2,65.0,67.2,5.82,3,1.5,82.3,72.8,77.8,High
+STU1278,Vishal Kulkarni,Male,BSc CS,4,66.5,94.8,80.1,5.66,1,3.6,43.1,65.3,52.0,High
+STU1279,Akash Pawar,Male,BBA,6,48.3,65.3,78.4,6.46,0,2.5,54.4,72.8,74.5,High
+STU1280,Riya Pawar,Female,BSc CS,1,59.7,82.9,88.3,7.05,0,3.2,66.1,91.4,83.1,High
+STU1281,Ananya Deshmukh,Female,BCA,6,77.9,57.0,65.0,6.33,0,4.4,50.0,60.8,68.1,High
+STU1282,Ananya Kulkarni,Female,BCA,6,80.7,59.0,84.8,8.54,0,3.0,89.0,63.4,41.0,Medium
+STU1283,Aditya Kulkarni,Female,BCA,3,71.8,42.7,59.6,7.56,0,1.5,86.2,70.6,47.1,High
+STU1284,Arjun Gupta,Male,BSc CS,6,89.4,52.1,46.6,4.41,3,3.4,57.0,64.6,50.4,High
+STU1285,Karan Pawar,Female,BCA,3,78.0,72.4,48.6,7.59,0,1.9,91.8,39.3,27.1,High
+STU1286,Aryan Gupta,Female,BBA,2,60.8,64.1,45.7,7.71,0,3.0,64.9,59.3,87.5,High
+STU1287,Aarav Deshmukh,Male,BSc CS,5,67.8,79.1,90.2,6.15,0,5.9,100.0,78.3,67.2,High
+STU1288,Tanvi Deshmukh,Female,BCom,6,51.0,66.9,44.7,4.56,1,3.0,67.2,89.6,42.3,High
+STU1289,Tanvi Gupta,Female,BSc CS,2,70.4,58.4,76.9,6.81,0,6.7,73.6,50.7,94.1,Medium
+STU1290,Rahul Joshi,Male,BBA,3,88.7,98.4,67.2,6.79,0,6.1,86.0,50.6,51.0,Medium
+STU1291,Sneha Yadav,Male,BCom,6,82.3,62.5,70.2,5.12,0,2.5,84.2,68.5,70.0,High
+STU1292,Sneha More,Male,BSc CS,6,93.0,82.6,96.5,4.62,1,1.5,72.7,36.9,48.5,High
+STU1293,Kavya Gupta,Female,BCA,1,67.5,57.6,64.1,6.67,0,3.4,62.9,61.3,24.6,High
+STU1294,Vishal Pawar,Female,BSc IT,2,92.2,75.4,83.0,6.45,0,5.6,72.7,42.0,37.7,High
+STU1295,Amit Patil,Male,BSc IT,4,69.1,78.8,72.7,6.17,0,2.6,52.8,88.5,56.0,High
+STU1296,Vishal More,Male,BCA,4,94.1,67.3,69.3,6.67,0,5.1,67.3,56.5,83.0,High
+STU1297,Tanvi Jadhav,Female,BSc IT,1,71.7,26.3,100.0,5.15,0,5.7,48.4,92.8,71.9,High
+STU1298,Akash Shah,Male,BSc IT,3,82.6,64.3,46.1,6.15,0,2.1,38.3,84.7,67.8,High
+STU1299,Vishal Deshmukh,Male,BCA,4,94.1,83.7,95.2,7.6,0,2.3,65.8,58.3,24.8,Medium
+STU1300,Arjun Verma,Male,BCA,4,69.1,72.4,83.8,6.28,0,4.8,83.9,51.9,90.4,High
+STU1301,Karan Deshmukh,Female,BSc CS,5,75.3,71.1,63.4,4.29,0,3.8,78.9,65.1,69.5,High
+STU1302,Sneha Shah,Female,BSc CS,2,91.3,36.4,100.0,6.09,0,2.3,63.8,66.4,62.6,High
+STU1303,Sneha Jadhav,Female,BCA,3,70.0,52.5,38.7,5.19,0,2.9,91.2,73.2,87.6,High
+STU1304,Isha Shah,Female,BBA,6,52.2,70.6,62.6,7.2,2,3.4,56.5,56.4,89.9,High
+STU1305,Aarav Patil,Female,BSc IT,2,100.0,70.6,50.2,7.28,1,0.7,36.2,79.2,88.1,High
+STU1306,Sahil Deshmukh,Female,BSc CS,3,65.0,83.4,79.4,4.31,2,4.9,32.3,72.0,60.1,High
+STU1307,Aarav Verma,Male,BSc IT,4,74.4,61.7,52.0,7.94,2,2.6,47.3,62.9,44.9,High
+STU1308,Tanvi Verma,Female,BCom,5,89.3,70.5,79.8,5.13,3,0.5,77.2,57.3,84.8,High
+STU1309,Diya Gupta,Female,BCA,2,62.9,64.3,68.6,9.14,1,3.5,55.5,65.2,37.7,High
+STU1310,Kavya Pawar,Male,BBA,4,,48.2,63.4,6.73,1,2.2,71.9,55.7,100.0,High
+STU1311,Aditya Jadhav,Female,BCom,3,75.8,27.9,79.0,4.93,0,6.5,89.7,68.9,65.6,High
+STU1312,Diya Sharma,Female,BCom,2,45.1,70.9,67.2,5.09,0,2.4,48.5,69.3,43.8,High
+STU1313,Rohan Sharma,Male,BCom,6,67.7,66.8,52.4,7.32,1,1.5,72.2,71.9,40.4,High
+STU1314,Rahul Yadav,Male,BCA,2,75.7,54.1,100.0,6.21,4,4.4,73.1,94.5,39.4,High
+STU1315,Ananya More,Male,BSc CS,4,68.0,38.1,63.2,6.66,0,2.3,52.1,66.0,67.8,High
+STU1316,Aarav Pawar,Female,BCA,2,48.8,74.1,32.1,9.22,1,2.1,85.3,83.1,64.9,High
+STU1317,Ananya Jadhav,Male,BSc CS,6,95.9,59.7,56.8,5.75,0,4.4,60.7,71.4,40.3,High
+STU1318,Rahul Jadhav,Female,BCom,5,73.6,72.9,49.2,6.89,0,1.6,59.2,64.4,57.9,High
+STU1319,Kavya Sharma,Female,BCom,5,93.5,93.8,86.9,8.93,0,0.9,96.7,66.2,37.6,Medium
+STU1320,Rahul Yadav,Female,BBA,4,68.1,29.7,77.8,7.21,0,6.6,72.8,67.1,76.8,High
+STU1321,Akash Jadhav,Female,BSc CS,3,58.8,52.8,79.2,4.39,0,4.5,78.9,72.2,63.9,High
+STU1322,Sneha Gupta,Male,BCom,4,76.0,60.6,65.3,7.56,1,3.0,85.3,53.6,57.4,High
+STU1323,Vishal Gupta,Male,BSc IT,5,68.8,87.3,67.0,5.06,2,3.5,55.2,46.0,39.2,High
+STU1324,Diya Verma,Female,BBA,1,54.3,37.8,65.3,8.91,2,4.4,83.7,77.8,59.0,High
+STU1325,Riya Joshi,Male,BCA,1,94.0,95.0,70.5,5.57,0,5.3,57.5,81.5,56.7,High
+STU1326,Kavya Joshi,Female,BBA,2,62.7,66.2,87.0,10.0,2,2.1,56.8,79.2,71.4,High
+STU1327,Rohan Yadav,Female,BSc IT,6,44.4,62.5,78.0,9.0,0,4.2,60.9,70.3,68.3,High
+STU1328,Aryan Yadav,Female,BSc CS,2,91.9,60.8,81.0,5.61,0,2.6,55.7,79.5,80.8,High
+STU1329,Varun Khan,Male,BCA,1,64.4,57.0,81.0,6.83,1,3.2,77.3,78.7,55.3,High
+STU1330,Ananya Gupta,Female,BCA,5,62.9,80.8,87.9,7.93,0,3.8,69.0,79.8,27.8,Medium
+STU1331,Diya Verma,Female,BSc CS,2,45.5,46.9,77.2,7.98,0,3.5,57.6,55.1,84.8,High
+STU1332,Arjun More,Male,BBA,4,98.1,69.5,78.5,7.46,0,4.8,75.1,51.5,46.3,Medium
+STU1333,Sneha Jadhav,Male,BCom,6,52.7,57.9,93.4,8.68,1,4.4,60.9,62.2,42.9,High
+STU1334,Diya Shah,Male,BBA,4,72.9,51.8,60.0,6.62,0,0.8,60.1,67.7,64.1,High
+STU1335,Isha Patil,Male,BSc IT,6,85.7,100.0,56.6,6.25,1,1.1,65.7,64.4,71.0,High
+STU1336,Rohan Patil,Female,BCom,5,78.3,70.7,50.7,6.28,1,2.8,72.0,39.8,54.4,High
+STU1337,Akash Sharma,Male,BBA,2,71.1,73.8,75.3,8.09,1,6.8,70.8,93.8,54.2,Medium
+STU1338,Amit Kulkarni,Female,BSc CS,6,46.5,82.2,38.6,7.35,2,2.0,59.6,63.9,57.2,High
+STU1339,Amit Kulkarni,Male,BSc IT,4,59.9,41.3,80.3,7.24,0,3.1,77.7,70.6,93.3,High
+STU1340,Isha Shah,Male,BSc IT,2,74.8,92.0,70.0,7.99,0,2.5,61.7,86.7,64.9,Medium
+STU1341,Tanvi Verma,Male,BSc IT,2,60.2,23.9,92.4,3.72,0,2.5,55.2,32.8,45.6,High
+STU1342,Amit More,Male,BCom,4,75.1,51.7,59.9,7.27,0,3.8,43.0,60.3,45.8,High
+STU1343,Diya Patil,Male,BCA,1,82.2,56.7,68.3,7.13,1,6.0,79.7,62.2,60.0,High
+STU1344,Rahul Gupta,Male,BCom,6,86.4,73.3,92.2,9.3,0,4.3,65.2,63.0,69.8,Low
+STU1345,Sahil More,Female,BBA,4,53.6,67.5,96.9,4.51,0,2.1,68.2,65.4,74.7,High
+STU1346,Aditya Khan,Male,BCA,5,100.0,61.3,59.8,9.14,1,8.5,80.7,89.7,67.5,Medium
+STU1347,Karan Sharma,Male,BBA,3,83.5,63.8,75.3,6.91,1,3.6,57.8,78.1,48.2,High
+STU1348,Diya Patil,Male,BCA,4,72.0,48.4,77.3,7.53,1,2.5,44.4,82.4,56.5,High
+STU1349,Isha Shah,Male,BCom,2,88.3,40.0,78.7,9.31,2,6.0,66.0,68.7,79.7,High
+STU1350,Diya Khan,Female,BSc IT,2,100.0,75.6,67.3,7.64,1,2.7,69.6,47.0,42.1,High
+STU1351,Riya More,Male,BSc CS,4,50.4,75.1,95.1,7.4,1,6.5,61.1,36.8,55.7,High
+STU1352,Tanvi Singh,Male,BSc IT,3,68.6,89.4,38.0,7.16,0,1.9,87.1,45.1,76.9,High
+STU1353,Vishal Kulkarni,Male,BCom,4,36.3,51.4,64.4,6.07,4,6.1,27.7,73.4,82.5,High
+STU1354,Vishal Gupta,Male,BCA,3,74.9,75.1,80.1,6.76,1,3.9,81.8,68.5,61.1,High
+STU1355,Neha Yadav,Female,BSc IT,3,77.5,59.5,80.2,5.73,0,5.8,76.9,64.8,56.8,High
+STU1356,Riya Sharma,Male,BCom,5,71.4,83.0,96.3,6.73,0,6.9,71.9,62.5,38.6,Medium
+STU1357,Akash Verma,Female,BBA,6,62.2,80.4,93.6,3.3,1,1.5,20.0,98.2,75.5,High
+STU1358,Aryan Sharma,Male,BSc CS,2,41.3,67.4,66.9,7.44,3,5.8,84.3,55.7,91.4,High
+STU1359,Neha Shah,Female,BSc IT,2,77.6,58.6,95.4,6.62,0,1.0,49.6,81.9,100.0,High
+STU1360,Rohan Patil,Female,BCA,3,93.8,79.4,59.1,6.3,0,1.6,57.4,68.0,72.7,Medium
+STU1361,Rahul Kulkarni,Male,BBA,2,63.1,74.4,88.8,7.13,2,2.1,62.4,67.1,64.0,High
+STU1362,Diya Kulkarni,Male,BCom,1,78.6,53.0,100.0,4.65,2,4.4,71.1,85.6,46.6,High
+STU1363,Diya Kulkarni,Female,BSc CS,3,48.5,42.8,93.9,9.69,0,3.6,74.6,89.9,27.4,Medium
+STU1364,Aryan Pawar,Female,BCA,2,78.9,59.4,73.9,6.65,0,3.2,78.4,64.4,68.5,Medium
+STU1365,Neha Khan,Male,BCom,1,66.1,88.2,66.0,6.58,1,3.8,77.2,80.0,100.0,High
+STU1366,Kavya Shah,Female,BCom,5,60.6,82.3,44.5,5.35,0,4.6,68.8,73.5,90.4,High
+STU1367,Rahul Patil,Female,BSc IT,2,60.6,46.2,77.6,6.84,2,4.7,71.2,68.1,87.3,High
+STU1368,Aditya Deshmukh,Female,BSc IT,1,66.1,45.3,51.9,8.88,0,5.5,48.6,71.1,69.9,High
+STU1369,Rohan Joshi,Male,BCA,4,77.7,84.4,57.7,8.35,0,6.8,53.7,57.7,72.2,Medium
+STU1370,Tanvi Yadav,Female,BCom,6,52.3,45.8,50.6,8.08,0,3.5,78.4,63.4,16.5,High
+STU1371,Neha Deshmukh,Female,BSc IT,4,66.0,72.1,63.7,7.62,0,2.6,77.6,59.3,80.3,High
+STU1372,Kavya Gupta,Female,BSc CS,1,71.4,54.1,71.5,6.26,0,4.6,75.9,81.5,53.4,Medium
+STU1373,Aarav Jadhav,Male,BSc CS,3,55.5,89.9,76.9,4.62,0,1.4,57.3,66.6,51.0,High
+STU1374,Akash Singh,Male,BCom,3,98.9,51.7,61.2,6.5,1,2.3,78.7,48.5,58.5,High
+STU1375,Varun Pawar,Female,BSc IT,2,59.2,82.3,91.2,6.45,0,5.3,47.6,57.1,57.9,High
+STU1376,Aryan More,Male,BCA,4,62.0,67.0,68.3,8.37,2,3.3,81.2,20.0,50.6,High
+STU1377,Rohan Shah,Female,BCA,3,57.3,68.0,57.8,7.26,0,1.3,61.1,60.6,65.3,High
+STU1378,Ananya Jadhav,Male,BCA,3,99.0,32.5,76.1,9.22,1,0.8,90.3,68.6,53.8,High
+STU1379,Karan Verma,Male,BSc CS,4,80.3,28.8,100.0,8.6,0,,42.2,66.0,67.0,High
+STU1380,Sahil Jadhav,Female,BSc IT,5,58.0,60.5,78.0,6.12,0,5.6,91.5,97.7,35.3,Medium
+STU1381,Aarav More,Male,BSc IT,3,88.6,68.0,65.5,4.11,1,5.5,59.6,76.6,60.7,High
+STU1382,Ananya Yadav,Male,BSc CS,6,75.0,46.0,44.5,8.88,1,3.7,59.3,76.0,43.1,High
+STU1383,Aarav Joshi,Male,BCA,1,75.9,46.6,68.1,8.84,1,7.1,67.9,43.4,52.2,Medium
+STU1384,Diya Yadav,Female,BCA,2,66.8,73.0,76.2,4.75,1,3.3,54.5,62.5,67.9,High
+STU1385,Karan Patil,Male,BCom,3,60.8,73.0,65.0,9.06,1,3.3,63.9,60.7,32.9,High
+STU1386,Kavya Shah,Male,BBA,6,77.1,61.8,42.0,7.37,0,0.5,53.9,56.2,48.6,High
+STU1387,Karan Gupta,Female,BSc IT,6,63.8,76.5,56.7,7.04,2,2.7,54.5,56.0,76.4,High
+STU1388,Riya Pawar,Male,BSc IT,3,99.3,45.2,98.2,9.22,1,5.0,72.3,40.9,36.7,Medium
+STU1389,Aditya Shah,Male,BSc IT,5,53.0,58.3,97.8,8.82,4,6.3,51.5,48.9,100.0,High
+STU1390,Sahil Deshmukh,Male,BBA,1,95.0,90.4,56.0,7.78,2,2.0,53.5,81.1,89.1,High
+STU1391,Isha Joshi,Male,BCom,2,70.3,,84.1,7.51,0,4.3,44.4,65.9,55.1,High
+STU1392,Amit Singh,Male,BBA,3,76.5,66.0,50.8,7.72,0,5.4,57.4,60.4,49.3,Medium
+STU1393,Karan Verma,Female,BCA,2,84.5,100.0,97.3,6.2,1,3.5,84.7,67.9,69.0,Medium
+STU1394,Neha Sharma,Female,BCA,4,62.5,41.6,76.4,6.72,1,0.5,52.3,85.5,36.1,High
+STU1395,Riya Kulkarni,Male,BSc IT,6,85.0,76.7,89.1,5.45,1,3.9,54.0,68.1,25.0,High
+STU1396,Aditya Gupta,Male,BSc CS,6,31.4,90.6,41.1,6.3,1,4.9,67.9,76.1,55.8,High
+STU1397,Vishal Khan,Male,BSc IT,3,61.2,58.8,84.2,6.25,0,1.8,59.4,55.3,62.3,High
+STU1398,Sahil Yadav,Female,BSc CS,3,58.1,77.8,71.9,5.85,0,3.0,98.4,58.7,66.9,High
+STU1399,Arjun Jadhav,Female,BBA,4,53.2,48.3,87.3,7.01,0,1.4,62.6,73.3,52.7,High
+STU1400,Varun Gupta,Male,BCA,5,68.8,53.0,88.5,6.31,1,0.5,70.0,96.4,90.5,High
+STU1401,Amit Deshmukh,Male,BSc CS,3,77.8,70.2,73.2,7.55,1,5.3,79.2,89.4,35.1,High
+STU1402,Amit Joshi,Female,BBA,6,82.5,76.8,61.2,4.37,0,3.5,78.9,76.7,42.2,High
+STU1403,Karan Jadhav,Male,BCA,2,75.6,81.9,86.0,6.63,1,6.4,68.5,70.3,74.7,Medium
+STU1404,Akash Verma,Female,BSc CS,1,62.0,89.1,70.9,7.0,0,5.0,62.6,89.0,41.8,High
+STU1405,Ananya Singh,Female,BSc IT,2,77.5,62.9,56.3,6.33,0,2.9,95.4,79.9,41.0,High
+STU1406,Diya Pawar,Male,BSc IT,5,73.9,83.1,55.4,6.54,1,3.4,63.5,33.6,67.5,High
+STU1407,Karan Singh,Female,BSc IT,1,86.0,58.5,45.4,4.42,0,4.5,58.4,52.2,43.9,High
+STU1408,Riya Joshi,Male,BBA,2,83.7,78.4,62.8,7.33,1,5.2,55.3,73.1,62.3,High
+STU1409,Rahul Joshi,Male,BSc IT,2,72.5,67.3,91.8,7.77,2,4.1,39.1,41.2,51.0,High
+STU1410,Sneha Pawar,Male,BCom,4,58.5,71.1,75.2,7.54,2,5.5,77.3,54.5,47.8,High
+STU1411,Aryan Joshi,Male,BCA,5,62.2,70.8,62.5,8.36,0,3.0,29.8,57.5,23.0,High
+STU1412,Riya Yadav,Male,BBA,6,63.8,38.3,86.5,7.1,0,1.7,64.9,64.2,67.8,High
+STU1413,Ananya Verma,Male,BSc IT,4,67.3,46.0,57.0,7.52,1,3.4,61.9,63.7,40.1,High
+STU1414,Vishal Joshi,Female,BCA,1,76.0,65.6,73.7,7.03,1,3.9,98.6,63.7,61.6,High
+STU1415,Aditya Kulkarni,Female,BSc CS,6,82.7,37.0,68.8,7.83,1,1.3,37.5,80.4,54.8,High
+STU1416,Tanvi Yadav,Female,BSc IT,4,71.2,77.3,86.0,4.43,0,1.1,51.5,64.0,60.9,High
+STU1417,Varun Sharma,Female,BCA,5,72.2,77.9,43.6,5.46,0,4.3,63.0,62.2,62.0,High
+STU1418,Riya Yadav,Male,BCom,3,74.1,69.2,56.7,9.18,1,2.8,62.0,47.8,68.9,High
+STU1419,Rahul More,Female,BSc CS,3,64.3,46.1,42.5,3.11,1,3.2,56.8,83.4,50.4,High
+STU1420,Arjun Gupta,Female,BCom,1,58.1,86.1,67.3,6.59,0,2.9,63.8,57.9,89.9,High
+STU1421,Amit Yadav,Female,BCA,3,45.7,96.6,93.8,8.56,0,6.2,46.1,51.7,28.1,Medium
+STU1422,Sahil Deshmukh,Male,BCom,4,61.6,66.4,62.9,6.66,1,5.8,70.4,71.2,60.5,High
+STU1423,Amit Kulkarni,Female,BCA,1,79.1,72.2,62.8,6.19,0,1.3,30.2,56.5,81.7,High
+STU1424,Sneha Pawar,Male,BCA,6,61.5,67.2,87.7,6.99,0,2.5,64.6,60.1,74.5,Medium
+STU1425,Aarav Patil,Female,BCom,5,68.4,72.5,91.2,6.27,0,5.0,56.0,71.9,45.5,High
+STU1426,Vishal Sharma,Male,BCA,1,79.0,62.1,70.4,6.85,0,4.6,80.2,63.1,48.8,Medium
+STU1427,Rohan Khan,Male,BSc IT,6,79.8,63.4,84.3,5.77,1,3.4,91.3,100.0,44.9,High
+STU1428,Rahul Sharma,Female,BCA,1,55.8,78.5,52.6,8.46,0,1.5,60.0,66.9,77.0,Medium
+STU1429,Sneha Singh,Male,BBA,2,87.0,100.0,96.8,8.93,0,2.3,85.9,77.3,50.2,Medium
+STU1430,Amit Joshi,Male,BCA,2,88.9,41.6,100.0,6.6,0,2.6,60.3,38.9,70.1,Medium
+STU1431,Sahil Khan,Female,BBA,1,55.1,62.3,81.4,4.72,0,4.0,50.5,55.1,70.3,High
+STU1432,Rohan Singh,Female,BCA,3,59.6,45.1,34.5,6.01,1,6.6,91.2,51.7,100.0,High
+STU1433,Rohan Kulkarni,Female,BCA,2,89.9,89.5,62.0,6.52,0,2.3,72.8,53.7,71.3,Medium
+STU1434,Kavya Pawar,Male,BCom,5,69.8,54.6,83.0,7.56,1,1.7,65.1,74.2,48.8,High
+STU1435,Isha Verma,Male,BSc IT,6,38.7,40.9,64.4,5.29,0,3.3,75.3,83.5,35.8,High
+STU1436,Sahil Gupta,Male,BSc IT,4,51.0,74.2,94.9,5.65,0,5.4,69.1,73.2,59.5,High
+STU1437,Vishal Deshmukh,Female,BSc CS,2,68.3,91.9,82.6,7.57,0,0.9,64.0,64.6,62.6,Medium
+STU1438,Karan Patil,Male,BCom,1,54.6,74.6,59.3,8.21,0,6.1,45.1,58.5,20.8,High
+STU1439,Akash Deshmukh,Male,BCom,3,65.8,67.3,72.6,5.87,1,3.2,60.9,84.7,50.7,High
+STU1440,Kavya Sharma,Male,BSc IT,4,72.5,70.5,55.9,4.8,0,2.2,74.3,99.1,70.9,High
+STU1441,Rahul Singh,Male,BCom,6,93.9,86.6,68.7,10.0,2,0.6,63.2,70.0,54.4,High
+STU1442,Sneha Khan,Male,BSc IT,6,67.6,50.0,62.0,7.97,0,4.8,78.5,82.1,84.4,Medium
+STU1443,Rahul Yadav,Male,BCom,2,88.1,62.2,93.1,6.4,0,3.2,70.8,73.2,33.8,Medium
+STU1444,Varun Verma,Male,BCA,6,93.4,56.8,100.0,8.1,0,3.8,51.8,79.3,78.5,Medium
+STU1445,Akash Kulkarni,Female,BSc IT,6,93.5,45.3,46.2,6.61,1,1.9,45.2,50.5,83.3,High
+STU1446,Varun Gupta,Female,BSc IT,3,76.3,58.7,37.4,8.1,0,2.9,62.6,60.7,84.1,High
+STU1447,Ananya Joshi,Female,BBA,3,42.6,81.7,67.6,7.04,0,2.6,57.1,73.9,33.7,High
+STU1448,Sneha Gupta,Male,BCom,3,78.9,73.1,44.7,6.94,0,3.3,70.0,86.2,71.3,Medium
+STU1449,Karan Gupta,Male,BCom,1,87.7,74.3,72.8,6.63,0,2.3,54.2,55.7,51.6,High
+STU1450,Amit Singh,Female,BSc IT,6,70.8,66.3,85.5,4.63,3,0.7,55.8,37.5,36.9,High
+STU1451,Amit Kulkarni,Male,BCA,6,98.2,72.4,98.9,9.71,0,8.4,80.8,60.5,56.7,Low
+STU1452,Aryan Pawar,Female,BCA,6,84.9,51.2,75.6,5.39,1,1.0,67.2,83.2,46.9,High
+STU1453,Tanvi Yadav,Male,BCA,5,80.5,59.0,68.5,4.76,1,3.8,54.5,44.2,83.4,High
+STU1454,Aarav Jadhav,Male,BCom,3,88.3,67.1,36.4,6.48,0,0.5,65.3,50.3,75.3,High
+STU1455,Amit Singh,Female,BBA,4,77.0,,72.5,5.36,0,0.5,85.7,70.3,42.0,High
+STU1456,Isha Singh,Female,BSc IT,2,34.6,69.1,73.3,6.72,1,3.7,69.4,66.3,50.5,High
+STU1457,Riya More,Female,BSc CS,4,64.5,61.8,83.5,7.83,0,3.8,73.9,76.9,57.4,High
+STU1458,Neha More,Female,BBA,1,90.0,58.0,59.2,8.29,0,5.8,53.7,49.6,63.6,Medium
+STU1459,Vishal Jadhav,Female,BSc CS,1,59.9,100.0,64.2,8.02,1,4.2,80.4,63.1,85.1,Medium
+STU1460,Amit Gupta,Male,BBA,6,68.6,78.5,45.4,6.34,1,3.2,99.8,85.9,78.8,High
+STU1461,Neha Verma,Male,BCA,4,56.3,70.6,30.8,6.87,1,1.8,53.1,50.1,66.0,High
+STU1462,Aryan Yadav,Male,BCom,6,98.8,60.3,52.0,7.41,1,6.2,47.3,90.2,59.8,High
+STU1463,Riya Jadhav,Female,BSc CS,5,97.2,56.8,43.7,4.16,0,5.2,67.6,52.0,29.5,High
+STU1464,Karan Singh,Female,BBA,1,58.7,61.9,78.1,7.66,0,1.3,78.1,80.7,90.8,High
+STU1465,Karan Shah,Female,BCom,1,74.2,68.7,62.7,4.61,0,3.6,63.6,62.4,56.1,High
+STU1466,Rahul Singh,Female,BSc CS,4,61.8,33.9,62.3,9.86,1,3.8,49.2,50.8,96.1,High
+STU1467,Neha Shah,Female,BSc IT,1,81.2,38.9,54.3,6.19,3,2.9,63.4,60.5,68.9,High
+STU1468,Rahul Joshi,Female,BBA,5,79.6,53.8,20.0,6.52,0,4.9,74.0,76.2,100.0,High
+STU1469,Kavya Joshi,Male,BSc IT,5,84.2,67.3,99.1,5.65,0,5.0,58.9,67.9,77.1,Medium
+STU1470,Tanvi Verma,Male,BCA,5,77.0,60.2,54.0,5.86,0,3.2,74.1,84.8,36.4,High
+STU1471,Kavya Shah,Male,BSc IT,2,100.0,87.6,64.6,10.0,2,3.0,82.5,89.5,52.7,Medium
+STU1472,Amit Patil,Male,BSc IT,5,56.6,40.3,45.8,8.21,1,6.2,68.6,50.3,61.6,High
+STU1473,Aarav Khan,Male,BBA,5,46.3,52.0,89.5,4.48,0,5.2,64.6,49.2,47.5,High
+STU1474,Aryan Singh,Female,BCA,2,66.1,88.3,74.6,9.06,3,3.6,77.4,48.4,57.5,High
+STU1475,Rohan Patil,Female,BSc IT,6,48.5,66.1,57.1,8.59,2,0.6,52.2,54.5,37.7,High
+STU1476,Kavya Joshi,Female,BCom,3,49.6,78.2,64.9,6.38,0,4.1,50.7,84.6,65.1,High
+STU1477,Rohan Pawar,Female,BSc CS,1,57.0,96.8,100.0,7.26,3,4.8,61.0,76.4,69.7,High
+STU1478,Karan Verma,Female,BSc IT,5,58.2,52.9,70.7,6.78,0,0.5,57.6,59.8,44.9,High
+STU1479,Neha Jadhav,Female,BCA,1,57.7,62.4,68.7,9.76,0,4.0,52.9,67.8,100.0,Medium
+STU1480,Riya Shah,Male,BSc IT,4,79.8,59.6,55.1,5.61,0,2.7,92.5,89.1,66.3,High
+STU1481,Ananya Verma,Female,BSc CS,1,64.4,32.7,37.9,7.02,2,3.1,97.6,96.6,48.7,High
+STU1482,Tanvi Gupta,Female,BCA,6,69.3,59.0,69.1,6.16,1,1.9,59.7,71.9,32.4,High
+STU1483,Akash Pawar,Female,BBA,2,85.4,78.1,77.9,4.65,0,3.2,66.4,28.1,66.2,High
+STU1484,Ananya Jadhav,Female,BCA,1,60.5,72.6,91.8,10.0,3,6.0,62.2,72.5,59.8,High
+STU1485,Sneha Yadav,Male,BBA,1,68.0,73.9,31.5,5.03,0,2.7,81.6,82.0,80.7,High
+STU1486,Varun Shah,Male,BCA,1,77.5,58.0,51.7,7.13,1,5.2,84.6,71.4,62.1,High
+STU1487,Neha Shah,Female,BSc CS,3,42.9,53.5,61.5,4.19,1,2.0,38.3,78.9,41.1,High
+STU1488,Isha Sharma,Male,BSc CS,3,36.2,84.3,71.9,6.2,0,4.9,72.1,73.4,98.4,High
+STU1489,Tanvi Gupta,Male,BCA,4,77.2,56.0,69.4,7.43,0,3.5,45.4,49.5,73.7,High
+STU1490,Amit Verma,Female,BSc IT,2,79.4,68.7,69.8,5.56,2,4.1,91.4,54.7,59.9,High
+STU1491,Aryan Singh,Female,BSc CS,1,100.0,66.6,79.3,7.68,0,3.5,71.6,63.2,68.3,Medium
+STU1492,Aarav Sharma,Female,BBA,1,74.4,87.4,55.7,6.4,1,4.7,52.6,84.0,74.5,Medium
+STU1493,Aditya More,Female,BBA,1,84.3,79.5,88.8,8.54,0,0.5,61.4,56.5,36.4,Medium
+STU1494,Kavya Shah,Female,BCom,1,69.1,43.3,79.8,8.84,1,0.9,60.7,74.8,68.2,High
+STU1495,Aryan Singh,Male,BBA,3,76.5,45.0,66.2,5.92,0,4.3,72.9,72.6,56.0,High
+STU1496,Sneha Sharma,Female,BCom,6,97.0,73.3,100.0,6.92,0,0.5,80.6,91.8,75.1,Medium
+STU1497,Aditya Singh,Female,BCA,6,40.1,63.0,100.0,7.08,0,2.5,47.8,67.4,50.2,High
+STU1498,Riya Singh,Female,BCA,4,78.2,56.7,88.8,7.73,2,3.4,92.6,41.7,52.9,High
+STU1499,Aditya Sharma,Male,BCA,5,100.0,80.3,20.0,6.82,0,2.0,89.1,77.7,98.3,Medium
+STU1500,Karan Gupta,Female,BSc IT,2,76.2,67.0,100.0,7.09,0,2.3,51.9,100.0,89.6,Medium
+STU1501,Ananya Patil,Female,BSc IT,6,96.8,64.8,86.3,6.43,3,4.0,66.1,78.7,10.0,High
+STU1502,Sahil Shah,Female,BCom,1,62.6,76.5,100.0,6.97,1,5.3,90.7,56.2,88.1,High
+STU1503,Aditya Verma,Male,BBA,6,71.5,58.0,94.3,8.75,0,1.8,83.5,51.8,63.5,Medium
+STU1504,Aditya Yadav,Female,BBA,4,72.5,89.1,100.0,7.77,4,2.5,59.9,53.7,50.8,High
+STU1505,Aryan Singh,Female,BCA,5,38.7,51.4,87.8,7.85,1,2.2,77.2,98.0,44.9,High
+STU1506,Neha Jadhav,Female,BSc CS,6,54.5,74.5,96.3,7.88,0,0.5,100.0,63.1,46.0,High
+STU1507,Rohan Jadhav,Male,BSc IT,4,55.5,86.9,100.0,6.57,0,3.8,66.6,58.1,51.4,High
+STU1508,Arjun More,Female,BSc IT,3,84.3,42.0,75.9,7.28,1,5.2,55.5,65.6,42.5,High
+STU1509,Karan Yadav,Female,BCA,5,85.1,58.5,43.7,5.17,1,5.3,67.6,63.2,37.9,High
+STU1510,Varun Sharma,Female,BSc IT,4,76.9,82.3,66.5,8.7,0,1.9,68.7,91.5,44.2,Medium
+STU1511,Aryan Gupta,Male,BCA,6,84.4,82.5,79.0,2.63,0,1.2,57.1,52.8,71.5,High
+STU1512,Vishal Verma,Female,BCom,3,69.5,61.3,73.3,6.67,0,3.5,71.6,85.7,66.0,High
+STU1513,Amit Kulkarni,Female,BBA,4,90.0,52.2,49.6,8.51,1,5.0,46.2,69.8,76.1,High
+STU1514,Vishal Singh,Female,BSc CS,4,72.1,79.3,42.6,4.75,0,3.8,55.0,86.1,63.7,High
+STU1515,Rohan Jadhav,Male,BBA,6,72.9,82.9,58.7,7.4,0,4.0,76.4,91.7,38.9,High
+STU1516,Diya Gupta,Male,BBA,5,68.0,45.4,86.5,5.78,1,5.6,38.7,69.3,74.9,High
+STU1517,Rohan Singh,Female,BCom,3,82.3,44.7,100.0,6.25,1,2.2,78.5,63.3,44.9,High
+STU1518,Vishal More,Male,BSc IT,1,65.7,67.6,88.5,8.22,0,3.1,34.8,69.0,77.9,High
+STU1519,Riya Khan,Male,BSc CS,2,86.6,74.1,91.0,7.1,0,6.4,39.0,66.6,41.7,Medium
+STU1520,Isha Jadhav,Male,BSc IT,5,55.0,59.2,70.5,3.75,0,3.1,57.5,43.1,51.3,High
+STU1521,Sneha Patil,Female,BBA,3,55.5,74.9,40.6,5.34,0,1.2,69.3,91.3,57.8,High
+STU1522,Akash Jadhav,Female,BCA,4,82.3,52.6,63.8,8.26,3,2.3,84.9,71.7,78.5,High
+STU1523,Neha Sharma,Male,BBA,3,70.7,30.2,67.3,7.47,1,1.8,65.9,50.6,68.5,High
+STU1524,Karan Joshi,Male,BSc IT,2,65.2,57.2,63.1,9.42,0,4.1,61.3,37.0,65.4,High
+STU1525,Akash Singh,Male,BBA,6,85.4,65.0,73.0,9.32,0,1.9,73.7,33.1,100.0,Medium
+STU1526,Aryan Joshi,Female,BCA,2,62.9,59.6,79.9,6.29,0,4.0,51.9,79.6,28.3,Medium
+STU1527,Tanvi Khan,Female,BCom,1,69.0,45.5,87.4,10.0,1,2.2,67.1,58.7,44.2,High
+STU1528,Varun Gupta,Male,BSc IT,1,93.0,34.9,67.0,6.84,0,0.5,47.0,61.2,43.4,High
+STU1529,Varun Khan,Male,BBA,2,95.1,55.8,37.7,5.36,2,4.1,66.2,75.3,29.6,High
+STU1530,Neha Verma,Male,BSc IT,5,95.6,78.4,63.3,5.85,1,3.8,63.1,60.3,50.6,High
+STU1531,Diya Jadhav,Male,BCom,5,67.8,84.1,72.8,3.41,0,4.4,52.9,76.2,78.8,High
+STU1532,Isha Joshi,Female,BBA,4,90.5,83.0,94.0,9.21,2,2.3,67.5,69.4,53.2,High
+STU1533,Ananya Gupta,Male,BBA,1,57.8,50.9,61.8,9.19,1,2.1,67.4,66.7,58.3,High
+STU1534,Diya Pawar,Female,BSc IT,4,58.4,45.5,81.2,5.28,1,4.2,82.6,44.4,30.5,High
+STU1535,Isha Kulkarni,Male,BSc IT,1,36.7,71.9,77.2,6.46,3,6.2,40.9,55.7,49.1,High
+STU1536,Diya Patil,Male,BCA,2,97.1,74.2,72.8,6.94,0,3.5,63.9,77.0,55.8,Medium
+STU1537,Karan More,Male,BCom,5,59.0,70.4,88.7,5.36,0,4.3,53.6,57.8,77.8,High
+STU1538,Vishal Singh,Male,BCA,5,70.1,31.8,60.1,4.17,2,2.9,78.0,86.1,31.5,High
+STU1539,Neha Patil,Male,BBA,2,58.3,50.1,61.6,6.48,1,0.7,76.3,100.0,55.9,High
+STU1540,Aryan Yadav,Female,BSc IT,4,82.4,63.5,71.8,6.32,3,5.2,72.6,77.8,86.7,High
+STU1541,Rahul Yadav,Male,BBA,4,66.4,71.8,60.5,6.22,0,5.1,54.4,90.4,56.1,High
+STU1542,Tanvi Khan,Male,BBA,3,52.4,76.3,81.1,7.13,1,4.8,78.3,78.8,22.7,High
+STU1543,Diya Singh,Male,BSc CS,1,78.6,66.3,59.2,8.94,0,3.2,42.0,60.0,90.6,Medium
+STU1544,Aarav More,Female,BSc CS,4,50.5,69.3,76.1,6.35,0,4.6,39.0,71.0,79.7,High
+STU1545,Aarav Pawar,Female,BBA,2,59.4,65.4,70.2,7.06,0,5.1,45.9,98.2,82.4,High
+STU1546,Diya Gupta,Female,BSc IT,4,40.4,75.0,75.9,7.89,0,6.4,64.5,60.1,30.1,High
+STU1547,Sahil Khan,Female,BBA,5,50.6,69.0,63.7,7.63,0,5.3,75.1,52.4,95.2,High
+STU1548,Ananya Joshi,Male,BSc CS,1,74.7,65.1,65.9,5.88,1,3.6,20.4,51.0,49.5,High
+STU1549,Arjun Kulkarni,Male,BSc IT,6,42.5,59.7,73.7,6.94,0,1.1,84.8,64.7,54.8,High
+STU1550,Varun Shah,Male,BBA,3,49.8,65.3,75.6,7.62,0,3.8,67.0,52.9,50.9,High
+STU1551,Neha Khan,Female,BCom,1,72.0,71.8,71.9,5.11,0,4.0,41.5,93.1,83.9,High
+STU1552,Riya Pawar,Male,BCom,5,63.8,68.3,100.0,8.7,0,4.8,66.5,71.2,61.4,Medium
+STU1553,Sahil Sharma,Male,BBA,5,100.0,70.1,54.2,8.95,3,5.9,81.4,82.6,74.6,High
+STU1554,Rahul Pawar,Female,BSc IT,5,99.5,85.5,70.8,5.72,0,3.3,74.0,63.5,66.5,High
+STU1555,Rahul Patil,Female,BBA,5,59.0,68.2,43.7,7.09,0,7.3,81.5,50.9,63.1,Medium
+STU1556,Amit More,Female,BBA,2,80.4,53.6,78.7,7.76,2,0.5,44.5,48.4,46.1,High
+STU1557,Arjun Verma,Male,BSc CS,3,83.2,78.1,51.9,5.98,1,4.3,58.8,54.4,100.0,High
+STU1558,Ananya Shah,Male,BCom,6,63.0,42.1,67.0,7.52,1,2.1,51.1,73.2,35.7,High
+STU1559,Akash Sharma,Female,BSc CS,5,49.6,46.7,65.3,7.04,1,0.5,90.8,75.8,73.2,High
+STU1560,Amit Shah,Male,BSc CS,5,71.8,69.4,77.1,4.6,3,3.1,74.6,77.0,72.5,High
+STU1561,Vishal Patil,Female,BBA,4,69.4,72.3,62.0,7.49,0,0.9,100.0,45.7,88.1,High
+STU1562,Ananya Yadav,Female,BSc CS,3,65.5,44.1,61.3,5.15,4,3.2,58.0,68.0,92.8,High
+STU1563,Isha Joshi,Male,BCom,1,78.6,57.9,97.8,8.21,2,3.6,54.1,52.6,62.3,High
+STU1564,Arjun Patil,Female,BSc CS,3,60.7,54.3,77.1,5.79,1,5.5,62.9,74.0,75.6,High
+STU1565,Arjun Yadav,Female,BCom,3,54.7,56.2,61.9,6.56,1,0.8,85.7,75.2,100.0,High
+STU1566,Neha Shah,Female,BSc CS,6,73.6,79.1,67.5,8.86,1,5.1,59.5,50.4,63.7,High
+STU1567,Kavya Patil,Male,BCom,3,77.8,75.3,100.0,7.54,0,3.7,66.9,82.5,43.7,Low
+STU1568,Rohan More,Female,BSc CS,6,54.4,63.7,67.8,5.18,0,5.4,66.5,100.0,57.3,High
+STU1569,Neha Shah,Female,BSc CS,5,85.9,55.3,59.6,5.28,3,2.7,65.6,80.5,38.9,High
+STU1570,Aditya Singh,Female,BSc IT,5,45.4,42.4,59.7,5.9,0,1.1,55.2,65.6,72.4,High
+STU1571,Akash More,Female,BCom,2,63.3,86.7,62.1,7.39,0,1.3,62.9,63.3,86.3,Medium
+STU1572,Sahil Gupta,Female,BCom,6,68.1,73.5,61.3,7.34,1,1.2,62.3,64.9,62.6,High
+STU1573,Aarav Gupta,Female,BCom,6,62.5,52.7,49.0,5.54,0,4.4,64.9,56.6,32.6,High
+STU1574,Akash Joshi,Female,BCA,1,63.5,75.5,51.8,5.05,0,6.2,79.2,71.8,85.4,High
+STU1575,Aditya Shah,Male,BSc CS,4,100.0,62.9,57.1,7.22,1,2.5,91.4,50.9,29.5,High
+STU1576,Varun Patil,Male,BCom,3,59.2,59.4,82.6,6.53,1,4.6,52.4,39.7,34.1,High
+STU1577,Kavya Shah,Female,BCA,1,100.0,71.0,65.1,10.0,0,,59.1,71.3,61.4,Medium
+STU1578,Sahil Singh,Male,BSc IT,6,78.6,52.1,68.3,6.85,3,3.8,52.6,68.3,70.0,High
+STU1579,Sneha Gupta,Male,BCom,1,73.4,58.5,94.9,9.52,0,4.7,67.8,59.4,73.4,Medium
+STU1580,Neha Khan,Female,BCom,2,79.1,65.9,95.3,5.04,0,0.9,56.9,48.8,63.7,High
+STU1581,Rohan Khan,Male,BCA,4,100.0,56.0,66.9,4.44,0,3.1,68.6,72.3,100.0,High
+STU1582,Akash Sharma,Female,BSc CS,6,57.1,74.7,60.6,5.12,1,4.8,81.6,53.1,66.3,High
+STU1583,Vishal Deshmukh,Female,BSc IT,6,55.2,93.9,56.4,8.58,0,0.5,27.1,65.9,85.7,Medium
+STU1584,Sahil Patil,Female,BCom,3,60.7,51.9,84.5,9.43,0,5.9,72.4,94.5,80.7,Medium
+STU1585,Aditya Yadav,Female,BSc CS,4,72.5,37.4,68.3,5.63,2,4.1,58.1,77.8,39.1,High
+STU1586,Diya Jadhav,Female,BSc IT,2,46.1,32.0,65.0,6.11,0,4.8,71.9,47.5,61.6,High
+STU1587,Rohan Pawar,Male,BBA,5,72.3,61.6,57.4,5.05,1,2.8,51.6,48.9,100.0,High
+STU1588,Arjun Shah,Female,BBA,1,97.4,53.4,58.1,4.08,1,0.5,82.9,70.3,54.9,High
+STU1589,Vishal More,Male,BSc IT,3,74.3,67.3,77.8,7.88,4,4.5,78.7,47.4,51.5,High
+STU1590,Aarav Jadhav,Female,BCA,6,67.6,66.1,48.3,7.13,1,3.4,73.5,38.0,68.4,High
+STU1591,Akash Joshi,Female,BSc IT,5,62.7,38.3,89.9,6.82,0,3.6,76.9,76.0,55.6,High
+STU1592,Rohan Singh,Female,BSc IT,2,85.5,35.0,62.4,4.7,0,5.5,53.8,72.8,49.1,High
+STU1593,Rohan Gupta,Male,BCA,4,59.6,68.7,69.3,9.26,2,4.9,55.7,74.8,55.3,High
+STU1594,Akash Shah,Female,BCA,1,99.7,66.2,47.9,6.04,2,7.0,76.3,71.9,93.6,High
+STU1595,Riya Joshi,Female,BSc CS,3,100.0,57.2,71.8,7.6,0,3.8,53.5,67.0,62.3,High
+STU1596,Riya Joshi,Female,BSc CS,6,75.9,37.5,66.1,4.62,1,2.3,86.7,58.1,38.4,High
+STU1597,Neha Sharma,Female,BCA,6,71.8,71.5,71.1,6.51,0,3.2,60.1,75.7,34.8,High
+STU1598,Aryan Shah,Male,BBA,5,87.5,84.4,98.5,7.24,3,4.2,72.5,90.9,100.0,High
+STU1599,Akash More,Female,BBA,5,88.4,68.4,75.2,7.29,3,5.3,96.5,60.5,60.5,High
+STU1600,Rahul Patil,Male,BSc IT,1,59.9,50.4,57.7,7.03,4,0.9,54.4,52.7,73.7,High
+STU1601,Varun Sharma,Female,BCom,4,64.1,64.7,59.2,7.54,2,3.5,66.0,51.0,49.6,High
+STU1602,Arjun Khan,Male,BSc IT,2,52.2,42.1,82.7,5.1,2,6.4,80.8,55.0,71.4,High
+STU1603,Aditya Jadhav,Male,BSc IT,4,78.1,80.9,95.4,7.1,0,3.1,79.3,71.0,94.2,High
+STU1604,Riya Singh,Female,BCom,4,82.0,65.3,77.1,6.97,2,5.2,60.1,35.9,52.0,High
+STU1605,Riya Joshi,Female,BCA,4,51.8,35.7,84.4,7.15,1,4.4,57.2,74.6,74.2,High
+STU1606,Diya Kulkarni,Male,BBA,1,65.2,59.2,83.0,6.91,3,5.2,61.5,77.7,36.9,High
+STU1607,Akash Yadav,Female,BSc IT,1,51.8,71.4,97.5,4.89,1,2.0,86.7,41.0,100.0,High
+STU1608,Riya Khan,Female,BCom,2,58.5,58.7,36.9,4.82,0,2.1,60.8,53.3,70.4,High
+STU1609,Vishal Sharma,Female,BSc CS,4,80.3,59.6,84.0,3.48,1,3.5,66.2,69.2,56.7,High
+STU1610,Diya Jadhav,Male,BSc IT,1,61.0,44.4,89.7,8.03,1,0.7,58.6,65.8,59.0,High
+STU1611,Riya Verma,Female,BBA,2,67.5,73.1,47.9,8.04,0,3.0,75.6,75.8,54.8,High
+STU1612,Arjun Pawar,Female,BCA,6,47.6,53.6,56.1,8.07,0,4.0,67.3,65.9,55.8,High
+STU1613,Sahil Shah,Female,BSc IT,2,74.8,29.5,56.7,7.26,1,6.7,49.9,87.0,16.1,High
+STU1614,Varun Kulkarni,Male,BSc IT,4,71.3,58.1,58.9,3.6,0,4.2,50.5,63.2,63.0,High
+STU1615,Varun Yadav,Female,BCom,3,61.1,79.7,63.3,5.26,0,4.6,35.0,53.3,62.2,High
+STU1616,Karan Yadav,Male,BSc CS,4,69.2,57.8,76.4,7.06,0,5.6,52.5,52.0,74.8,High
+STU1617,Isha More,Female,BSc CS,3,74.7,91.8,87.6,7.0,3,1.8,76.9,79.0,54.5,High
+STU1618,Vishal Deshmukh,Male,BCA,2,59.8,70.9,91.5,6.47,1,3.2,84.9,68.4,49.6,High
+STU1619,Aryan Kulkarni,Female,BBA,6,49.9,69.4,56.9,7.35,0,7.9,75.3,77.5,64.8,High
+STU1620,Isha Khan,Female,BCA,6,99.1,61.9,56.8,6.82,1,3.4,73.3,77.2,32.8,Medium
+STU1621,Varun Joshi,Male,BSc IT,1,62.5,62.9,95.7,,1,5.5,63.1,37.7,67.9,High
+STU1622,Riya Jadhav,Male,BSc IT,6,70.5,59.8,83.6,5.84,0,5.2,76.6,50.9,27.8,High
+STU1623,Arjun Gupta,Male,BSc CS,5,87.2,59.2,73.5,8.27,0,0.8,69.3,52.7,87.4,High
+STU1624,Amit Jadhav,Female,BBA,2,100.0,72.5,80.5,6.15,1,4.1,92.1,55.8,78.7,High
+STU1625,Sneha Kulkarni,Female,BCom,1,53.3,49.0,71.5,4.8,0,3.8,63.5,61.7,46.5,High
+STU1626,Isha Sharma,Female,BBA,6,78.7,46.8,81.4,5.64,1,4.1,85.1,83.0,78.2,High
+STU1627,Vishal Shah,Female,BSc IT,2,61.4,46.0,66.0,6.28,0,2.1,78.1,86.0,67.2,High
+STU1628,Riya Khan,Male,BCom,4,63.9,96.7,76.8,8.29,0,1.5,76.0,63.6,44.8,Medium
+STU1629,Akash Shah,Female,BBA,6,61.2,72.5,44.8,6.74,3,2.6,34.8,64.2,24.5,High
+STU1630,Riya Kulkarni,Female,BBA,3,55.1,68.9,59.6,6.52,0,3.3,78.9,57.4,71.3,High
+STU1631,Isha Joshi,Female,BCom,2,71.4,47.1,59.8,4.93,1,5.6,63.1,69.3,49.1,High
+STU1632,Amit More,Female,BSc IT,1,49.9,74.0,65.3,7.98,0,6.8,58.3,71.0,86.9,Medium
+STU1633,Diya Patil,Female,BBA,4,86.2,62.1,55.3,5.82,0,6.0,42.8,80.1,65.3,High
+STU1634,Isha Deshmukh,Female,BCom,5,72.8,67.4,62.4,6.65,0,5.0,64.9,80.0,51.0,Medium
+STU1635,Riya Singh,Female,BSc IT,4,78.3,48.4,44.7,9.02,0,1.7,65.5,33.5,100.0,Medium
+STU1636,Isha Jadhav,Male,BCom,6,65.0,66.6,81.9,7.56,0,2.8,45.5,65.7,76.5,Medium
+STU1637,Sahil Deshmukh,Female,BCom,3,66.5,57.2,70.5,4.36,0,3.9,42.9,88.8,10.0,High
+STU1638,Sneha Kulkarni,Female,BBA,4,76.3,51.8,41.3,4.15,1,2.4,72.3,61.4,55.3,High
+STU1639,Neha Yadav,Female,BSc IT,5,54.5,75.7,57.0,6.7,1,4.5,78.1,85.1,37.3,High
+STU1640,Kavya Kulkarni,Female,BBA,1,66.6,39.4,78.1,4.98,0,4.8,67.9,63.4,49.0,High
+STU1641,Tanvi Gupta,Male,BCA,2,59.1,73.0,62.2,7.77,2,4.5,82.3,70.6,62.1,High
+STU1642,Ananya Joshi,Male,BCA,3,58.6,75.0,59.5,6.86,0,5.3,63.7,50.9,72.1,High
+STU1643,Ananya Yadav,Male,BSc IT,5,40.4,49.9,70.7,7.05,0,1.9,64.2,51.5,70.2,High
+STU1644,Neha Sharma,Male,BCom,6,92.1,50.9,78.2,5.74,1,5.2,51.2,78.9,86.6,High
+STU1645,Isha Deshmukh,Male,BBA,6,61.7,60.4,46.1,9.41,0,2.2,41.6,81.2,77.7,High
+STU1646,Isha Joshi,Male,BBA,6,89.5,68.5,81.9,10.0,0,1.8,92.8,68.4,76.5,Low
+STU1647,Akash Sharma,Female,BSc IT,3,88.0,61.6,57.6,6.38,0,4.5,82.0,49.6,69.0,High
+STU1648,Aditya Jadhav,Male,BSc IT,4,52.7,,71.7,7.33,2,5.7,44.1,68.7,90.7,High
+STU1649,Aarav Jadhav,Male,BCA,3,55.7,92.2,71.4,6.95,1,4.4,67.3,86.9,58.7,High
+STU1650,Rahul Pawar,Female,BSc CS,6,100.0,55.9,62.5,6.41,0,3.5,63.5,94.1,59.2,Medium
+STU1651,Rohan Jadhav,Male,BSc IT,5,98.3,36.6,53.6,5.55,0,4.1,60.9,63.2,26.9,High
+STU1652,Neha Singh,Female,BSc CS,2,71.5,77.2,66.9,5.17,2,3.7,58.9,43.1,86.1,High
+STU1653,Neha Kulkarni,Female,BSc IT,2,75.9,90.9,100.0,5.1,1,1.5,70.7,80.6,63.5,High
+STU1654,Rohan Shah,Male,BCom,3,62.5,70.3,47.5,7.41,0,1.3,77.3,63.9,100.0,High
+STU1655,Varun Verma,Female,BCom,6,78.5,46.6,100.0,6.02,0,3.4,71.0,82.1,56.9,High
+STU1656,Vishal Deshmukh,Male,BCA,1,61.2,62.0,67.3,2.93,0,3.6,63.2,72.2,66.8,High
+STU1657,Diya Gupta,Male,BCA,3,41.5,46.1,72.6,7.47,0,3.5,62.6,54.7,75.9,High
+STU1658,Varun Singh,Female,BSc CS,6,52.2,74.3,52.4,6.74,2,4.7,79.1,68.9,43.0,High
+STU1659,Vishal Shah,Female,BSc IT,4,72.3,42.4,58.1,8.82,0,3.1,72.0,87.6,72.2,High
+STU1660,Varun Joshi,Male,BBA,2,55.0,59.2,62.9,7.36,0,4.5,66.1,65.8,65.7,Medium
+STU1661,Aryan More,Female,BCA,2,71.0,47.9,53.2,4.58,2,3.2,64.5,52.5,58.9,High
+STU1662,Amit Singh,Female,BBA,2,55.9,66.0,68.2,3.46,1,6.8,70.2,44.2,88.5,High
+STU1663,Neha Deshmukh,Male,BBA,1,60.3,58.1,64.7,5.72,1,3.6,58.0,56.4,46.9,High
+STU1664,Akash Singh,Male,BSc IT,6,84.8,66.8,100.0,5.86,0,7.7,77.3,61.8,70.5,Medium
+STU1665,Neha Patil,Female,BSc CS,6,75.7,64.4,51.0,8.21,1,4.1,48.9,80.3,94.1,High
+STU1666,Aditya Khan,Male,BSc IT,6,71.9,48.2,73.8,6.79,1,3.1,58.8,51.2,50.9,High
+STU1667,Isha Sharma,Male,BCA,6,85.2,74.0,76.5,8.5,0,1.9,74.2,91.3,59.1,Medium
+STU1668,Diya Pawar,Male,BBA,1,79.2,63.2,52.7,4.81,4,0.9,48.0,47.9,100.0,High
+STU1669,Arjun Singh,Male,BSc IT,5,93.7,48.2,84.4,8.25,2,1.7,41.4,100.0,74.5,High
+STU1670,Tanvi Sharma,Male,BSc IT,3,65.1,99.9,64.8,7.88,1,1.9,65.9,93.9,54.9,High
+STU1671,Neha Singh,Male,BSc IT,3,65.6,71.6,27.1,3.77,0,4.2,39.6,70.1,81.1,High
+STU1672,Diya Yadav,Male,BCA,6,52.5,61.5,83.9,8.78,0,2.6,45.5,43.3,53.6,High
+STU1673,Karan Sharma,Female,BSc CS,4,65.6,86.6,51.9,6.94,0,3.8,76.3,67.2,33.7,High
+STU1674,Rahul Sharma,Male,BSc IT,2,86.5,93.5,53.1,7.39,0,5.8,61.9,62.2,92.4,Medium
+STU1675,Akash Jadhav,Female,BCA,1,91.5,61.7,84.4,5.5,1,3.3,84.3,48.9,42.9,High
+STU1676,Riya Yadav,Female,BBA,4,86.4,69.6,65.8,8.71,0,7.2,46.9,72.4,100.0,Medium
+STU1677,Sahil Deshmukh,Female,BCom,4,45.1,48.2,88.5,5.02,2,1.4,63.6,55.6,55.2,High
+STU1678,Vishal Jadhav,Male,BCA,6,88.2,61.6,93.8,8.05,0,3.2,71.0,57.3,100.0,Medium
+STU1679,Sneha Deshmukh,Male,BCom,1,44.4,60.8,60.4,8.03,0,2.5,47.4,64.9,37.6,High
+STU1680,Arjun Sharma,Female,BSc IT,3,85.5,67.0,86.3,5.34,1,5.2,80.5,59.4,85.5,High
+STU1681,Riya Sharma,Male,BSc IT,2,66.5,69.3,58.4,9.78,0,0.5,72.7,99.2,75.0,Medium
+STU1682,Diya Khan,Female,BCA,3,82.5,73.0,100.0,7.15,2,0.9,40.9,60.0,81.8,High
+STU1683,Vishal More,Male,BCom,4,52.0,67.8,59.5,7.78,4,3.3,64.4,74.6,84.4,High
+STU1684,Aarav Verma,Male,BSc IT,2,89.6,44.6,90.5,4.51,0,6.3,70.8,70.2,55.0,High
+STU1685,Aryan Gupta,Female,BBA,5,50.0,49.0,87.2,9.98,0,3.9,56.1,73.3,38.8,Medium
+STU1686,Sneha Kulkarni,Female,BSc CS,4,62.0,55.3,77.7,4.96,0,1.1,42.8,74.4,64.0,High
+STU1687,Karan Khan,Female,BSc CS,3,57.0,59.5,59.9,8.34,1,1.3,69.2,81.2,69.5,High
+STU1688,Isha Shah,Male,BSc IT,3,45.7,80.8,69.3,5.31,0,6.5,98.2,72.0,55.6,High
+STU1689,Ananya Sharma,Female,BCom,6,73.4,45.4,33.2,5.87,1,2.4,59.2,71.4,70.6,High
+STU1690,Isha Sharma,Male,BSc IT,3,99.1,58.3,76.0,7.98,0,1.8,88.5,68.9,71.6,Medium
+STU1691,Varun Khan,Male,BCom,1,100.0,79.2,78.3,8.34,1,6.2,53.7,65.9,46.8,Medium
+STU1692,Aryan Pawar,Male,BBA,4,73.5,59.2,74.4,4.89,1,5.3,68.2,54.3,72.9,High
+STU1693,Isha Pawar,Female,BCom,2,88.8,71.4,20.0,8.44,0,5.8,76.6,67.1,59.7,High
+STU1694,Rahul Khan,Female,BSc IT,3,75.5,61.8,49.2,8.37,0,1.8,64.9,71.6,51.0,Medium
+STU1695,Riya Yadav,Female,BBA,6,79.5,68.1,58.5,5.39,0,0.8,60.5,74.0,80.7,High
+STU1696,Kavya Deshmukh,Male,BCA,6,66.9,60.3,77.2,9.2,0,3.7,75.9,70.7,49.5,Medium
+STU1697,Riya Deshmukh,Male,BSc CS,3,74.9,74.7,77.2,4.61,0,4.1,93.4,64.5,55.9,High
+STU1698,Aarav Jadhav,Female,BSc IT,1,80.1,39.3,68.9,5.86,0,4.2,69.5,67.1,66.4,High
+STU1699,Neha Yadav,Male,BSc IT,6,63.3,58.2,83.4,7.52,2,6.2,57.3,59.7,92.5,High
+STU1700,Neha Jadhav,Male,BSc IT,2,70.8,68.7,53.5,5.52,2,0.5,62.2,72.7,68.9,High
+STU1701,Diya Deshmukh,Female,BBA,4,71.1,72.5,83.0,7.2,2,,100.0,64.7,75.6,High
+STU1702,Rahul More,Female,BCA,5,84.4,87.9,80.5,7.16,0,1.5,67.0,70.7,59.0,Medium
+STU1703,Sahil Sharma,Female,BCom,1,56.0,57.7,78.8,6.52,1,5.0,56.1,83.0,63.4,High
+STU1704,Rahul Verma,Male,BCA,6,71.2,87.7,68.7,8.05,0,2.6,47.8,57.4,64.0,Medium
+STU1705,Aryan More,Male,BBA,4,100.0,53.5,100.0,6.46,0,2.0,37.6,77.0,70.9,High
+STU1706,Ananya Jadhav,Male,BSc IT,5,89.5,85.3,80.9,7.15,0,2.4,70.5,68.5,59.1,Medium
+STU1707,Riya Pawar,Male,BSc CS,3,92.2,77.1,54.6,8.52,0,0.9,74.8,98.3,91.8,Medium
+STU1708,Rahul Pawar,Male,BSc IT,3,72.4,49.4,76.5,7.99,0,3.6,59.0,64.8,57.5,High
+STU1709,Sneha Joshi,Female,BCom,2,76.8,68.9,85.5,7.98,0,2.1,64.8,78.4,30.9,High
+STU1710,Tanvi Patil,Male,BSc CS,5,87.0,63.2,61.4,5.08,3,4.9,47.4,68.2,100.0,High
+STU1711,Aditya Joshi,Male,BSc IT,3,95.4,74.0,91.6,7.59,0,4.7,67.0,47.2,58.5,Low
+STU1712,Aarav Joshi,Male,BSc CS,3,42.7,60.4,78.9,5.48,2,6.5,72.2,60.2,91.3,High
+STU1713,Tanvi Gupta,Female,BCA,6,52.3,59.1,29.8,4.88,0,4.2,57.0,81.2,93.1,High
+STU1714,Varun More,Female,BBA,2,91.6,85.9,77.4,6.69,0,4.4,90.4,61.5,83.9,High
+STU1715,Diya Joshi,Female,BSc IT,4,67.8,62.4,64.7,5.44,0,6.0,52.4,34.7,61.0,High
+STU1716,Sneha Sharma,Male,BCom,3,61.9,77.2,81.7,7.99,1,2.4,69.3,67.5,70.7,High
+STU1717,Neha Verma,Female,BCA,1,53.2,60.4,89.0,8.02,0,0.8,77.7,51.6,39.5,High
+STU1718,Varun Shah,Female,BSc IT,1,63.7,90.7,75.5,3.95,0,3.9,63.8,70.0,100.0,High
+STU1719,Aryan Patil,Female,BCA,4,51.0,53.1,100.0,5.56,0,0.9,62.2,91.3,48.0,High
+STU1720,Isha Verma,Male,BCom,5,100.0,54.2,68.8,4.61,0,7.9,43.6,79.5,59.9,High
+STU1721,Aditya Yadav,Female,BSc IT,2,71.7,88.4,83.2,6.11,1,6.1,85.4,91.0,67.0,High
+STU1722,Kavya Deshmukh,Male,BCom,6,71.1,56.9,86.5,7.48,0,7.4,62.5,59.6,62.9,High
+STU1723,Karan Kulkarni,Male,BSc CS,1,80.8,89.6,70.2,6.44,0,3.6,73.1,65.9,51.9,High
+STU1724,Tanvi Yadav,Female,BCom,1,86.4,78.3,86.0,5.92,2,4.5,75.1,52.3,92.9,High
+STU1725,Isha Shah,Male,BSc CS,4,86.2,61.5,61.3,8.75,0,2.7,55.6,57.7,84.0,High
+STU1726,Aryan More,Female,BSc IT,5,88.1,35.0,64.4,3.34,1,5.1,62.0,54.1,71.4,High
+STU1727,Akash Joshi,Male,BSc CS,5,62.5,63.7,48.4,8.66,1,1.3,85.0,48.4,57.0,High
+STU1728,Arjun Khan,Female,BSc IT,4,67.5,65.6,76.3,5.98,3,0.5,48.2,88.5,86.3,High
+STU1729,Aditya Deshmukh,Female,BSc IT,1,83.5,82.7,77.9,6.68,0,2.1,96.9,36.6,55.7,Medium
+STU1730,Arjun Yadav,Female,BBA,2,64.1,89.4,93.2,6.01,1,0.9,53.8,88.6,96.4,High
+STU1731,Sahil Kulkarni,Male,BSc IT,1,71.9,53.0,86.2,9.11,0,,47.3,86.7,67.2,Medium
+STU1732,Diya Patil,Female,BSc CS,5,78.0,76.8,66.9,4.95,1,6.8,67.0,75.5,89.6,High
+STU1733,Sneha Shah,Male,BBA,6,83.8,76.2,50.8,6.82,0,1.0,98.1,51.3,62.7,High
+STU1734,Neha Yadav,Female,BBA,1,45.3,81.2,79.8,7.59,0,5.8,36.3,44.3,66.4,High
+STU1735,Kavya Sharma,Male,BSc IT,2,82.7,72.0,92.0,4.38,2,5.2,62.9,59.8,89.5,High
+STU1736,Rahul Verma,Male,BCom,3,68.5,32.9,85.6,5.42,0,0.7,72.1,77.4,100.0,High
+STU1737,Ananya Gupta,Female,BCom,1,82.6,61.5,91.5,6.58,2,2.8,65.5,68.0,96.2,High
+STU1738,Sneha Shah,Female,BBA,4,83.7,45.5,68.2,5.47,2,2.5,70.7,52.3,82.5,High
+STU1739,Arjun More,Female,BSc IT,3,96.1,60.8,63.6,5.58,0,4.8,54.2,85.2,76.8,High
+STU1740,Kavya Patil,Female,BCom,4,92.3,79.7,58.7,6.28,0,1.3,56.0,93.3,54.9,High
+STU1741,Amit Yadav,Female,BSc IT,4,92.2,68.9,71.0,7.77,0,3.3,62.8,64.6,70.9,High
+STU1742,Rahul Pawar,Male,BSc IT,4,93.7,82.4,70.6,6.29,4,2.3,48.1,69.6,46.7,High
+STU1743,Isha Gupta,Female,BBA,1,76.4,69.5,75.7,8.42,0,4.4,64.3,45.4,72.5,Medium
+STU1744,Arjun Verma,Female,BBA,5,72.5,43.2,69.7,5.3,1,3.1,59.2,61.8,73.8,High
+STU1745,Neha Patil,Male,BCA,3,150.0,23.7,69.6,4.92,1,2.5,57.9,75.7,25.8,High
+STU1746,Akash Yadav,Female,BCom,2,83.0,66.4,58.0,9.69,3,3.1,69.8,73.3,65.8,High
+STU1747,Neha Shah,Female,BCom,5,67.4,60.6,88.9,5.81,1,7.2,37.7,60.4,73.3,High
+STU1748,Diya Khan,Male,BCom,1,78.1,48.4,73.4,4.83,1,2.7,61.6,63.9,63.3,High
+STU1749,Sahil Verma,Female,BSc CS,4,71.5,36.8,68.9,4.19,0,1.6,99.8,61.3,72.2,High
+STU1750,Amit More,Female,BSc IT,2,59.2,52.2,58.5,8.41,0,4.6,48.7,63.8,38.2,High
+STU1751,Aarav Jadhav,Female,BBA,3,91.4,60.9,48.0,6.29,0,3.2,84.3,74.3,49.5,Medium
+STU1752,Aryan Patil,Male,BCom,5,72.8,74.7,95.5,6.42,2,1.0,65.8,38.5,85.7,High
+STU1753,Ananya Pawar,Female,BCA,6,100.0,67.0,82.0,6.56,1,7.5,56.0,66.9,65.0,Medium
+STU1754,Amit Gupta,Male,BCom,5,47.6,89.7,42.8,8.32,1,2.9,45.2,73.2,71.8,Medium
+STU1755,Aarav Sharma,Female,BSc IT,2,63.6,47.4,85.7,6.53,1,2.8,67.1,59.4,54.1,High
+STU1756,Rohan Joshi,Male,BSc IT,1,72.5,78.1,88.6,10.0,0,3.8,86.8,60.8,65.4,Medium
+STU1757,Varun Deshmukh,Female,BBA,3,89.1,64.8,74.2,7.0,0,6.6,59.2,61.2,19.0,Medium
+STU1758,Karan More,Male,BSc CS,2,78.0,75.1,100.0,8.39,0,0.5,63.8,60.8,81.9,Medium
+STU1759,Tanvi More,Male,BBA,4,76.7,57.0,75.9,8.01,0,4.0,80.2,68.1,100.0,Medium
+STU1760,Akash Khan,Male,BCom,3,55.1,81.1,46.5,6.75,1,7.3,70.1,69.9,43.7,High
+STU1761,Rohan Khan,Male,BCA,5,54.6,68.7,78.6,5.92,0,3.7,41.4,36.5,46.2,High
+STU1762,Kavya Sharma,Male,BBA,2,76.8,53.1,76.4,7.3,1,1.3,66.5,77.8,73.8,High
+STU1763,Sneha Singh,Male,BSc CS,5,51.5,63.8,61.1,7.57,1,2.4,87.7,63.7,94.5,High
+STU1764,Ananya Jadhav,Female,BBA,5,64.0,60.2,82.3,5.94,0,3.9,64.4,97.0,65.0,High
+STU1765,Aditya Joshi,Female,BSc IT,5,79.5,71.8,42.0,7.05,0,5.9,23.9,50.1,40.4,High
+STU1766,Neha Singh,Male,BCom,1,57.3,45.1,89.8,8.65,0,2.9,70.8,55.0,60.8,High
+STU1767,Aarav Joshi,Male,BCom,5,96.1,63.5,56.2,9.9,0,5.0,62.0,65.0,44.4,Medium
+STU1768,Sneha Deshmukh,Male,BCom,4,90.4,70.3,54.3,8.08,1,0.9,37.6,74.2,51.6,High
+STU1769,Tanvi Gupta,Male,BCom,4,48.4,64.5,70.0,9.59,0,0.9,39.8,38.7,58.9,High
+STU1770,Akash Khan,Female,BCom,3,58.0,85.6,79.8,5.86,2,2.6,79.6,55.6,46.4,High
+STU1771,Rahul Joshi,Male,BCom,6,37.7,76.4,75.0,7.85,1,6.1,54.0,76.9,49.4,High
+STU1772,Riya Singh,Female,BCA,5,60.3,63.9,58.6,8.81,0,3.6,51.4,53.8,66.5,High
+STU1773,Kavya Khan,Female,BSc CS,5,83.5,67.5,62.9,5.46,1,4.0,64.5,88.6,69.3,High
+STU1774,Karan Yadav,Male,BCom,2,65.8,68.7,51.6,6.07,1,4.0,55.3,61.2,36.5,High
+STU1775,Tanvi Singh,Male,BSc CS,1,78.9,70.5,68.0,9.41,1,5.5,66.5,54.5,72.9,High
+STU1776,Rohan Gupta,Female,BCom,6,49.2,34.8,91.4,5.34,0,2.4,62.0,77.2,57.4,High
+STU1777,Karan Gupta,Female,BBA,3,84.0,59.2,71.9,4.79,0,4.7,47.0,92.1,79.4,High
+STU1778,Ananya Verma,Male,BCom,6,63.7,40.2,87.5,9.09,0,2.0,57.3,74.2,80.6,Medium
+STU1779,Ananya Yadav,Male,BSc IT,5,72.2,84.5,98.2,8.6,0,7.1,71.6,86.9,54.1,Medium
+STU1780,Arjun Joshi,Male,BCA,2,70.6,63.0,61.4,7.45,1,2.1,65.6,93.1,77.3,High
+STU1781,Tanvi More,Female,BBA,1,52.9,60.9,68.6,6.73,1,1.9,63.8,54.2,48.3,High
+STU1782,Isha Sharma,Female,BBA,3,54.7,78.3,100.0,6.14,3,4.5,94.1,82.1,91.5,High
+STU1783,Rahul Khan,Male,BSc IT,6,86.5,70.8,98.0,7.22,0,3.6,76.0,45.1,49.0,Medium
+STU1784,Rohan Kulkarni,Female,BCom,3,78.0,45.9,41.9,9.17,0,4.1,77.8,74.4,72.1,High
+STU1785,Vishal Sharma,Female,BCA,5,87.8,62.9,79.0,7.16,1,3.9,62.5,66.9,61.2,High
+STU1786,Rahul Singh,Male,BBA,3,76.9,58.6,72.0,10.0,0,1.5,68.3,86.6,44.7,Medium
+STU1787,Amit Gupta,Male,BCA,2,74.1,36.1,86.9,5.45,0,6.4,58.5,85.6,83.0,High
+STU1788,Ananya Shah,Female,BBA,3,46.1,53.0,58.6,6.77,0,5.1,76.7,76.5,52.7,High
+STU1789,Sneha Deshmukh,Female,BCom,4,67.9,61.1,56.9,6.24,0,5.9,63.3,72.5,31.0,High
+STU1790,Aditya Deshmukh,Male,BBA,2,71.6,62.2,59.8,5.17,1,2.5,68.3,75.6,10.0,High
+STU1791,Varun Yadav,Male,BBA,6,100.0,40.3,61.7,6.57,0,4.2,67.4,68.9,47.5,High
+STU1792,Karan Patil,Male,BSc CS,1,82.3,82.4,86.7,7.43,1,3.9,64.7,67.1,92.5,Medium
+STU1793,Rahul Yadav,Male,BCom,1,95.0,62.4,50.7,7.59,2,5.5,100.0,89.6,90.2,High
+STU1794,Sneha Gupta,Male,BSc IT,5,81.0,64.6,60.8,10.0,0,5.6,55.0,91.4,50.6,Medium
+STU1795,Riya More,Female,BSc IT,5,61.3,70.4,39.8,7.5,3,3.8,54.9,65.9,57.5,High
+STU1796,Neha Khan,Female,BCom,4,73.8,51.4,90.1,8.53,0,0.8,75.4,71.6,55.7,High
+STU1797,Aryan Joshi,Female,BSc IT,6,75.5,71.3,94.9,6.9,3,6.7,56.1,69.2,38.3,High
+STU1798,Varun Sharma,Female,BCom,1,57.9,58.1,66.1,9.32,0,4.5,60.6,43.8,46.0,Medium
+STU1799,Akash Deshmukh,Male,BSc IT,1,66.2,49.7,66.6,10.0,1,2.4,48.7,63.0,84.6,High
+STU1800,Rohan Patil,Male,BSc CS,1,68.9,73.2,80.2,7.6,0,4.2,72.4,92.0,75.1,High
+STU1801,Kavya Joshi,Male,BSc IT,1,96.1,87.9,98.5,5.31,1,0.8,72.6,56.8,70.5,High
+STU1802,Varun Deshmukh,Female,BBA,3,40.8,75.6,79.4,5.98,1,5.4,60.3,99.7,38.3,High
+STU1803,Sneha Yadav,Female,BCom,6,90.1,78.8,59.4,7.22,0,0.9,75.7,85.6,67.0,Medium
+STU1804,Tanvi Jadhav,Female,BCA,2,57.9,55.7,42.9,7.48,2,3.1,37.1,74.0,18.9,High
+STU1805,Varun Gupta,Male,BCA,2,51.4,38.4,51.9,7.85,0,3.9,54.4,76.4,81.9,High
+STU1806,Aryan Gupta,Female,BCom,4,89.7,87.8,73.3,7.49,0,5.4,62.5,54.2,70.2,Medium
+STU1807,Diya More,Male,BSc CS,3,83.0,96.9,60.2,6.81,1,3.7,47.4,64.0,38.1,High
+STU1808,Ananya Sharma,Male,BSc IT,1,90.8,88.7,75.5,5.85,1,4.6,38.8,89.6,97.3,High
+STU1809,Ananya Joshi,Male,BSc CS,1,84.0,58.6,62.0,7.4,0,3.4,60.4,58.8,29.1,High
+STU1810,Varun Khan,Male,BCA,5,100.0,45.5,53.0,9.58,0,3.4,75.4,83.9,75.6,Medium
+STU1811,Aditya Khan,Male,BCom,5,80.4,46.9,50.8,8.33,3,3.7,84.2,47.3,76.1,High
+STU1812,Rahul More,Male,BCom,4,69.7,37.1,100.0,7.6,1,3.2,56.8,50.0,40.2,High
+STU1813,Kavya Pawar,Female,BSc CS,1,77.1,62.3,88.0,8.34,0,0.5,76.0,96.5,64.2,Medium
+STU1814,Ananya Sharma,Male,BSc CS,4,90.7,,100.0,6.24,0,2.1,74.5,67.8,32.3,Medium
+STU1815,Vishal Shah,Male,BSc IT,3,60.3,61.7,81.7,6.04,3,3.9,83.3,59.9,10.0,High
+STU1816,Riya Verma,Female,BBA,2,62.2,68.8,64.3,5.68,1,3.1,59.7,88.4,43.6,High
+STU1817,Neha Singh,Male,BBA,1,67.4,86.0,95.8,6.61,2,3.2,38.0,86.7,52.7,High
+STU1818,Sneha Yadav,Female,BSc IT,6,40.4,57.5,71.4,6.17,0,2.9,66.1,81.8,77.9,High
+STU1819,Varun Verma,Female,BBA,3,74.1,96.6,76.0,8.61,1,1.9,49.8,59.5,66.3,Medium
+STU1820,Sahil More,Female,BCA,1,43.7,95.9,71.2,6.09,1,2.6,54.1,63.7,66.9,High
+STU1821,Neha Joshi,Male,BBA,6,72.8,61.9,20.0,5.6,0,2.9,60.5,72.7,44.7,High
+STU1822,Arjun Pawar,Male,BSc IT,5,85.0,54.8,100.0,9.71,1,3.5,59.9,78.4,54.4,Medium
+STU1823,Amit Singh,Female,BBA,4,64.8,75.2,80.8,6.12,1,4.2,67.1,60.4,46.4,High
+STU1824,Kavya Sharma,Male,BCom,5,97.2,58.4,77.9,7.03,0,3.2,75.5,70.6,40.5,Medium
+STU1825,Rohan Khan,Male,BSc CS,2,50.1,45.5,70.9,7.48,2,1.6,59.5,72.0,53.1,High
+STU1826,Kavya Shah,Female,BCA,5,89.9,84.5,74.9,5.09,2,1.0,70.9,87.3,66.5,High
+STU1827,Varun Patil,Female,BCom,1,82.1,83.5,61.2,8.65,2,8.2,65.2,79.3,53.5,High
+STU1828,Sneha Yadav,Male,BCom,6,46.3,66.5,83.1,7.76,2,1.5,79.0,45.4,58.5,High
+STU1829,Riya Khan,Female,BSc IT,5,100.0,43.8,48.5,9.14,0,2.6,62.2,64.8,78.9,High
+STU1830,Tanvi More,Female,BSc CS,1,71.0,44.3,75.3,5.78,0,4.4,63.8,54.1,55.0,High
+STU1831,Varun Joshi,Female,BSc CS,2,58.8,65.7,82.1,6.95,2,4.1,59.4,76.5,38.3,High
+STU1832,Aryan Deshmukh,Male,BCA,6,50.9,56.0,68.4,6.86,0,4.4,62.6,81.8,76.3,High
+STU1833,Akash Shah,Male,BSc IT,5,68.7,58.5,78.7,7.2,0,2.7,53.2,69.5,70.3,High
+STU1834,Diya Joshi,Male,BCA,4,70.1,80.4,54.2,4.62,0,3.9,51.8,64.0,71.6,High
+STU1835,Rahul Sharma,Female,BBA,4,73.5,75.7,54.6,6.97,0,3.6,76.6,69.0,77.5,Medium
+STU1836,Sneha Sharma,Male,BCom,6,67.5,86.1,76.3,4.66,1,2.9,48.8,71.1,74.1,High
+STU1837,Aarav Jadhav,Female,BCA,4,81.5,48.2,84.2,7.34,0,3.9,60.2,58.4,65.6,Medium
+STU1838,Varun Singh,Male,BCom,5,66.2,58.5,38.3,3.61,0,5.4,80.2,49.7,100.0,High
+STU1839,Akash Khan,Male,BSc IT,5,43.0,76.1,81.4,4.02,3,3.5,59.7,37.2,39.3,High
+STU1840,Ananya Deshmukh,Female,BBA,6,69.8,71.2,62.2,8.03,1,3.5,77.4,87.0,53.3,High
+STU1841,Rohan Kulkarni,Male,BSc IT,5,36.5,88.5,68.5,5.98,1,5.4,56.1,75.4,84.3,High
+STU1842,Sahil Patil,Female,BBA,1,77.3,70.7,47.9,5.32,1,5.2,49.2,73.4,67.9,High
+STU1843,Kavya Yadav,Male,BBA,2,57.3,93.6,56.7,8.71,2,6.4,41.1,87.0,80.2,High
+STU1844,Karan Verma,Male,BCom,4,74.5,72.6,89.4,7.29,1,0.5,84.7,49.2,68.4,High
+STU1845,Sahil More,Female,BSc IT,1,91.7,81.0,72.6,8.11,1,5.1,47.9,42.0,92.5,High
+STU1846,Aditya Shah,Female,BSc IT,6,57.8,58.8,65.1,6.55,3,4.6,76.2,73.8,44.8,High
+STU1847,Akash Jadhav,Female,BCA,4,87.9,64.2,69.9,10.0,0,1.9,50.0,72.4,91.8,Medium
+STU1848,Rohan Yadav,Male,BSc IT,1,65.5,78.6,80.8,5.89,3,4.0,84.8,42.0,88.4,High
+STU1849,Varun Patil,Male,BCA,5,98.3,89.8,79.9,9.42,0,5.4,98.1,73.4,40.8,Low
+STU1850,Diya Verma,Male,BSc CS,6,66.5,75.7,70.6,6.71,0,2.0,39.7,62.0,77.6,High
+STU1851,Sneha Jadhav,Female,BSc CS,6,59.4,62.7,91.7,4.32,0,4.3,48.7,55.9,64.1,High
+STU1852,Aryan Kulkarni,Female,BSc CS,4,82.3,86.0,89.5,7.52,0,5.1,76.6,63.0,52.9,Medium
+STU1853,Aryan Yadav,Female,BSc IT,5,65.5,28.9,79.4,7.27,1,1.6,72.7,31.4,27.2,High
+STU1854,Aarav Joshi,Male,BSc IT,4,59.4,41.2,73.0,5.22,4,3.2,76.7,59.1,44.8,High
+STU1855,Ananya Sharma,Male,BCA,3,64.8,74.9,83.8,5.42,3,4.0,56.4,57.4,79.2,High
+STU1856,Rohan Gupta,Female,BBA,1,71.3,64.2,77.7,6.76,3,2.1,94.8,76.4,81.3,High
+STU1857,Rahul Jadhav,Male,BCA,3,92.1,73.7,91.1,7.32,0,1.9,66.8,65.6,60.8,Medium
+STU1858,Diya Gupta,Female,BSc CS,1,43.0,65.0,88.2,3.09,4,3.3,46.7,77.6,81.3,High
+STU1859,Isha Sharma,Male,BCA,2,72.3,73.1,53.7,8.38,0,4.9,61.2,29.8,83.9,Medium
+STU1860,Amit Yadav,Male,BBA,6,81.4,51.0,52.5,6.06,2,4.7,46.9,55.4,68.1,High
+STU1861,Aditya Jadhav,Female,BSc IT,4,74.9,73.1,59.4,4.8,0,1.9,88.9,76.3,50.6,High
+STU1862,Isha Patil,Male,BCA,2,91.6,79.9,89.6,8.21,0,4.7,55.1,63.4,73.8,High
+STU1863,Riya Kulkarni,Male,BSc CS,2,70.9,83.5,43.6,6.76,3,2.0,72.4,80.7,74.7,High
+STU1864,Amit Kulkarni,Female,BSc CS,6,69.2,96.2,79.1,8.62,3,0.6,57.9,40.9,78.5,High
+STU1865,Arjun Khan,Female,BSc IT,6,80.9,67.9,78.5,7.46,1,2.8,55.8,79.0,82.3,High
+STU1866,Akash Jadhav,Male,BCA,1,73.5,68.4,92.9,6.8,1,5.5,36.3,58.4,37.8,High
+STU1867,Akash Kulkarni,Female,BBA,3,66.1,39.6,75.2,6.57,0,4.7,74.0,57.0,54.8,High
+STU1868,Rahul Deshmukh,Male,BSc IT,5,79.7,55.5,47.8,7.52,1,3.5,84.5,82.9,27.0,High
+STU1869,Aditya Deshmukh,Female,BCA,1,62.2,60.9,54.7,6.18,1,2.7,51.3,85.4,79.9,High
+STU1870,Varun Khan,Male,BCom,5,62.8,80.8,50.7,5.52,0,2.8,41.8,83.5,60.8,High
+STU1871,Arjun Patil,Male,BSc CS,2,64.1,54.2,62.3,7.71,0,3.7,77.0,98.6,73.6,High
+STU1872,Diya Sharma,Female,BBA,5,92.3,76.7,68.7,6.58,0,1.6,40.3,87.0,35.5,High
+STU1873,Aditya Verma,Male,BBA,3,30.0,64.0,51.0,6.85,1,2.9,83.3,56.1,93.0,High
+STU1874,Sahil Singh,Male,BBA,1,77.9,61.2,98.5,8.43,0,3.1,51.4,70.1,41.1,Medium
+STU1875,Aditya Patil,Female,BSc CS,6,72.5,68.0,48.1,6.63,0,1.1,48.5,62.6,80.5,High
+STU1876,Rahul Jadhav,Female,BCA,3,46.8,57.7,96.2,6.82,0,2.0,68.7,98.4,67.4,High
+STU1877,Rohan More,Male,BSc IT,3,76.6,57.1,93.3,5.9,1,4.2,49.4,84.6,61.2,High
+STU1878,Aditya Pawar,Female,BCA,1,79.1,36.7,88.2,7.45,1,3.5,54.4,65.2,59.6,High
+STU1879,Akash Jadhav,Female,BSc IT,6,80.8,60.0,59.5,7.32,1,2.9,70.3,81.2,52.2,High
+STU1880,Riya Jadhav,Male,BBA,3,32.2,56.3,78.2,8.15,0,1.9,28.6,49.5,90.9,High
+STU1881,Aryan Gupta,Male,BCA,6,92.5,55.7,49.0,5.93,0,6.3,89.6,71.8,65.3,Medium
+STU1882,Aryan Sharma,Female,BBA,4,60.9,70.7,88.4,6.11,0,2.0,65.7,53.9,39.6,High
+STU1883,Sneha Shah,Female,BCom,4,82.3,74.5,70.7,7.99,2,4.0,45.6,42.7,57.3,High
+STU1884,Rahul Gupta,Female,BBA,4,83.1,67.7,64.6,7.18,0,2.6,49.7,79.8,67.6,Medium
+STU1885,Varun Gupta,Male,BBA,5,58.8,79.9,50.0,5.44,0,3.6,79.9,81.6,83.0,High
+STU1886,Varun Shah,Male,BSc IT,3,81.9,73.2,27.4,8.76,1,4.3,74.0,74.9,52.9,High
+STU1887,Sneha Pawar,Male,BCom,1,66.2,59.3,53.3,4.25,0,1.0,85.8,65.3,54.2,High
+STU1888,Karan Verma,Male,BBA,1,40.9,56.6,92.0,7.98,2,3.5,54.8,49.0,65.5,High
+STU1889,Amit Jadhav,Male,BBA,5,89.5,69.0,64.7,4.9,0,5.6,69.4,50.6,82.5,High
+STU1890,Vishal Joshi,Male,BCom,1,60.4,73.2,69.0,9.63,1,6.7,71.4,53.5,37.6,Medium
+STU1891,Tanvi Kulkarni,Male,BCom,4,59.2,86.4,83.8,4.48,0,3.3,75.4,64.5,75.1,High
+STU1892,Tanvi More,Female,BCA,3,66.0,83.1,100.0,8.53,0,3.6,81.9,84.1,55.7,Medium
+STU1893,Riya Joshi,Female,BSc IT,1,76.1,55.3,95.9,6.68,0,7.5,54.2,83.9,58.5,High
+STU1894,Rohan Singh,Male,BCom,1,71.1,62.4,54.5,6.25,2,5.5,63.3,43.3,100.0,High
+STU1895,Amit Deshmukh,Male,BCom,2,80.2,74.7,37.0,7.08,3,2.4,55.8,57.6,61.1,High
+STU1896,Diya Patil,Male,BSc CS,2,51.9,81.1,100.0,7.75,0,2.4,64.2,57.2,80.1,High
+STU1897,Neha Pawar,Female,BCom,2,60.9,79.0,100.0,5.44,2,5.2,75.5,30.0,79.4,High
+STU1898,Riya Patil,Male,BSc IT,3,70.3,63.0,75.4,5.58,1,1.7,40.2,76.5,41.4,High
+STU1899,Tanvi Jadhav,Female,BBA,4,100.0,43.9,49.1,7.77,3,5.5,81.6,64.3,28.1,High
+STU1900,Aditya Khan,Female,BBA,6,70.3,48.0,89.3,4.24,2,4.1,47.9,66.3,81.4,High
+STU1901,Isha More,Female,BBA,4,88.3,,70.1,5.92,0,4.4,60.4,88.2,43.3,Medium
+STU1902,Sneha Shah,Female,BBA,4,72.6,69.5,70.0,10.0,1,3.0,83.7,69.3,31.7,Medium
+STU1903,Sneha Verma,Female,BSc CS,3,64.7,46.4,88.1,5.35,0,,69.9,61.5,85.5,High
+STU1904,Tanvi Singh,Male,BCom,3,68.3,64.7,78.0,8.52,0,6.1,70.1,76.6,44.6,Medium
+STU1905,Arjun Sharma,Male,BBA,2,69.5,74.1,50.7,5.92,0,3.1,47.3,83.9,49.5,High
+STU1906,Tanvi Jadhav,Female,BCA,1,81.1,45.6,66.2,7.56,3,2.8,49.3,72.4,100.0,High
+STU1907,Isha Singh,Male,BBA,5,92.6,81.7,83.9,7.78,3,3.4,79.1,78.3,31.8,High
+STU1908,Ananya More,Female,BCom,5,77.4,58.0,81.2,8.49,1,3.8,56.2,65.8,39.9,Medium
+STU1909,Kavya Shah,Female,BBA,6,89.8,84.1,76.7,6.5,4,1.6,57.6,66.8,55.8,High
+STU1910,Aarav Khan,Male,BSc CS,1,57.5,55.5,88.8,9.78,2,2.5,79.5,69.7,60.2,High
+STU1911,Varun Shah,Male,BSc IT,6,65.8,47.6,65.5,5.92,0,2.4,49.3,56.7,47.1,High
+STU1912,Aditya More,Male,BSc IT,2,61.1,56.7,75.2,7.15,0,5.0,69.0,59.5,41.8,High
+STU1913,Amit Joshi,Male,BCom,6,76.7,62.5,20.0,7.17,0,1.9,65.6,88.7,95.2,High
+STU1914,Tanvi Yadav,Male,BSc IT,1,66.6,57.8,63.9,5.12,0,0.5,65.0,98.1,70.3,High
+STU1915,Rahul Yadav,Female,BSc IT,1,82.9,60.5,85.8,6.37,0,0.5,57.2,91.9,76.7,High
+STU1916,Sneha Singh,Male,BCA,5,58.0,69.3,65.0,7.04,0,0.9,56.3,48.2,62.3,High
+STU1917,Sahil Jadhav,Male,BCom,2,72.6,61.3,63.6,6.15,2,6.0,48.8,46.7,70.8,High
+STU1918,Neha Yadav,Male,BCom,3,82.3,62.9,53.3,10.0,2,3.5,72.2,50.1,83.7,Medium
+STU1919,Ananya Sharma,Female,BSc IT,6,41.0,36.7,90.1,5.54,1,4.4,55.0,70.0,45.1,High
+STU1920,Aarav More,Male,BSc IT,5,100.0,70.3,81.9,8.57,3,4.5,79.5,25.9,70.3,High
+STU1921,Karan Pawar,Female,BSc IT,6,67.8,62.6,86.9,8.08,0,3.6,61.6,59.2,78.9,Medium
+STU1922,Kavya Deshmukh,Male,BSc CS,6,41.6,89.8,40.9,6.78,2,3.4,49.1,89.1,95.9,High
+STU1923,Ananya Sharma,Male,BBA,3,74.4,49.0,69.1,5.5,0,5.4,61.4,82.7,100.0,High
+STU1924,Neha Khan,Female,BSc CS,2,72.5,35.1,67.0,5.65,0,3.8,58.8,60.4,66.4,High
+STU1925,Sneha Joshi,Male,BCom,1,70.8,73.9,66.9,6.02,2,6.0,80.1,61.5,87.8,High
+STU1926,Rohan Shah,Male,BCA,4,86.9,69.5,60.9,4.12,0,4.6,59.5,76.5,11.6,High
+STU1927,Isha Gupta,Female,BBA,6,83.2,47.9,65.8,5.29,0,2.4,60.9,82.0,96.0,High
+STU1928,Vishal Yadav,Male,BCA,4,76.5,39.5,87.3,4.58,0,2.6,86.2,60.0,50.5,High
+STU1929,Varun More,Female,BCom,2,78.8,88.6,37.6,8.82,1,2.2,72.6,64.5,60.2,Medium
+STU1930,Ananya Verma,Female,BCom,4,70.4,86.6,100.0,7.73,4,5.7,89.9,59.5,73.8,High
+STU1931,Sneha Gupta,Female,BCA,6,98.6,24.2,80.7,7.98,0,2.8,83.9,48.0,61.9,High
+STU1932,Sahil Pawar,Female,BCA,3,49.8,56.7,71.2,7.68,2,2.1,51.7,64.7,68.9,High
+STU1933,Isha Yadav,Female,BCA,4,74.1,90.6,88.3,7.05,0,4.1,79.8,63.6,96.8,Medium
+STU1934,Rohan Patil,Male,BCom,2,73.0,56.4,45.9,8.99,0,3.3,87.9,49.1,57.3,High
+STU1935,Riya Yadav,Male,BSc IT,2,84.2,56.2,60.0,5.88,0,4.0,88.0,77.7,43.3,High
+STU1936,Neha Shah,Male,BCA,3,59.3,59.5,69.8,6.96,1,6.9,79.8,75.2,100.0,High
+STU1937,Aryan Shah,Female,BBA,4,45.8,46.1,96.6,7.92,0,5.1,79.5,78.4,75.5,High
+STU1938,Rahul Patil,Female,BCom,4,74.4,36.7,71.2,,1,3.5,60.5,56.5,100.0,High
+STU1939,Ananya Deshmukh,Female,BSc CS,1,76.2,80.8,80.1,10.0,0,1.0,52.4,38.2,82.3,Medium
+STU1940,Amit Patil,Female,BSc CS,5,94.3,34.5,61.4,6.84,0,2.6,59.7,75.0,38.5,High
+STU1941,Sahil Shah,Male,BBA,2,52.9,68.0,80.8,7.01,1,4.8,40.0,58.0,77.9,High
+STU1942,Isha Singh,Male,BSc IT,1,89.3,78.2,100.0,8.69,0,1.4,85.1,54.6,45.3,Medium
+STU1943,Kavya Singh,Female,BCA,2,100.0,40.8,89.9,8.17,0,7.4,60.8,49.1,65.1,Medium
+STU1944,Aarav Joshi,Female,BCom,1,66.3,49.2,70.5,6.86,0,3.5,84.4,63.9,63.5,High
+STU1945,Rahul Pawar,Male,BCA,5,52.6,83.4,84.2,7.0,1,3.6,46.5,91.7,32.6,High
+STU1946,Rahul Deshmukh,Female,BCom,1,65.9,72.5,82.4,4.54,1,2.3,81.2,60.4,48.7,High
+STU1947,Aditya Shah,Female,BSc CS,2,72.2,54.1,81.1,5.97,0,4.4,57.6,51.7,100.0,High
+STU1948,Diya Pawar,Female,BCA,4,80.5,83.2,92.0,7.58,0,1.4,45.7,77.8,69.8,Medium
+STU1949,Amit Patil,Male,BBA,2,63.1,83.3,91.9,7.47,0,7.4,89.4,70.6,61.5,Medium
+STU1950,Akash More,Male,BSc IT,6,95.3,68.3,69.7,8.63,0,5.9,81.6,36.2,100.0,Medium
+STU1951,Arjun More,Female,BBA,3,55.3,49.6,83.6,6.62,2,5.3,68.2,77.9,57.1,High
+STU1952,Neha Gupta,Male,BSc IT,3,45.9,57.4,65.1,4.72,1,1.0,65.5,99.9,63.2,High
+STU1953,Diya Singh,Female,BCA,6,88.6,68.6,55.4,8.39,1,3.9,71.6,29.0,84.8,High
+STU1954,Aarav Joshi,Female,BCA,3,37.9,61.0,67.1,8.95,0,5.7,67.9,49.5,57.0,High
+STU1955,Kavya Yadav,Male,BSc IT,3,68.9,79.0,70.6,8.15,1,4.6,53.1,25.3,50.1,Medium
+STU1956,Rahul Shah,Female,BSc CS,5,100.0,39.5,42.1,6.55,2,1.7,58.8,66.9,19.9,High
+STU1957,Sneha Singh,Female,BCom,4,71.8,40.1,87.5,8.37,1,2.3,94.4,82.9,46.3,High
+STU1958,Karan Gupta,Male,BBA,4,55.2,66.9,22.2,10.0,1,2.7,100.0,69.6,46.1,High
+STU1959,Neha Gupta,Female,BBA,2,71.1,56.1,100.0,6.97,1,2.4,88.4,88.9,68.2,High
+STU1960,Karan Kulkarni,Female,BBA,6,71.2,54.0,99.0,4.83,1,6.3,72.2,80.5,52.8,High
+STU1961,Rahul Gupta,Female,BCA,1,74.4,35.7,67.3,5.92,0,0.5,59.9,93.5,100.0,High
+STU1962,Arjun Jadhav,Male,BBA,2,81.9,64.3,72.2,7.74,1,4.7,53.0,85.4,43.8,High
+STU1963,Aditya Singh,Female,BCom,2,56.4,63.2,77.5,4.39,0,1.2,54.0,62.0,93.0,High
+STU1964,Sneha Joshi,Male,BCom,2,97.3,74.5,61.4,7.05,1,1.8,56.7,69.0,69.4,High
+STU1965,Riya Verma,Female,BSc IT,2,75.7,65.1,75.5,7.37,2,0.5,97.3,55.0,81.1,High
+STU1966,Akash Shah,Female,BCA,4,82.9,61.9,69.4,9.1,2,2.5,92.1,64.5,79.9,High
+STU1967,Akash Singh,Female,BCom,1,62.6,82.8,70.3,8.77,0,6.2,76.2,68.9,20.6,Medium
+STU1968,Sneha More,Female,BSc CS,2,91.3,43.0,75.3,8.1,0,4.0,50.6,66.7,64.8,High
+STU1969,Vishal Jadhav,Male,BCA,4,68.1,72.6,48.4,3.56,0,1.3,78.4,88.1,59.8,High
+STU1970,Kavya Shah,Male,BCA,2,76.2,37.3,72.7,8.18,1,5.3,61.4,63.0,42.3,High
+STU1971,Amit Verma,Female,BCom,3,58.0,50.6,74.9,7.86,2,5.7,32.7,54.0,74.2,High
+STU1972,Arjun Sharma,Female,BSc CS,2,57.0,44.6,74.3,7.18,1,3.7,69.3,55.0,99.3,High
+STU1973,Vishal Pawar,Female,BSc IT,6,82.3,76.5,68.1,4.2,0,7.2,52.4,77.8,11.5,Medium
+STU1974,Sahil Sharma,Female,BCom,6,65.3,63.0,92.5,5.63,3,5.0,52.9,47.0,54.3,High
+STU1975,Diya More,Female,BSc CS,2,59.2,63.8,65.6,,4,4.7,61.2,65.0,40.1,High
+STU1976,Neha Khan,Female,BCA,5,62.4,46.3,76.1,3.78,0,2.1,57.5,87.9,66.4,High
+STU1977,Karan Khan,Female,BSc CS,3,82.5,59.2,95.4,6.8,1,4.6,64.5,72.4,58.5,High
+STU1978,Rohan Kulkarni,Female,BCA,1,62.6,51.8,70.6,5.6,1,3.9,63.8,66.9,52.9,High
+STU1979,Isha Patil,Male,BCom,2,70.2,70.1,75.9,10.0,1,4.4,36.9,67.5,78.8,Medium
+STU1980,Ananya Singh,Male,BCom,1,72.2,48.1,70.3,6.55,3,2.3,87.8,52.6,97.7,High
+STU1981,Aryan Gupta,Male,BBA,3,43.2,85.3,94.3,8.74,0,3.7,50.2,55.1,100.0,Medium
+STU1982,Aarav Pawar,Female,BBA,2,49.9,37.2,67.4,4.45,1,2.0,50.7,65.1,50.2,High
+STU1983,Aryan Joshi,Female,BBA,5,77.0,51.1,95.1,6.0,1,0.5,60.1,72.1,28.6,High
+STU1984,Neha Khan,Female,BCom,4,60.9,90.8,70.1,6.95,2,5.3,63.4,82.2,76.2,High
+STU1985,Amit Deshmukh,Male,BSc IT,5,87.9,57.0,56.5,5.44,2,0.8,86.9,69.4,97.2,High
+STU1986,Aryan Joshi,Female,BCom,5,86.5,43.0,84.2,6.17,3,3.7,69.0,88.3,81.3,High
+STU1987,Rohan Yadav,Male,BSc CS,4,82.8,67.5,66.5,6.47,0,4.1,73.5,92.1,97.1,Medium
+STU1988,Isha Khan,Female,BCom,4,99.3,56.4,83.2,6.45,2,4.1,69.1,79.9,60.5,High
+STU1989,Diya Sharma,Male,BCom,6,70.8,50.6,22.9,9.58,0,3.0,68.5,86.4,52.8,High
+STU1990,Diya Deshmukh,Male,BCA,4,81.7,46.5,72.1,7.37,0,4.0,69.6,53.1,67.3,High
+STU1991,Amit Jadhav,Male,BCA,2,63.2,100.0,63.7,7.52,0,4.3,36.0,50.8,58.4,High
+STU1992,Akash Deshmukh,Female,BCA,1,100.0,60.0,52.9,7.61,2,4.8,61.3,75.8,78.3,High
+STU1993,Isha Deshmukh,Male,BCom,6,100.0,33.2,62.0,7.72,4,6.6,82.4,47.9,84.4,High
+STU1994,Aditya Patil,Female,BSc IT,6,72.2,87.9,61.7,6.68,0,3.9,100.0,63.6,86.0,Medium
+STU1995,Rahul More,Female,BSc CS,1,77.8,73.8,71.1,6.32,0,3.6,46.9,79.6,75.2,Medium
+STU1996,Neha Verma,Female,BSc CS,6,92.4,51.7,47.4,7.05,2,1.9,71.3,89.2,69.9,High
+STU1997,Amit Verma,Female,BSc IT,4,69.8,49.1,77.7,12.0,1,4.3,56.4,64.2,80.9,High
+STU1998,Diya Shah,Female,BSc IT,5,62.2,74.8,96.6,8.49,3,4.7,95.7,58.3,25.7,High
+STU1999,Ananya Jadhav,Male,BSc CS,3,85.1,60.0,77.1,6.44,0,3.2,44.7,72.8,69.2,High
+STU2000,Vishal Patil,Female,BBA,4,73.2,33.2,86.6,7.95,0,4.5,74.4,51.9,66.0,High
+STU1861,Aditya Jadhav,Female,BSc IT,4,74.9,73.1,59.4,4.8,0,1.9,88.9,76.3,50.6,High
+STU0354,Diya Verma,Female,BCom,3,,55.9,62.8,8.79,3,2.7,64.1,73.2,32.5,High
+STU1334,Diya Shah,Male,BBA,4,72.9,51.8,60.0,6.62,0,0.8,60.1,67.7,64.1,High
+STU0906,Sneha Deshmukh,Male,BCom,4,52.2,51.5,78.4,5.99,1,2.9,87.4,73.8,36.1,High
+STU1290,Rahul Joshi,Male,BBA,3,88.7,98.4,67.2,6.79,0,6.1,86.0,50.6,51.0,Medium
+STU1274,Vishal Deshmukh,Male,BSc CS,1,31.9,42.2,75.3,5.71,0,1.4,60.6,94.6,39.7,High
+STU0939,Isha Deshmukh,Female,BBA,1,66.0,73.8,99.3,8.05,1,2.9,53.7,60.0,55.8,High
+STU1732,Diya Patil,Female,BSc CS,5,78.0,76.8,66.9,4.95,1,6.8,67.0,75.5,89.6,High
+STU0066,Rohan Kulkarni,Male,BSc CS,6,89.9,86.3,87.7,8.45,0,5.0,81.3,45.0,65.0,Medium
+STU1324,Diya Verma,Female,BBA,1,54.3,37.8,65.3,8.91,2,4.4,83.7,77.8,59.0,High
