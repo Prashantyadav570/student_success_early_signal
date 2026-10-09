@@ -5,7 +5,7 @@ An academic capstone project that helps identify students who may need additiona
 > **Live application:** [Open the Streamlit app] https://prashantyadav570-student-success-early-signal-pythonapp-vvpg2h.streamlit.app/ 
 > **GitHub repository:** https://github.com/Prashantyadav570/student_success_early_signal
 
-**Before publishing:** Replace `PASTE_YOUR_STREAMLIT_APP_URL_HERE` with your actual deployed Streamlit URL.
+
 
 ---
 
