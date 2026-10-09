@@ -1,5 +1,5 @@
 import streamlit as st
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine
 from sqlalchemy.engine import URL
 
 
@@ -19,7 +19,8 @@ def get_engine():
 
     engine = create_engine(
         connection_url,
-        pool_pre_ping=True
+        pool_pre_ping=True,
+        connect_args={"sslmode": "require"}
     )
 
     return engine
