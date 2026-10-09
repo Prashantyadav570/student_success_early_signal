@@ -101,8 +101,6 @@ The project dataset is stored in `Data/student_success_cleaned.csv`. The inspect
 - Practical marks and class participation
 - Risk-level label
 
-Ensure that you have permission to use and share the dataset. Avoid publishing real student names or other personal or sensitive information in a public repository. Use anonymized or synthetic data for public demonstrations when appropriate.
-
 ## Project Structure
 
 The repository includes the main Streamlit application, database connection helper, dataset, and model assets. The layout may evolve as the project is developed.
